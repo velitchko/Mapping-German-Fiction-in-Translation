@@ -462,6 +462,7 @@ lang_central <- c(lang_membership_central$lang_list)
 
 write.csv(lang_peripheral, file="alldnb_lang_lang_author_community_lang_peripheral_ch2.2_v2.csv")
 write.csv(lang_central, file="alldnb_lang_lang_author_community_lang_central_ch2.2_v2.csv")
+write.csv(lang_membership, file="alldnb_lang_lang_author_community_lang_membership_ch2.2_v2.csv")
 
 
 ###3. 2. ###Casestudy: Are central languages more likely to share canonical (overrepresented) authors?
