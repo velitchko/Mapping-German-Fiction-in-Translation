@@ -1,0 +1,7251 @@
+{
+  "meta": {
+    "minEdgeWeight": 5,
+    "topLanguages": 40,
+    "topAuthors": 200,
+    "edgeCount": 1113,
+    "nodeCount": 239
+  },
+  "nodes": [
+    {
+      "id": "Konsalik,HeinzG.",
+      "label": "Konsalik,HeinzG.",
+      "type": "author",
+      "totalWeight": 334,
+      "linkCount": 15
+    },
+    {
+      "id": "Svatek,KurtF.",
+      "label": "Svatek,KurtF.",
+      "type": "author",
+      "totalWeight": 17,
+      "linkCount": 2
+    },
+    {
+      "id": "B\u00f6ll,Heinrich",
+      "label": "B\u00f6ll,Heinrich",
+      "type": "author",
+      "totalWeight": 253,
+      "linkCount": 20
+    },
+    {
+      "id": "B\u00fcchner,Georg",
+      "label": "B\u00fcchner,Georg",
+      "type": "author",
+      "totalWeight": 29,
+      "linkCount": 3
+    },
+    {
+      "id": "Celan,Paul",
+      "label": "Celan,Paul",
+      "type": "author",
+      "totalWeight": 65,
+      "linkCount": 6
+    },
+    {
+      "id": "D\u00fcrrenmatt,Friedrich",
+      "label": "D\u00fcrrenmatt,Friedrich",
+      "type": "author",
+      "totalWeight": 186,
+      "linkCount": 17
+    },
+    {
+      "id": "Ebert,Sabine",
+      "label": "Ebert,Sabine",
+      "type": "author",
+      "totalWeight": 19,
+      "linkCount": 2
+    },
+    {
+      "id": "Enzensberger,HansMagnus",
+      "label": "Enzensberger,HansMagnus",
+      "type": "author",
+      "totalWeight": 65,
+      "linkCount": 8
+    },
+    {
+      "id": "Fallada,Hans",
+      "label": "Fallada,Hans",
+      "type": "author",
+      "totalWeight": 72,
+      "linkCount": 8
+    },
+    {
+      "id": "Feuchtwanger,Lion",
+      "label": "Feuchtwanger,Lion",
+      "type": "author",
+      "totalWeight": 99,
+      "linkCount": 7
+    },
+    {
+      "id": "Franck,Julia",
+      "label": "Franck,Julia",
+      "type": "author",
+      "totalWeight": 14,
+      "linkCount": 2
+    },
+    {
+      "id": "Frisch,Max",
+      "label": "Frisch,Max",
+      "type": "author",
+      "totalWeight": 114,
+      "linkCount": 12
+    },
+    {
+      "id": "George,Nina",
+      "label": "George,Nina",
+      "type": "author",
+      "totalWeight": 12,
+      "linkCount": 2
+    },
+    {
+      "id": "Goethe,JohannWolfgangvon",
+      "label": "Goethe,JohannWolfgangvon",
+      "type": "author",
+      "totalWeight": 512,
+      "linkCount": 27
+    },
+    {
+      "id": "Grass,G\u00fcnter",
+      "label": "Grass,G\u00fcnter",
+      "type": "author",
+      "totalWeight": 285,
+      "linkCount": 28
+    },
+    {
+      "id": "Hackl,Erich",
+      "label": "Hackl,Erich",
+      "type": "author",
+      "totalWeight": 20,
+      "linkCount": 3
+    },
+    {
+      "id": "Hauptmann,Gaby",
+      "label": "Hauptmann,Gaby",
+      "type": "author",
+      "totalWeight": 44,
+      "linkCount": 7
+    },
+    {
+      "id": "Hesse,Hermann",
+      "label": "Hesse,Hermann",
+      "type": "author",
+      "totalWeight": 1002,
+      "linkCount": 36
+    },
+    {
+      "id": "Hilsenrath,Edgar",
+      "label": "Hilsenrath,Edgar",
+      "type": "author",
+      "totalWeight": 38,
+      "linkCount": 4
+    },
+    {
+      "id": "H\u00f6lderlin,Friedrich",
+      "label": "H\u00f6lderlin,Friedrich",
+      "type": "author",
+      "totalWeight": 69,
+      "linkCount": 5
+    },
+    {
+      "id": "Jelinek,Elfriede",
+      "label": "Jelinek,Elfriede",
+      "type": "author",
+      "totalWeight": 228,
+      "linkCount": 20
+    },
+    {
+      "id": "Kafka,Franz",
+      "label": "Kafka,Franz",
+      "type": "author",
+      "totalWeight": 704,
+      "linkCount": 29
+    },
+    {
+      "id": "Kehlmann,Daniel",
+      "label": "Kehlmann,Daniel",
+      "type": "author",
+      "totalWeight": 123,
+      "linkCount": 18
+    },
+    {
+      "id": "Lenz,Siegfried",
+      "label": "Lenz,Siegfried",
+      "type": "author",
+      "totalWeight": 84,
+      "linkCount": 10
+    },
+    {
+      "id": "Mann,Thomas",
+      "label": "Mann,Thomas",
+      "type": "author",
+      "totalWeight": 471,
+      "linkCount": 23
+    },
+    {
+      "id": "Mercier,Pascal",
+      "label": "Mercier,Pascal",
+      "type": "author",
+      "totalWeight": 31,
+      "linkCount": 5
+    },
+    {
+      "id": "M\u00fcller,Herta",
+      "label": "M\u00fcller,Herta",
+      "type": "author",
+      "totalWeight": 145,
+      "linkCount": 15
+    },
+    {
+      "id": "Musil,Robert",
+      "label": "Musil,Robert",
+      "type": "author",
+      "totalWeight": 69,
+      "linkCount": 9
+    },
+    {
+      "id": "Remarque,ErichMaria",
+      "label": "Remarque,ErichMaria",
+      "type": "author",
+      "totalWeight": 382,
+      "linkCount": 19
+    },
+    {
+      "id": "Roth,Joseph",
+      "label": "Roth,Joseph",
+      "type": "author",
+      "totalWeight": 245,
+      "linkCount": 16
+    },
+    {
+      "id": "Schlink,Bernhard",
+      "label": "Schlink,Bernhard",
+      "type": "author",
+      "totalWeight": 254,
+      "linkCount": 24
+    },
+    {
+      "id": "Schnitzler,Arthur",
+      "label": "Schnitzler,Arthur",
+      "type": "author",
+      "totalWeight": 131,
+      "linkCount": 9
+    },
+    {
+      "id": "Schulze,Ingo",
+      "label": "Schulze,Ingo",
+      "type": "author",
+      "totalWeight": 41,
+      "linkCount": 7
+    },
+    {
+      "id": "S\u00fcskind,Patrick",
+      "label": "S\u00fcskind,Patrick",
+      "type": "author",
+      "totalWeight": 165,
+      "linkCount": 20
+    },
+    {
+      "id": "Trakl,Georg",
+      "label": "Trakl,Georg",
+      "type": "author",
+      "totalWeight": 23,
+      "linkCount": 3
+    },
+    {
+      "id": "Walser,Robert",
+      "label": "Walser,Robert",
+      "type": "author",
+      "totalWeight": 144,
+      "linkCount": 12
+    },
+    {
+      "id": "Wolf,Christa",
+      "label": "Wolf,Christa",
+      "type": "author",
+      "totalWeight": 114,
+      "linkCount": 12
+    },
+    {
+      "id": "Zeh,Juli",
+      "label": "Zeh,Juli",
+      "type": "author",
+      "totalWeight": 48,
+      "linkCount": 6
+    },
+    {
+      "id": "Zweig,Stefan",
+      "label": "Zweig,Stefan",
+      "type": "author",
+      "totalWeight": 286,
+      "linkCount": 18
+    },
+    {
+      "id": "Bachmann,Ingeborg",
+      "label": "Bachmann,Ingeborg",
+      "type": "author",
+      "totalWeight": 62,
+      "linkCount": 7
+    },
+    {
+      "id": "Benn,Gottfried",
+      "label": "Benn,Gottfried",
+      "type": "author",
+      "totalWeight": 11,
+      "linkCount": 2
+    },
+    {
+      "id": "Brecht,Bertolt",
+      "label": "Brecht,Bertolt",
+      "type": "author",
+      "totalWeight": 191,
+      "linkCount": 15
+    },
+    {
+      "id": "Erpenbeck,Jenny",
+      "label": "Erpenbeck,Jenny",
+      "type": "author",
+      "totalWeight": 35,
+      "linkCount": 5
+    },
+    {
+      "id": "Fontane,Theodor",
+      "label": "Fontane,Theodor",
+      "type": "author",
+      "totalWeight": 40,
+      "linkCount": 3
+    },
+    {
+      "id": "Handke,Peter",
+      "label": "Handke,Peter",
+      "type": "author",
+      "totalWeight": 305,
+      "linkCount": 19
+    },
+    {
+      "id": "Kinkel,Tanja",
+      "label": "Kinkel,Tanja",
+      "type": "author",
+      "totalWeight": 18,
+      "linkCount": 3
+    },
+    {
+      "id": "Kr\u00fcger,Michael",
+      "label": "Kr\u00fcger,Michael",
+      "type": "author",
+      "totalWeight": 29,
+      "linkCount": 3
+    },
+    {
+      "id": "Morgenstern,Christian",
+      "label": "Morgenstern,Christian",
+      "type": "author",
+      "totalWeight": 12,
+      "linkCount": 2
+    },
+    {
+      "id": "Novalis",
+      "label": "Novalis",
+      "type": "author",
+      "totalWeight": 18,
+      "linkCount": 3
+    },
+    {
+      "id": "\u00d6zdamar,EmineSevgi",
+      "label": "\u00d6zdamar,EmineSevgi",
+      "type": "author",
+      "totalWeight": 13,
+      "linkCount": 2
+    },
+    {
+      "id": "Ransmayr,Christoph",
+      "label": "Ransmayr,Christoph",
+      "type": "author",
+      "totalWeight": 55,
+      "linkCount": 8
+    },
+    {
+      "id": "Rilke,RainerMaria",
+      "label": "Rilke,RainerMaria",
+      "type": "author",
+      "totalWeight": 304,
+      "linkCount": 16
+    },
+    {
+      "id": "Schami,Rafik",
+      "label": "Schami,Rafik",
+      "type": "author",
+      "totalWeight": 12,
+      "linkCount": 2
+    },
+    {
+      "id": "Schiller,Friedrich",
+      "label": "Schiller,Friedrich",
+      "type": "author",
+      "totalWeight": 65,
+      "linkCount": 6
+    },
+    {
+      "id": "Trojanow,Ilija",
+      "label": "Trojanow,Ilija",
+      "type": "author",
+      "totalWeight": 12,
+      "linkCount": 2
+    },
+    {
+      "id": "Walser,Martin",
+      "label": "Walser,Martin",
+      "type": "author",
+      "totalWeight": 60,
+      "linkCount": 8
+    },
+    {
+      "id": "Werner,Markus",
+      "label": "Werner,Markus",
+      "type": "author",
+      "totalWeight": 11,
+      "linkCount": 2
+    },
+    {
+      "id": "Hein,Christoph",
+      "label": "Hein,Christoph",
+      "type": "author",
+      "totalWeight": 29,
+      "linkCount": 3
+    },
+    {
+      "id": "Lessing,GottholdEphraim",
+      "label": "Lessing,GottholdEphraim",
+      "type": "author",
+      "totalWeight": 13,
+      "linkCount": 2
+    },
+    {
+      "id": "Werfel,Franz",
+      "label": "Werfel,Franz",
+      "type": "author",
+      "totalWeight": 75,
+      "linkCount": 6
+    },
+    {
+      "id": "Bernhard,Thomas",
+      "label": "Bernhard,Thomas",
+      "type": "author",
+      "totalWeight": 408,
+      "linkCount": 24
+    },
+    {
+      "id": "D\u00f6blin,Alfred",
+      "label": "D\u00f6blin,Alfred",
+      "type": "author",
+      "totalWeight": 26,
+      "linkCount": 3
+    },
+    {
+      "id": "Ende,Michael",
+      "label": "Ende,Michael",
+      "type": "author",
+      "totalWeight": 14,
+      "linkCount": 2
+    },
+    {
+      "id": "Glattauer,Daniel",
+      "label": "Glattauer,Daniel",
+      "type": "author",
+      "totalWeight": 11,
+      "linkCount": 1
+    },
+    {
+      "id": "Hoffmann,E.T.A.",
+      "label": "Hoffmann,E.T.A.",
+      "type": "author",
+      "totalWeight": 151,
+      "linkCount": 11
+    },
+    {
+      "id": "Keilson,Hans",
+      "label": "Keilson,Hans",
+      "type": "author",
+      "totalWeight": 13,
+      "linkCount": 2
+    },
+    {
+      "id": "Kleist,Heinrichvon",
+      "label": "Kleist,Heinrichvon",
+      "type": "author",
+      "totalWeight": 66,
+      "linkCount": 5
+    },
+    {
+      "id": "Nietzsche,Friedrich",
+      "label": "Nietzsche,Friedrich",
+      "type": "author",
+      "totalWeight": 32,
+      "linkCount": 3
+    },
+    {
+      "id": "Perutz,Leo",
+      "label": "Perutz,Leo",
+      "type": "author",
+      "totalWeight": 45,
+      "linkCount": 5
+    },
+    {
+      "id": "Schirach,Ferdinandvon",
+      "label": "Schirach,Ferdinandvon",
+      "type": "author",
+      "totalWeight": 67,
+      "linkCount": 10
+    },
+    {
+      "id": "Tschinag,Galsan",
+      "label": "Tschinag,Galsan",
+      "type": "author",
+      "totalWeight": 13,
+      "linkCount": 1
+    },
+    {
+      "id": "Vanderbeke,Birgit",
+      "label": "Vanderbeke,Birgit",
+      "type": "author",
+      "totalWeight": 15,
+      "linkCount": 2
+    },
+    {
+      "id": "B\u00e4rfuss,Lukas",
+      "label": "B\u00e4rfuss,Lukas",
+      "type": "author",
+      "totalWeight": 16,
+      "linkCount": 2
+    },
+    {
+      "id": "Heine,Heinrich",
+      "label": "Heine,Heinrich",
+      "type": "author",
+      "totalWeight": 74,
+      "linkCount": 7
+    },
+    {
+      "id": "Mann,Klaus",
+      "label": "Mann,Klaus",
+      "type": "author",
+      "totalWeight": 45,
+      "linkCount": 4
+    },
+    {
+      "id": "Meyrink,Gustav",
+      "label": "Meyrink,Gustav",
+      "type": "author",
+      "totalWeight": 91,
+      "linkCount": 8
+    },
+    {
+      "id": "Suter,Martin",
+      "label": "Suter,Martin",
+      "type": "author",
+      "totalWeight": 75,
+      "linkCount": 6
+    },
+    {
+      "id": "Vermes,Timur",
+      "label": "Vermes,Timur",
+      "type": "author",
+      "totalWeight": 11,
+      "linkCount": 2
+    },
+    {
+      "id": "Winkler,Josef",
+      "label": "Winkler,Josef",
+      "type": "author",
+      "totalWeight": 16,
+      "linkCount": 2
+    },
+    {
+      "id": "Arjouni,Jakob",
+      "label": "Arjouni,Jakob",
+      "type": "author",
+      "totalWeight": 32,
+      "linkCount": 4
+    },
+    {
+      "id": "Bannalec,Jean-Luc",
+      "label": "Bannalec,Jean-Luc",
+      "type": "author",
+      "totalWeight": 71,
+      "linkCount": 6
+    },
+    {
+      "id": "Broch,Hermann",
+      "label": "Broch,Hermann",
+      "type": "author",
+      "totalWeight": 37,
+      "linkCount": 3
+    },
+    {
+      "id": "Canetti,Elias",
+      "label": "Canetti,Elias",
+      "type": "author",
+      "totalWeight": 12,
+      "linkCount": 1
+    },
+    {
+      "id": "Capus,Alex",
+      "label": "Capus,Alex",
+      "type": "author",
+      "totalWeight": 14,
+      "linkCount": 2
+    },
+    {
+      "id": "Courths-Mahler,Hedwig",
+      "label": "Courths-Mahler,Hedwig",
+      "type": "author",
+      "totalWeight": 372,
+      "linkCount": 8
+    },
+    {
+      "id": "D\u00fcbell,Richard",
+      "label": "D\u00fcbell,Richard",
+      "type": "author",
+      "totalWeight": 17,
+      "linkCount": 2
+    },
+    {
+      "id": "Eschbach,Andreas",
+      "label": "Eschbach,Andreas",
+      "type": "author",
+      "totalWeight": 15,
+      "linkCount": 2
+    },
+    {
+      "id": "Fitzek,Sebastian",
+      "label": "Fitzek,Sebastian",
+      "type": "author",
+      "totalWeight": 131,
+      "linkCount": 12
+    },
+    {
+      "id": "Gier,Kerstin",
+      "label": "Gier,Kerstin",
+      "type": "author",
+      "totalWeight": 16,
+      "linkCount": 3
+    },
+    {
+      "id": "Haas,Wolf",
+      "label": "Haas,Wolf",
+      "type": "author",
+      "totalWeight": 35,
+      "linkCount": 5
+    },
+    {
+      "id": "Heitz,Markus",
+      "label": "Heitz,Markus",
+      "type": "author",
+      "totalWeight": 95,
+      "linkCount": 6
+    },
+    {
+      "id": "Hofmannsthal,Hugovon",
+      "label": "Hofmannsthal,Hugovon",
+      "type": "author",
+      "totalWeight": 23,
+      "linkCount": 3
+    },
+    {
+      "id": "Hohlbein,Wolfgang",
+      "label": "Hohlbein,Wolfgang",
+      "type": "author",
+      "totalWeight": 50,
+      "linkCount": 7
+    },
+    {
+      "id": "Horv\u00e1th,\u00d6d\u00f6nvon",
+      "label": "Horv\u00e1th,\u00d6d\u00f6nvon",
+      "type": "author",
+      "totalWeight": 24,
+      "linkCount": 3
+    },
+    {
+      "id": "Kasten,Mona",
+      "label": "Kasten,Mona",
+      "type": "author",
+      "totalWeight": 25,
+      "linkCount": 3
+    },
+    {
+      "id": "K\u00e4stner,Erich",
+      "label": "K\u00e4stner,Erich",
+      "type": "author",
+      "totalWeight": 17,
+      "linkCount": 2
+    },
+    {
+      "id": "Kirst,HansHellmut",
+      "label": "Kirst,HansHellmut",
+      "type": "author",
+      "totalWeight": 21,
+      "linkCount": 2
+    },
+    {
+      "id": "Kubelka,Susanna",
+      "label": "Kubelka,Susanna",
+      "type": "author",
+      "totalWeight": 33,
+      "linkCount": 4
+    },
+    {
+      "id": "K\u00fcrthy,Ildik\u00f3von",
+      "label": "K\u00fcrthy,Ildik\u00f3von",
+      "type": "author",
+      "totalWeight": 18,
+      "linkCount": 3
+    },
+    {
+      "id": "Lindstr\u00f6m,Inga",
+      "label": "Lindstr\u00f6m,Inga",
+      "type": "author",
+      "totalWeight": 19,
+      "linkCount": 3
+    },
+    {
+      "id": "Link,Charlotte",
+      "label": "Link,Charlotte",
+      "type": "author",
+      "totalWeight": 202,
+      "linkCount": 9
+    },
+    {
+      "id": "May,Karl",
+      "label": "May,Karl",
+      "type": "author",
+      "totalWeight": 234,
+      "linkCount": 10
+    },
+    {
+      "id": "Moers,Walter",
+      "label": "Moers,Walter",
+      "type": "author",
+      "totalWeight": 36,
+      "linkCount": 4
+    },
+    {
+      "id": "M\u00fcller,Heiner",
+      "label": "M\u00fcller,Heiner",
+      "type": "author",
+      "totalWeight": 22,
+      "linkCount": 3
+    },
+    {
+      "id": "Neuhaus,Nele",
+      "label": "Neuhaus,Nele",
+      "type": "author",
+      "totalWeight": 112,
+      "linkCount": 13
+    },
+    {
+      "id": "Noll,Ingrid",
+      "label": "Noll,Ingrid",
+      "type": "author",
+      "totalWeight": 58,
+      "linkCount": 6
+    },
+    {
+      "id": "Peetz,Monika",
+      "label": "Peetz,Monika",
+      "type": "author",
+      "totalWeight": 25,
+      "linkCount": 3
+    },
+    {
+      "id": "Peinkofer,Michael",
+      "label": "Peinkofer,Michael",
+      "type": "author",
+      "totalWeight": 31,
+      "linkCount": 4
+    },
+    {
+      "id": "P\u00f6tzsch,Oliver",
+      "label": "P\u00f6tzsch,Oliver",
+      "type": "author",
+      "totalWeight": 41,
+      "linkCount": 4
+    },
+    {
+      "id": "Raabe,Melanie",
+      "label": "Raabe,Melanie",
+      "type": "author",
+      "totalWeight": 14,
+      "linkCount": 2
+    },
+    {
+      "id": "Rezzori,Gregorvon",
+      "label": "Rezzori,Gregorvon",
+      "type": "author",
+      "totalWeight": 17,
+      "linkCount": 3
+    },
+    {
+      "id": "Sacher-Masoch,Leopoldvon",
+      "label": "Sacher-Masoch,Leopoldvon",
+      "type": "author",
+      "totalWeight": 20,
+      "linkCount": 2
+    },
+    {
+      "id": "Safier,David",
+      "label": "Safier,David",
+      "type": "author",
+      "totalWeight": 61,
+      "linkCount": 5
+    },
+    {
+      "id": "Schimmelpfennig,Roland",
+      "label": "Schimmelpfennig,Roland",
+      "type": "author",
+      "totalWeight": 11,
+      "linkCount": 2
+    },
+    {
+      "id": "Sebald,W.G.",
+      "label": "Sebald,W.G.",
+      "type": "author",
+      "totalWeight": 63,
+      "linkCount": 7
+    },
+    {
+      "id": "Sendker,Jan-Philipp",
+      "label": "Sendker,Jan-Philipp",
+      "type": "author",
+      "totalWeight": 28,
+      "linkCount": 4
+    },
+    {
+      "id": "Simmel,JohannesMario",
+      "label": "Simmel,JohannesMario",
+      "type": "author",
+      "totalWeight": 116,
+      "linkCount": 7
+    },
+    {
+      "id": "Stamm,Peter",
+      "label": "Stamm,Peter",
+      "type": "author",
+      "totalWeight": 39,
+      "linkCount": 6
+    },
+    {
+      "id": "Taylor,Kathryn",
+      "label": "Taylor,Kathryn",
+      "type": "author",
+      "totalWeight": 32,
+      "linkCount": 4
+    },
+    {
+      "id": "Thiesler,Sabine",
+      "label": "Thiesler,Sabine",
+      "type": "author",
+      "totalWeight": 16,
+      "linkCount": 3
+    },
+    {
+      "id": "Timm,Uwe",
+      "label": "Timm,Uwe",
+      "type": "author",
+      "totalWeight": 29,
+      "linkCount": 5
+    },
+    {
+      "id": "Traven,B.",
+      "label": "Traven,B.",
+      "type": "author",
+      "totalWeight": 13,
+      "linkCount": 2
+    },
+    {
+      "id": "Turrini,Peter",
+      "label": "Turrini,Peter",
+      "type": "author",
+      "totalWeight": 16,
+      "linkCount": 2
+    },
+    {
+      "id": "Unger,GertF.",
+      "label": "Unger,GertF.",
+      "type": "author",
+      "totalWeight": 67,
+      "linkCount": 1
+    },
+    {
+      "id": "Vandenberg,Philipp",
+      "label": "Vandenberg,Philipp",
+      "type": "author",
+      "totalWeight": 165,
+      "linkCount": 13
+    },
+    {
+      "id": "Wagner,JanCostin",
+      "label": "Wagner,JanCostin",
+      "type": "author",
+      "totalWeight": 24,
+      "linkCount": 3
+    },
+    {
+      "id": "Wassermann,Jakob",
+      "label": "Wassermann,Jakob",
+      "type": "author",
+      "totalWeight": 16,
+      "linkCount": 2
+    },
+    {
+      "id": "Wedekind,Frank",
+      "label": "Wedekind,Frank",
+      "type": "author",
+      "totalWeight": 14,
+      "linkCount": 2
+    },
+    {
+      "id": "Weiss,Peter",
+      "label": "Weiss,Peter",
+      "type": "author",
+      "totalWeight": 11,
+      "linkCount": 2
+    },
+    {
+      "id": "Widmer,Urs",
+      "label": "Widmer,Urs",
+      "type": "author",
+      "totalWeight": 20,
+      "linkCount": 3
+    },
+    {
+      "id": "Busch,Wilhelm",
+      "label": "Busch,Wilhelm",
+      "type": "author",
+      "totalWeight": 22,
+      "linkCount": 2
+    },
+    {
+      "id": "D\u00f6rrie,Doris",
+      "label": "D\u00f6rrie,Doris",
+      "type": "author",
+      "totalWeight": 15,
+      "linkCount": 3
+    },
+    {
+      "id": "J\u00fcnger,Ernst",
+      "label": "J\u00fcnger,Ernst",
+      "type": "author",
+      "totalWeight": 77,
+      "linkCount": 6
+    },
+    {
+      "id": "Koeppen,Wolfgang",
+      "label": "Koeppen,Wolfgang",
+      "type": "author",
+      "totalWeight": 12,
+      "linkCount": 2
+    },
+    {
+      "id": "Lark,Sarah",
+      "label": "Lark,Sarah",
+      "type": "author",
+      "totalWeight": 157,
+      "linkCount": 12
+    },
+    {
+      "id": "Sch\u00e4tzing,Frank",
+      "label": "Sch\u00e4tzing,Frank",
+      "type": "author",
+      "totalWeight": 49,
+      "linkCount": 7
+    },
+    {
+      "id": "Schneider,Peter",
+      "label": "Schneider,Peter",
+      "type": "author",
+      "totalWeight": 11,
+      "linkCount": 2
+    },
+    {
+      "id": "Seghers,Anna",
+      "label": "Seghers,Anna",
+      "type": "author",
+      "totalWeight": 40,
+      "linkCount": 6
+    },
+    {
+      "id": "Tucholsky,Kurt",
+      "label": "Tucholsky,Kurt",
+      "type": "author",
+      "totalWeight": 12,
+      "linkCount": 2
+    },
+    {
+      "id": "Danella,Utta",
+      "label": "Danella,Utta",
+      "type": "author",
+      "totalWeight": 14,
+      "linkCount": 2
+    },
+    {
+      "id": "Genazino,Wilhelm",
+      "label": "Genazino,Wilhelm",
+      "type": "author",
+      "totalWeight": 19,
+      "linkCount": 3
+    },
+    {
+      "id": "Hermann,Judith",
+      "label": "Hermann,Judith",
+      "type": "author",
+      "totalWeight": 23,
+      "linkCount": 4
+    },
+    {
+      "id": "Kastner,J\u00f6rg",
+      "label": "Kastner,J\u00f6rg",
+      "type": "author",
+      "totalWeight": 23,
+      "linkCount": 3
+    },
+    {
+      "id": "Krausser,Helmut",
+      "label": "Krausser,Helmut",
+      "type": "author",
+      "totalWeight": 12,
+      "linkCount": 2
+    },
+    {
+      "id": "Meyer,Kai",
+      "label": "Meyer,Kai",
+      "type": "author",
+      "totalWeight": 29,
+      "linkCount": 4
+    },
+    {
+      "id": "Nadolny,Sten",
+      "label": "Nadolny,Sten",
+      "type": "author",
+      "totalWeight": 23,
+      "linkCount": 4
+    },
+    {
+      "id": "Scheer,KarlH.",
+      "label": "Scheer,KarlH.",
+      "type": "author",
+      "totalWeight": 256,
+      "linkCount": 1
+    },
+    {
+      "id": "Zweig,Stefanie",
+      "label": "Zweig,Stefanie",
+      "type": "author",
+      "totalWeight": 26,
+      "linkCount": 4
+    },
+    {
+      "id": "Ausl\u00e4nder,Rose",
+      "label": "Ausl\u00e4nder,Rose",
+      "type": "author",
+      "totalWeight": 15,
+      "linkCount": 2
+    },
+    {
+      "id": "Bekker,Alfred",
+      "label": "Bekker,Alfred",
+      "type": "author",
+      "totalWeight": 12,
+      "linkCount": 1
+    },
+    {
+      "id": "Berling,Peter",
+      "label": "Berling,Peter",
+      "type": "author",
+      "totalWeight": 46,
+      "linkCount": 3
+    },
+    {
+      "id": "Birkner,Friede",
+      "label": "Birkner,Friede",
+      "type": "author",
+      "totalWeight": 74,
+      "linkCount": 3
+    },
+    {
+      "id": "Bomann,Corina",
+      "label": "Bomann,Corina",
+      "type": "author",
+      "totalWeight": 73,
+      "linkCount": 6
+    },
+    {
+      "id": "Cordonnierov\u00e1,Marie",
+      "label": "Cordonnierov\u00e1,Marie",
+      "type": "author",
+      "totalWeight": 25,
+      "linkCount": 1
+    },
+    {
+      "id": "Dark,Jason",
+      "label": "Dark,Jason",
+      "type": "author",
+      "totalWeight": 11,
+      "linkCount": 1
+    },
+    {
+      "id": "Fischer,MarieLouise",
+      "label": "Fischer,MarieLouise",
+      "type": "author",
+      "totalWeight": 29,
+      "linkCount": 3
+    },
+    {
+      "id": "Fleischhauer,Wolfram",
+      "label": "Fleischhauer,Wolfram",
+      "type": "author",
+      "totalWeight": 16,
+      "linkCount": 3
+    },
+    {
+      "id": "Gilbers,Harald",
+      "label": "Gilbers,Harald",
+      "type": "author",
+      "totalWeight": 12,
+      "linkCount": 2
+    },
+    {
+      "id": "Haefs,Gisbert",
+      "label": "Haefs,Gisbert",
+      "type": "author",
+      "totalWeight": 15,
+      "linkCount": 1
+    },
+    {
+      "id": "Hammesfahr,Petra",
+      "label": "Hammesfahr,Petra",
+      "type": "author",
+      "totalWeight": 22,
+      "linkCount": 4
+    },
+    {
+      "id": "Heinichen,Veit",
+      "label": "Heinichen,Veit",
+      "type": "author",
+      "totalWeight": 23,
+      "linkCount": 2
+    },
+    {
+      "id": "Kutscher,Volker",
+      "label": "Kutscher,Volker",
+      "type": "author",
+      "totalWeight": 41,
+      "linkCount": 6
+    },
+    {
+      "id": "Lechleitner,Norbert",
+      "label": "Lechleitner,Norbert",
+      "type": "author",
+      "totalWeight": 12,
+      "linkCount": 2
+    },
+    {
+      "id": "Lewinsky,Charles",
+      "label": "Lewinsky,Charles",
+      "type": "author",
+      "totalWeight": 13,
+      "linkCount": 2
+    },
+    {
+      "id": "Lorentz,Iny",
+      "label": "Lorentz,Iny",
+      "type": "author",
+      "totalWeight": 53,
+      "linkCount": 4
+    },
+    {
+      "id": "Mann,Heinrich",
+      "label": "Mann,Heinrich",
+      "type": "author",
+      "totalWeight": 26,
+      "linkCount": 3
+    },
+    {
+      "id": "Mayenburg,Mariusvon",
+      "label": "Mayenburg,Mariusvon",
+      "type": "author",
+      "totalWeight": 12,
+      "linkCount": 2
+    },
+    {
+      "id": "Mayr\u00f6cker,Friederike",
+      "label": "Mayr\u00f6cker,Friederike",
+      "type": "author",
+      "totalWeight": 21,
+      "linkCount": 3
+    },
+    {
+      "id": "Obermeier,Siegfried",
+      "label": "Obermeier,Siegfried",
+      "type": "author",
+      "totalWeight": 20,
+      "linkCount": 2
+    },
+    {
+      "id": "Riebe,Brigitte",
+      "label": "Riebe,Brigitte",
+      "type": "author",
+      "totalWeight": 17,
+      "linkCount": 2
+    },
+    {
+      "id": "Rosendorfer,Herbert",
+      "label": "Rosendorfer,Herbert",
+      "type": "author",
+      "totalWeight": 12,
+      "linkCount": 2
+    },
+    {
+      "id": "Schmidt,Arno",
+      "label": "Schmidt,Arno",
+      "type": "author",
+      "totalWeight": 44,
+      "linkCount": 5
+    },
+    {
+      "id": "Serno,Wolf",
+      "label": "Serno,Wolf",
+      "type": "author",
+      "totalWeight": 16,
+      "linkCount": 2
+    },
+    {
+      "id": "Stifter,Adalbert",
+      "label": "Stifter,Adalbert",
+      "type": "author",
+      "totalWeight": 36,
+      "linkCount": 4
+    },
+    {
+      "id": "Strau\u00df,Botho",
+      "label": "Strau\u00df,Botho",
+      "type": "author",
+      "totalWeight": 26,
+      "linkCount": 3
+    },
+    {
+      "id": "Ungar,Hermann",
+      "label": "Ungar,Hermann",
+      "type": "author",
+      "totalWeight": 11,
+      "linkCount": 2
+    },
+    {
+      "id": "Vandenberg,Patricia",
+      "label": "Vandenberg,Patricia",
+      "type": "author",
+      "totalWeight": 32,
+      "linkCount": 1
+    },
+    {
+      "id": "Vosseler,NicoleC.",
+      "label": "Vosseler,NicoleC.",
+      "type": "author",
+      "totalWeight": 15,
+      "linkCount": 2
+    },
+    {
+      "id": "Bottini,Oliver",
+      "label": "Bottini,Oliver",
+      "type": "author",
+      "totalWeight": 11,
+      "linkCount": 2
+    },
+    {
+      "id": "Glauser,Friedrich",
+      "label": "Glauser,Friedrich",
+      "type": "author",
+      "totalWeight": 36,
+      "linkCount": 4
+    },
+    {
+      "id": "Haushofer,Marlen",
+      "label": "Haushofer,Marlen",
+      "type": "author",
+      "totalWeight": 32,
+      "linkCount": 5
+    },
+    {
+      "id": "Keun,Irmgard",
+      "label": "Keun,Irmgard",
+      "type": "author",
+      "totalWeight": 12,
+      "linkCount": 2
+    },
+    {
+      "id": "Wagner,Richard",
+      "label": "Wagner,Richard",
+      "type": "author",
+      "totalWeight": 12,
+      "linkCount": 2
+    },
+    {
+      "id": "Hofmann,Gert",
+      "label": "Hofmann,Gert",
+      "type": "author",
+      "totalWeight": 25,
+      "linkCount": 2
+    },
+    {
+      "id": "Koch,Erich",
+      "label": "Koch,Erich",
+      "type": "author",
+      "totalWeight": 27,
+      "linkCount": 2
+    },
+    {
+      "id": "Reinehr,Wilfried",
+      "label": "Reinehr,Wilfried",
+      "type": "author",
+      "totalWeight": 11,
+      "linkCount": 1
+    },
+    {
+      "id": "Durst-Benning,Petra",
+      "label": "Durst-Benning,Petra",
+      "type": "author",
+      "totalWeight": 25,
+      "linkCount": 1
+    },
+    {
+      "id": "Jopaire,Sandrine",
+      "label": "Jopaire,Sandrine",
+      "type": "author",
+      "totalWeight": 95,
+      "linkCount": 1
+    },
+    {
+      "id": "Lernet-Holenia,Alexander",
+      "label": "Lernet-Holenia,Alexander",
+      "type": "author",
+      "totalWeight": 11,
+      "linkCount": 2
+    },
+    {
+      "id": "Suchanek,Andreas",
+      "label": "Suchanek,Andreas",
+      "type": "author",
+      "totalWeight": 12,
+      "linkCount": 1
+    },
+    {
+      "id": "Keyserling,Eduardvon",
+      "label": "Keyserling,Eduardvon",
+      "type": "author",
+      "totalWeight": 35,
+      "linkCount": 3
+    },
+    {
+      "id": "Nizon,Paul",
+      "label": "Nizon,Paul",
+      "type": "author",
+      "totalWeight": 12,
+      "linkCount": 1
+    },
+    {
+      "id": "Scheer,Karl-Herbert",
+      "label": "Scheer,Karl-Herbert",
+      "type": "author",
+      "totalWeight": 11,
+      "linkCount": 1
+    },
+    {
+      "id": "Schimmel,Hans",
+      "label": "Schimmel,Hans",
+      "type": "author",
+      "totalWeight": 19,
+      "linkCount": 1
+    },
+    {
+      "id": "Ewers,H.G.",
+      "label": "Ewers,H.G.",
+      "type": "author",
+      "totalWeight": 16,
+      "linkCount": 1
+    },
+    {
+      "id": "Francis,H.G.",
+      "label": "Francis,H.G.",
+      "type": "author",
+      "totalWeight": 12,
+      "linkCount": 1
+    },
+    {
+      "id": "Mahr,Kurt",
+      "label": "Mahr,Kurt",
+      "type": "author",
+      "totalWeight": 22,
+      "linkCount": 1
+    },
+    {
+      "id": "Voltz,William",
+      "label": "Voltz,William",
+      "type": "author",
+      "totalWeight": 14,
+      "linkCount": 1
+    },
+    {
+      "id": "Winterfield,O.S.",
+      "label": "Winterfield,O.S.",
+      "type": "author",
+      "totalWeight": 19,
+      "linkCount": 1
+    },
+    {
+      "id": "Royov\u00e1,Krist\u00edna",
+      "label": "Royov\u00e1,Krist\u00edna",
+      "type": "author",
+      "totalWeight": 11,
+      "linkCount": 1
+    },
+    {
+      "id": "fre",
+      "label": "fre",
+      "type": "language",
+      "totalWeight": 1911,
+      "linkCount": 123
+    },
+    {
+      "id": "dan",
+      "label": "dan",
+      "type": "language",
+      "totalWeight": 151,
+      "linkCount": 20
+    },
+    {
+      "id": "slv",
+      "label": "slv",
+      "type": "language",
+      "totalWeight": 129,
+      "linkCount": 17
+    },
+    {
+      "id": "hrv",
+      "label": "hrv",
+      "type": "language",
+      "totalWeight": 112,
+      "linkCount": 14
+    },
+    {
+      "id": "cze",
+      "label": "cze",
+      "type": "language",
+      "totalWeight": 962,
+      "linkCount": 66
+    },
+    {
+      "id": "slo",
+      "label": "slo",
+      "type": "language",
+      "totalWeight": 124,
+      "linkCount": 14
+    },
+    {
+      "id": "hun",
+      "label": "hun",
+      "type": "language",
+      "totalWeight": 537,
+      "linkCount": 40
+    },
+    {
+      "id": "spa",
+      "label": "spa",
+      "type": "language",
+      "totalWeight": 1859,
+      "linkCount": 108
+    },
+    {
+      "id": "dut",
+      "label": "dut",
+      "type": "language",
+      "totalWeight": 805,
+      "linkCount": 73
+    },
+    {
+      "id": "pol",
+      "label": "pol",
+      "type": "language",
+      "totalWeight": 786,
+      "linkCount": 47
+    },
+    {
+      "id": "ita",
+      "label": "ita",
+      "type": "language",
+      "totalWeight": 1176,
+      "linkCount": 88
+    },
+    {
+      "id": "chi",
+      "label": "chi",
+      "type": "language",
+      "totalWeight": 222,
+      "linkCount": 22
+    },
+    {
+      "id": "lav",
+      "label": "lav",
+      "type": "language",
+      "totalWeight": 115,
+      "linkCount": 11
+    },
+    {
+      "id": "bul",
+      "label": "bul",
+      "type": "language",
+      "totalWeight": 292,
+      "linkCount": 32
+    },
+    {
+      "id": "por",
+      "label": "por",
+      "type": "language",
+      "totalWeight": 399,
+      "linkCount": 32
+    },
+    {
+      "id": "ger",
+      "label": "ger",
+      "type": "language",
+      "totalWeight": 293,
+      "linkCount": 20
+    },
+    {
+      "id": "swe",
+      "label": "swe",
+      "type": "language",
+      "totalWeight": 218,
+      "linkCount": 27
+    },
+    {
+      "id": "est",
+      "label": "est",
+      "type": "language",
+      "totalWeight": 74,
+      "linkCount": 10
+    },
+    {
+      "id": "fin",
+      "label": "fin",
+      "type": "language",
+      "totalWeight": 67,
+      "linkCount": 9
+    },
+    {
+      "id": "eng",
+      "label": "eng",
+      "type": "language",
+      "totalWeight": 1394,
+      "linkCount": 98
+    },
+    {
+      "id": "tur",
+      "label": "tur",
+      "type": "language",
+      "totalWeight": 281,
+      "linkCount": 28
+    },
+    {
+      "id": "per",
+      "label": "per",
+      "type": "language",
+      "totalWeight": 57,
+      "linkCount": 6
+    },
+    {
+      "id": "rum",
+      "label": "rum",
+      "type": "language",
+      "totalWeight": 183,
+      "linkCount": 20
+    },
+    {
+      "id": "heb",
+      "label": "heb",
+      "type": "language",
+      "totalWeight": 63,
+      "linkCount": 10
+    },
+    {
+      "id": "rus",
+      "label": "rus",
+      "type": "language",
+      "totalWeight": 620,
+      "linkCount": 42
+    },
+    {
+      "id": "gre",
+      "label": "gre",
+      "type": "language",
+      "totalWeight": 239,
+      "linkCount": 26
+    },
+    {
+      "id": "nor",
+      "label": "nor",
+      "type": "language",
+      "totalWeight": 188,
+      "linkCount": 22
+    },
+    {
+      "id": "cat",
+      "label": "cat",
+      "type": "language",
+      "totalWeight": 212,
+      "linkCount": 20
+    },
+    {
+      "id": "lit",
+      "label": "lit",
+      "type": "language",
+      "totalWeight": 134,
+      "linkCount": 12
+    },
+    {
+      "id": "srp",
+      "label": "srp",
+      "type": "language",
+      "totalWeight": 286,
+      "linkCount": 24
+    },
+    {
+      "id": "jpn",
+      "label": "jpn",
+      "type": "language",
+      "totalWeight": 120,
+      "linkCount": 11
+    },
+    {
+      "id": "ara",
+      "label": "ara",
+      "type": "language",
+      "totalWeight": 34,
+      "linkCount": 4
+    },
+    {
+      "id": "geo",
+      "label": "geo",
+      "type": "language",
+      "totalWeight": 9,
+      "linkCount": 1
+    },
+    {
+      "id": "mac",
+      "label": "mac",
+      "type": "language",
+      "totalWeight": 13,
+      "linkCount": 2
+    },
+    {
+      "id": "kor",
+      "label": "kor",
+      "type": "language",
+      "totalWeight": 46,
+      "linkCount": 5
+    },
+    {
+      "id": "ukr",
+      "label": "ukr",
+      "type": "language",
+      "totalWeight": 17,
+      "linkCount": 2
+    },
+    {
+      "id": "alb",
+      "label": "alb",
+      "type": "language",
+      "totalWeight": 27,
+      "linkCount": 4
+    },
+    {
+      "id": "nds",
+      "label": "nds",
+      "type": "language",
+      "totalWeight": 32,
+      "linkCount": 2
+    },
+    {
+      "id": "gsw",
+      "label": "gsw",
+      "type": "language",
+      "totalWeight": 19,
+      "linkCount": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "Konsalik,HeinzG.",
+      "target": "fre",
+      "weight": 43
+    },
+    {
+      "source": "Konsalik,HeinzG.",
+      "target": "dan",
+      "weight": 6
+    },
+    {
+      "source": "Konsalik,HeinzG.",
+      "target": "slv",
+      "weight": 13
+    },
+    {
+      "source": "Konsalik,HeinzG.",
+      "target": "hrv",
+      "weight": 9
+    },
+    {
+      "source": "Konsalik,HeinzG.",
+      "target": "cze",
+      "weight": 22
+    },
+    {
+      "source": "Konsalik,HeinzG.",
+      "target": "slo",
+      "weight": 5
+    },
+    {
+      "source": "Konsalik,HeinzG.",
+      "target": "hun",
+      "weight": 6
+    },
+    {
+      "source": "Konsalik,HeinzG.",
+      "target": "spa",
+      "weight": 9
+    },
+    {
+      "source": "Konsalik,HeinzG.",
+      "target": "dut",
+      "weight": 126
+    },
+    {
+      "source": "Konsalik,HeinzG.",
+      "target": "pol",
+      "weight": 6
+    },
+    {
+      "source": "Konsalik,HeinzG.",
+      "target": "ita",
+      "weight": 16
+    },
+    {
+      "source": "Konsalik,HeinzG.",
+      "target": "chi",
+      "weight": 13
+    },
+    {
+      "source": "Konsalik,HeinzG.",
+      "target": "lav",
+      "weight": 5
+    },
+    {
+      "source": "Konsalik,HeinzG.",
+      "target": "bul",
+      "weight": 5
+    },
+    {
+      "source": "Konsalik,HeinzG.",
+      "target": "por",
+      "weight": 50
+    },
+    {
+      "source": "Svatek,KurtF.",
+      "target": "ger",
+      "weight": 7
+    },
+    {
+      "source": "Svatek,KurtF.",
+      "target": "ita",
+      "weight": 10
+    },
+    {
+      "source": "B\u00f6ll,Heinrich",
+      "target": "fre",
+      "weight": 15
+    },
+    {
+      "source": "B\u00f6ll,Heinrich",
+      "target": "swe",
+      "weight": 5
+    },
+    {
+      "source": "B\u00f6ll,Heinrich",
+      "target": "est",
+      "weight": 6
+    },
+    {
+      "source": "B\u00f6ll,Heinrich",
+      "target": "cze",
+      "weight": 6
+    },
+    {
+      "source": "B\u00f6ll,Heinrich",
+      "target": "fin",
+      "weight": 5
+    },
+    {
+      "source": "B\u00f6ll,Heinrich",
+      "target": "eng",
+      "weight": 41
+    },
+    {
+      "source": "B\u00f6ll,Heinrich",
+      "target": "hun",
+      "weight": 7
+    },
+    {
+      "source": "B\u00f6ll,Heinrich",
+      "target": "tur",
+      "weight": 15
+    },
+    {
+      "source": "B\u00f6ll,Heinrich",
+      "target": "spa",
+      "weight": 30
+    },
+    {
+      "source": "B\u00f6ll,Heinrich",
+      "target": "dut",
+      "weight": 8
+    },
+    {
+      "source": "B\u00f6ll,Heinrich",
+      "target": "per",
+      "weight": 12
+    },
+    {
+      "source": "B\u00f6ll,Heinrich",
+      "target": "pol",
+      "weight": 6
+    },
+    {
+      "source": "B\u00f6ll,Heinrich",
+      "target": "rum",
+      "weight": 6
+    },
+    {
+      "source": "B\u00f6ll,Heinrich",
+      "target": "ita",
+      "weight": 21
+    },
+    {
+      "source": "B\u00f6ll,Heinrich",
+      "target": "heb",
+      "weight": 10
+    },
+    {
+      "source": "B\u00f6ll,Heinrich",
+      "target": "chi",
+      "weight": 7
+    },
+    {
+      "source": "B\u00f6ll,Heinrich",
+      "target": "rus",
+      "weight": 19
+    },
+    {
+      "source": "B\u00f6ll,Heinrich",
+      "target": "bul",
+      "weight": 15
+    },
+    {
+      "source": "B\u00f6ll,Heinrich",
+      "target": "gre",
+      "weight": 9
+    },
+    {
+      "source": "B\u00f6ll,Heinrich",
+      "target": "por",
+      "weight": 10
+    },
+    {
+      "source": "B\u00fcchner,Georg",
+      "target": "fre",
+      "weight": 13
+    },
+    {
+      "source": "B\u00fcchner,Georg",
+      "target": "eng",
+      "weight": 9
+    },
+    {
+      "source": "B\u00fcchner,Georg",
+      "target": "spa",
+      "weight": 7
+    },
+    {
+      "source": "Celan,Paul",
+      "target": "fre",
+      "weight": 7
+    },
+    {
+      "source": "Celan,Paul",
+      "target": "eng",
+      "weight": 12
+    },
+    {
+      "source": "Celan,Paul",
+      "target": "ger",
+      "weight": 27
+    },
+    {
+      "source": "Celan,Paul",
+      "target": "spa",
+      "weight": 7
+    },
+    {
+      "source": "Celan,Paul",
+      "target": "ita",
+      "weight": 6
+    },
+    {
+      "source": "Celan,Paul",
+      "target": "por",
+      "weight": 6
+    },
+    {
+      "source": "D\u00fcrrenmatt,Friedrich",
+      "target": "fre",
+      "weight": 23
+    },
+    {
+      "source": "D\u00fcrrenmatt,Friedrich",
+      "target": "slv",
+      "weight": 5
+    },
+    {
+      "source": "D\u00fcrrenmatt,Friedrich",
+      "target": "cze",
+      "weight": 11
+    },
+    {
+      "source": "D\u00fcrrenmatt,Friedrich",
+      "target": "nor",
+      "weight": 5
+    },
+    {
+      "source": "D\u00fcrrenmatt,Friedrich",
+      "target": "eng",
+      "weight": 12
+    },
+    {
+      "source": "D\u00fcrrenmatt,Friedrich",
+      "target": "hun",
+      "weight": 8
+    },
+    {
+      "source": "D\u00fcrrenmatt,Friedrich",
+      "target": "tur",
+      "weight": 10
+    },
+    {
+      "source": "D\u00fcrrenmatt,Friedrich",
+      "target": "spa",
+      "weight": 21
+    },
+    {
+      "source": "D\u00fcrrenmatt,Friedrich",
+      "target": "dut",
+      "weight": 6
+    },
+    {
+      "source": "D\u00fcrrenmatt,Friedrich",
+      "target": "per",
+      "weight": 6
+    },
+    {
+      "source": "D\u00fcrrenmatt,Friedrich",
+      "target": "pol",
+      "weight": 8
+    },
+    {
+      "source": "D\u00fcrrenmatt,Friedrich",
+      "target": "rum",
+      "weight": 7
+    },
+    {
+      "source": "D\u00fcrrenmatt,Friedrich",
+      "target": "ita",
+      "weight": 36
+    },
+    {
+      "source": "D\u00fcrrenmatt,Friedrich",
+      "target": "rus",
+      "weight": 9
+    },
+    {
+      "source": "D\u00fcrrenmatt,Friedrich",
+      "target": "bul",
+      "weight": 6
+    },
+    {
+      "source": "D\u00fcrrenmatt,Friedrich",
+      "target": "gre",
+      "weight": 7
+    },
+    {
+      "source": "D\u00fcrrenmatt,Friedrich",
+      "target": "por",
+      "weight": 6
+    },
+    {
+      "source": "Ebert,Sabine",
+      "target": "cze",
+      "weight": 14
+    },
+    {
+      "source": "Ebert,Sabine",
+      "target": "pol",
+      "weight": 5
+    },
+    {
+      "source": "Enzensberger,HansMagnus",
+      "target": "fre",
+      "weight": 6
+    },
+    {
+      "source": "Enzensberger,HansMagnus",
+      "target": "cat",
+      "weight": 5
+    },
+    {
+      "source": "Enzensberger,HansMagnus",
+      "target": "eng",
+      "weight": 9
+    },
+    {
+      "source": "Enzensberger,HansMagnus",
+      "target": "ger",
+      "weight": 10
+    },
+    {
+      "source": "Enzensberger,HansMagnus",
+      "target": "spa",
+      "weight": 16
+    },
+    {
+      "source": "Enzensberger,HansMagnus",
+      "target": "dut",
+      "weight": 6
+    },
+    {
+      "source": "Enzensberger,HansMagnus",
+      "target": "pol",
+      "weight": 5
+    },
+    {
+      "source": "Enzensberger,HansMagnus",
+      "target": "ita",
+      "weight": 8
+    },
+    {
+      "source": "Fallada,Hans",
+      "target": "fre",
+      "weight": 10
+    },
+    {
+      "source": "Fallada,Hans",
+      "target": "swe",
+      "weight": 7
+    },
+    {
+      "source": "Fallada,Hans",
+      "target": "cat",
+      "weight": 6
+    },
+    {
+      "source": "Fallada,Hans",
+      "target": "eng",
+      "weight": 21
+    },
+    {
+      "source": "Fallada,Hans",
+      "target": "spa",
+      "weight": 11
+    },
+    {
+      "source": "Fallada,Hans",
+      "target": "dut",
+      "weight": 6
+    },
+    {
+      "source": "Fallada,Hans",
+      "target": "pol",
+      "weight": 5
+    },
+    {
+      "source": "Fallada,Hans",
+      "target": "heb",
+      "weight": 6
+    },
+    {
+      "source": "Feuchtwanger,Lion",
+      "target": "fre",
+      "weight": 9
+    },
+    {
+      "source": "Feuchtwanger,Lion",
+      "target": "cze",
+      "weight": 20
+    },
+    {
+      "source": "Feuchtwanger,Lion",
+      "target": "spa",
+      "weight": 19
+    },
+    {
+      "source": "Feuchtwanger,Lion",
+      "target": "rum",
+      "weight": 5
+    },
+    {
+      "source": "Feuchtwanger,Lion",
+      "target": "ita",
+      "weight": 6
+    },
+    {
+      "source": "Feuchtwanger,Lion",
+      "target": "rus",
+      "weight": 31
+    },
+    {
+      "source": "Feuchtwanger,Lion",
+      "target": "bul",
+      "weight": 9
+    },
+    {
+      "source": "Franck,Julia",
+      "target": "eng",
+      "weight": 7
+    },
+    {
+      "source": "Franck,Julia",
+      "target": "dut",
+      "weight": 7
+    },
+    {
+      "source": "Frisch,Max",
+      "target": "fre",
+      "weight": 13
+    },
+    {
+      "source": "Frisch,Max",
+      "target": "slv",
+      "weight": 5
+    },
+    {
+      "source": "Frisch,Max",
+      "target": "cze",
+      "weight": 5
+    },
+    {
+      "source": "Frisch,Max",
+      "target": "eng",
+      "weight": 11
+    },
+    {
+      "source": "Frisch,Max",
+      "target": "tur",
+      "weight": 15
+    },
+    {
+      "source": "Frisch,Max",
+      "target": "spa",
+      "weight": 15
+    },
+    {
+      "source": "Frisch,Max",
+      "target": "dut",
+      "weight": 5
+    },
+    {
+      "source": "Frisch,Max",
+      "target": "pol",
+      "weight": 10
+    },
+    {
+      "source": "Frisch,Max",
+      "target": "rum",
+      "weight": 5
+    },
+    {
+      "source": "Frisch,Max",
+      "target": "ita",
+      "weight": 10
+    },
+    {
+      "source": "Frisch,Max",
+      "target": "rus",
+      "weight": 9
+    },
+    {
+      "source": "Frisch,Max",
+      "target": "bul",
+      "weight": 11
+    },
+    {
+      "source": "George,Nina",
+      "target": "eng",
+      "weight": 6
+    },
+    {
+      "source": "George,Nina",
+      "target": "dut",
+      "weight": 6
+    },
+    {
+      "source": "Goethe,JohannWolfgangvon",
+      "target": "fre",
+      "weight": 39
+    },
+    {
+      "source": "Goethe,JohannWolfgangvon",
+      "target": "swe",
+      "weight": 10
+    },
+    {
+      "source": "Goethe,JohannWolfgangvon",
+      "target": "dan",
+      "weight": 9
+    },
+    {
+      "source": "Goethe,JohannWolfgangvon",
+      "target": "cat",
+      "weight": 10
+    },
+    {
+      "source": "Goethe,JohannWolfgangvon",
+      "target": "lit",
+      "weight": 7
+    },
+    {
+      "source": "Goethe,JohannWolfgangvon",
+      "target": "slv",
+      "weight": 8
+    },
+    {
+      "source": "Goethe,JohannWolfgangvon",
+      "target": "hrv",
+      "weight": 7
+    },
+    {
+      "source": "Goethe,JohannWolfgangvon",
+      "target": "cze",
+      "weight": 12
+    },
+    {
+      "source": "Goethe,JohannWolfgangvon",
+      "target": "nor",
+      "weight": 17
+    },
+    {
+      "source": "Goethe,JohannWolfgangvon",
+      "target": "fin",
+      "weight": 5
+    },
+    {
+      "source": "Goethe,JohannWolfgangvon",
+      "target": "eng",
+      "weight": 53
+    },
+    {
+      "source": "Goethe,JohannWolfgangvon",
+      "target": "hun",
+      "weight": 11
+    },
+    {
+      "source": "Goethe,JohannWolfgangvon",
+      "target": "ger",
+      "weight": 35
+    },
+    {
+      "source": "Goethe,JohannWolfgangvon",
+      "target": "tur",
+      "weight": 6
+    },
+    {
+      "source": "Goethe,JohannWolfgangvon",
+      "target": "spa",
+      "weight": 86
+    },
+    {
+      "source": "Goethe,JohannWolfgangvon",
+      "target": "dut",
+      "weight": 11
+    },
+    {
+      "source": "Goethe,JohannWolfgangvon",
+      "target": "per",
+      "weight": 7
+    },
+    {
+      "source": "Goethe,JohannWolfgangvon",
+      "target": "pol",
+      "weight": 31
+    },
+    {
+      "source": "Goethe,JohannWolfgangvon",
+      "target": "rum",
+      "weight": 8
+    },
+    {
+      "source": "Goethe,JohannWolfgangvon",
+      "target": "ita",
+      "weight": 24
+    },
+    {
+      "source": "Goethe,JohannWolfgangvon",
+      "target": "srp",
+      "weight": 26
+    },
+    {
+      "source": "Goethe,JohannWolfgangvon",
+      "target": "heb",
+      "weight": 7
+    },
+    {
+      "source": "Goethe,JohannWolfgangvon",
+      "target": "chi",
+      "weight": 15
+    },
+    {
+      "source": "Goethe,JohannWolfgangvon",
+      "target": "rus",
+      "weight": 34
+    },
+    {
+      "source": "Goethe,JohannWolfgangvon",
+      "target": "bul",
+      "weight": 9
+    },
+    {
+      "source": "Goethe,JohannWolfgangvon",
+      "target": "gre",
+      "weight": 11
+    },
+    {
+      "source": "Goethe,JohannWolfgangvon",
+      "target": "por",
+      "weight": 14
+    },
+    {
+      "source": "Grass,G\u00fcnter",
+      "target": "fre",
+      "weight": 17
+    },
+    {
+      "source": "Grass,G\u00fcnter",
+      "target": "swe",
+      "weight": 8
+    },
+    {
+      "source": "Grass,G\u00fcnter",
+      "target": "cat",
+      "weight": 8
+    },
+    {
+      "source": "Grass,G\u00fcnter",
+      "target": "lit",
+      "weight": 9
+    },
+    {
+      "source": "Grass,G\u00fcnter",
+      "target": "slv",
+      "weight": 5
+    },
+    {
+      "source": "Grass,G\u00fcnter",
+      "target": "hrv",
+      "weight": 6
+    },
+    {
+      "source": "Grass,G\u00fcnter",
+      "target": "est",
+      "weight": 5
+    },
+    {
+      "source": "Grass,G\u00fcnter",
+      "target": "jpn",
+      "weight": 5
+    },
+    {
+      "source": "Grass,G\u00fcnter",
+      "target": "cze",
+      "weight": 12
+    },
+    {
+      "source": "Grass,G\u00fcnter",
+      "target": "nor",
+      "weight": 7
+    },
+    {
+      "source": "Grass,G\u00fcnter",
+      "target": "fin",
+      "weight": 7
+    },
+    {
+      "source": "Grass,G\u00fcnter",
+      "target": "eng",
+      "weight": 22
+    },
+    {
+      "source": "Grass,G\u00fcnter",
+      "target": "hun",
+      "weight": 7
+    },
+    {
+      "source": "Grass,G\u00fcnter",
+      "target": "tur",
+      "weight": 5
+    },
+    {
+      "source": "Grass,G\u00fcnter",
+      "target": "spa",
+      "weight": 43
+    },
+    {
+      "source": "Grass,G\u00fcnter",
+      "target": "dut",
+      "weight": 14
+    },
+    {
+      "source": "Grass,G\u00fcnter",
+      "target": "per",
+      "weight": 5
+    },
+    {
+      "source": "Grass,G\u00fcnter",
+      "target": "pol",
+      "weight": 21
+    },
+    {
+      "source": "Grass,G\u00fcnter",
+      "target": "rum",
+      "weight": 6
+    },
+    {
+      "source": "Grass,G\u00fcnter",
+      "target": "ara",
+      "weight": 5
+    },
+    {
+      "source": "Grass,G\u00fcnter",
+      "target": "ita",
+      "weight": 9
+    },
+    {
+      "source": "Grass,G\u00fcnter",
+      "target": "srp",
+      "weight": 5
+    },
+    {
+      "source": "Grass,G\u00fcnter",
+      "target": "heb",
+      "weight": 5
+    },
+    {
+      "source": "Grass,G\u00fcnter",
+      "target": "chi",
+      "weight": 17
+    },
+    {
+      "source": "Grass,G\u00fcnter",
+      "target": "rus",
+      "weight": 11
+    },
+    {
+      "source": "Grass,G\u00fcnter",
+      "target": "bul",
+      "weight": 5
+    },
+    {
+      "source": "Grass,G\u00fcnter",
+      "target": "gre",
+      "weight": 8
+    },
+    {
+      "source": "Grass,G\u00fcnter",
+      "target": "por",
+      "weight": 8
+    },
+    {
+      "source": "Hackl,Erich",
+      "target": "fre",
+      "weight": 5
+    },
+    {
+      "source": "Hackl,Erich",
+      "target": "eng",
+      "weight": 9
+    },
+    {
+      "source": "Hackl,Erich",
+      "target": "spa",
+      "weight": 6
+    },
+    {
+      "source": "Hauptmann,Gaby",
+      "target": "fre",
+      "weight": 5
+    },
+    {
+      "source": "Hauptmann,Gaby",
+      "target": "slo",
+      "weight": 6
+    },
+    {
+      "source": "Hauptmann,Gaby",
+      "target": "spa",
+      "weight": 5
+    },
+    {
+      "source": "Hauptmann,Gaby",
+      "target": "ita",
+      "weight": 9
+    },
+    {
+      "source": "Hauptmann,Gaby",
+      "target": "rus",
+      "weight": 5
+    },
+    {
+      "source": "Hauptmann,Gaby",
+      "target": "gre",
+      "weight": 5
+    },
+    {
+      "source": "Hauptmann,Gaby",
+      "target": "por",
+      "weight": 9
+    },
+    {
+      "source": "Hesse,Hermann",
+      "target": "fre",
+      "weight": 55
+    },
+    {
+      "source": "Hesse,Hermann",
+      "target": "swe",
+      "weight": 12
+    },
+    {
+      "source": "Hesse,Hermann",
+      "target": "dan",
+      "weight": 11
+    },
+    {
+      "source": "Hesse,Hermann",
+      "target": "cat",
+      "weight": 24
+    },
+    {
+      "source": "Hesse,Hermann",
+      "target": "lit",
+      "weight": 28
+    },
+    {
+      "source": "Hesse,Hermann",
+      "target": "slv",
+      "weight": 14
+    },
+    {
+      "source": "Hesse,Hermann",
+      "target": "hrv",
+      "weight": 18
+    },
+    {
+      "source": "Hesse,Hermann",
+      "target": "est",
+      "weight": 12
+    },
+    {
+      "source": "Hesse,Hermann",
+      "target": "jpn",
+      "weight": 14
+    },
+    {
+      "source": "Hesse,Hermann",
+      "target": "cze",
+      "weight": 28
+    },
+    {
+      "source": "Hesse,Hermann",
+      "target": "slo",
+      "weight": 23
+    },
+    {
+      "source": "Hesse,Hermann",
+      "target": "nor",
+      "weight": 13
+    },
+    {
+      "source": "Hesse,Hermann",
+      "target": "fin",
+      "weight": 14
+    },
+    {
+      "source": "Hesse,Hermann",
+      "target": "geo",
+      "weight": 9
+    },
+    {
+      "source": "Hesse,Hermann",
+      "target": "eng",
+      "weight": 40
+    },
+    {
+      "source": "Hesse,Hermann",
+      "target": "hun",
+      "weight": 33
+    },
+    {
+      "source": "Hesse,Hermann",
+      "target": "ger",
+      "weight": 9
+    },
+    {
+      "source": "Hesse,Hermann",
+      "target": "tur",
+      "weight": 25
+    },
+    {
+      "source": "Hesse,Hermann",
+      "target": "mac",
+      "weight": 6
+    },
+    {
+      "source": "Hesse,Hermann",
+      "target": "spa",
+      "weight": 90
+    },
+    {
+      "source": "Hesse,Hermann",
+      "target": "dut",
+      "weight": 36
+    },
+    {
+      "source": "Hesse,Hermann",
+      "target": "per",
+      "weight": 22
+    },
+    {
+      "source": "Hesse,Hermann",
+      "target": "pol",
+      "weight": 40
+    },
+    {
+      "source": "Hesse,Hermann",
+      "target": "rum",
+      "weight": 21
+    },
+    {
+      "source": "Hesse,Hermann",
+      "target": "ara",
+      "weight": 17
+    },
+    {
+      "source": "Hesse,Hermann",
+      "target": "ita",
+      "weight": 141
+    },
+    {
+      "source": "Hesse,Hermann",
+      "target": "srp",
+      "weight": 45
+    },
+    {
+      "source": "Hesse,Hermann",
+      "target": "kor",
+      "weight": 24
+    },
+    {
+      "source": "Hesse,Hermann",
+      "target": "chi",
+      "weight": 21
+    },
+    {
+      "source": "Hesse,Hermann",
+      "target": "ukr",
+      "weight": 9
+    },
+    {
+      "source": "Hesse,Hermann",
+      "target": "rus",
+      "weight": 44
+    },
+    {
+      "source": "Hesse,Hermann",
+      "target": "lav",
+      "weight": 9
+    },
+    {
+      "source": "Hesse,Hermann",
+      "target": "bul",
+      "weight": 14
+    },
+    {
+      "source": "Hesse,Hermann",
+      "target": "alb",
+      "weight": 9
+    },
+    {
+      "source": "Hesse,Hermann",
+      "target": "gre",
+      "weight": 19
+    },
+    {
+      "source": "Hesse,Hermann",
+      "target": "por",
+      "weight": 53
+    },
+    {
+      "source": "Hilsenrath,Edgar",
+      "target": "fre",
+      "weight": 12
+    },
+    {
+      "source": "Hilsenrath,Edgar",
+      "target": "eng",
+      "weight": 10
+    },
+    {
+      "source": "Hilsenrath,Edgar",
+      "target": "dut",
+      "weight": 8
+    },
+    {
+      "source": "Hilsenrath,Edgar",
+      "target": "ita",
+      "weight": 8
+    },
+    {
+      "source": "H\u00f6lderlin,Friedrich",
+      "target": "fre",
+      "weight": 11
+    },
+    {
+      "source": "H\u00f6lderlin,Friedrich",
+      "target": "eng",
+      "weight": 9
+    },
+    {
+      "source": "H\u00f6lderlin,Friedrich",
+      "target": "ger",
+      "weight": 20
+    },
+    {
+      "source": "H\u00f6lderlin,Friedrich",
+      "target": "spa",
+      "weight": 22
+    },
+    {
+      "source": "H\u00f6lderlin,Friedrich",
+      "target": "pol",
+      "weight": 7
+    },
+    {
+      "source": "Jelinek,Elfriede",
+      "target": "fre",
+      "weight": 26
+    },
+    {
+      "source": "Jelinek,Elfriede",
+      "target": "swe",
+      "weight": 10
+    },
+    {
+      "source": "Jelinek,Elfriede",
+      "target": "cat",
+      "weight": 5
+    },
+    {
+      "source": "Jelinek,Elfriede",
+      "target": "slv",
+      "weight": 5
+    },
+    {
+      "source": "Jelinek,Elfriede",
+      "target": "jpn",
+      "weight": 8
+    },
+    {
+      "source": "Jelinek,Elfriede",
+      "target": "cze",
+      "weight": 13
+    },
+    {
+      "source": "Jelinek,Elfriede",
+      "target": "nor",
+      "weight": 7
+    },
+    {
+      "source": "Jelinek,Elfriede",
+      "target": "eng",
+      "weight": 11
+    },
+    {
+      "source": "Jelinek,Elfriede",
+      "target": "tur",
+      "weight": 8
+    },
+    {
+      "source": "Jelinek,Elfriede",
+      "target": "spa",
+      "weight": 16
+    },
+    {
+      "source": "Jelinek,Elfriede",
+      "target": "dut",
+      "weight": 20
+    },
+    {
+      "source": "Jelinek,Elfriede",
+      "target": "pol",
+      "weight": 11
+    },
+    {
+      "source": "Jelinek,Elfriede",
+      "target": "rum",
+      "weight": 6
+    },
+    {
+      "source": "Jelinek,Elfriede",
+      "target": "ita",
+      "weight": 17
+    },
+    {
+      "source": "Jelinek,Elfriede",
+      "target": "srp",
+      "weight": 8
+    },
+    {
+      "source": "Jelinek,Elfriede",
+      "target": "chi",
+      "weight": 17
+    },
+    {
+      "source": "Jelinek,Elfriede",
+      "target": "rus",
+      "weight": 19
+    },
+    {
+      "source": "Jelinek,Elfriede",
+      "target": "bul",
+      "weight": 7
+    },
+    {
+      "source": "Jelinek,Elfriede",
+      "target": "alb",
+      "weight": 5
+    },
+    {
+      "source": "Jelinek,Elfriede",
+      "target": "por",
+      "weight": 9
+    },
+    {
+      "source": "Kafka,Franz",
+      "target": "fre",
+      "weight": 31
+    },
+    {
+      "source": "Kafka,Franz",
+      "target": "swe",
+      "weight": 20
+    },
+    {
+      "source": "Kafka,Franz",
+      "target": "dan",
+      "weight": 9
+    },
+    {
+      "source": "Kafka,Franz",
+      "target": "cat",
+      "weight": 23
+    },
+    {
+      "source": "Kafka,Franz",
+      "target": "lit",
+      "weight": 10
+    },
+    {
+      "source": "Kafka,Franz",
+      "target": "slv",
+      "weight": 9
+    },
+    {
+      "source": "Kafka,Franz",
+      "target": "hrv",
+      "weight": 9
+    },
+    {
+      "source": "Kafka,Franz",
+      "target": "cze",
+      "weight": 28
+    },
+    {
+      "source": "Kafka,Franz",
+      "target": "slo",
+      "weight": 5
+    },
+    {
+      "source": "Kafka,Franz",
+      "target": "nor",
+      "weight": 21
+    },
+    {
+      "source": "Kafka,Franz",
+      "target": "eng",
+      "weight": 66
+    },
+    {
+      "source": "Kafka,Franz",
+      "target": "hun",
+      "weight": 12
+    },
+    {
+      "source": "Kafka,Franz",
+      "target": "ger",
+      "weight": 11
+    },
+    {
+      "source": "Kafka,Franz",
+      "target": "tur",
+      "weight": 21
+    },
+    {
+      "source": "Kafka,Franz",
+      "target": "spa",
+      "weight": 177
+    },
+    {
+      "source": "Kafka,Franz",
+      "target": "dut",
+      "weight": 15
+    },
+    {
+      "source": "Kafka,Franz",
+      "target": "per",
+      "weight": 5
+    },
+    {
+      "source": "Kafka,Franz",
+      "target": "pol",
+      "weight": 22
+    },
+    {
+      "source": "Kafka,Franz",
+      "target": "rum",
+      "weight": 7
+    },
+    {
+      "source": "Kafka,Franz",
+      "target": "ara",
+      "weight": 7
+    },
+    {
+      "source": "Kafka,Franz",
+      "target": "ita",
+      "weight": 33
+    },
+    {
+      "source": "Kafka,Franz",
+      "target": "srp",
+      "weight": 36
+    },
+    {
+      "source": "Kafka,Franz",
+      "target": "heb",
+      "weight": 5
+    },
+    {
+      "source": "Kafka,Franz",
+      "target": "ukr",
+      "weight": 8
+    },
+    {
+      "source": "Kafka,Franz",
+      "target": "rus",
+      "weight": 55
+    },
+    {
+      "source": "Kafka,Franz",
+      "target": "lav",
+      "weight": 7
+    },
+    {
+      "source": "Kafka,Franz",
+      "target": "bul",
+      "weight": 10
+    },
+    {
+      "source": "Kafka,Franz",
+      "target": "gre",
+      "weight": 11
+    },
+    {
+      "source": "Kafka,Franz",
+      "target": "por",
+      "weight": 31
+    },
+    {
+      "source": "Kehlmann,Daniel",
+      "target": "fre",
+      "weight": 6
+    },
+    {
+      "source": "Kehlmann,Daniel",
+      "target": "swe",
+      "weight": 5
+    },
+    {
+      "source": "Kehlmann,Daniel",
+      "target": "dan",
+      "weight": 6
+    },
+    {
+      "source": "Kehlmann,Daniel",
+      "target": "hrv",
+      "weight": 7
+    },
+    {
+      "source": "Kehlmann,Daniel",
+      "target": "est",
+      "weight": 5
+    },
+    {
+      "source": "Kehlmann,Daniel",
+      "target": "cze",
+      "weight": 5
+    },
+    {
+      "source": "Kehlmann,Daniel",
+      "target": "nor",
+      "weight": 7
+    },
+    {
+      "source": "Kehlmann,Daniel",
+      "target": "eng",
+      "weight": 9
+    },
+    {
+      "source": "Kehlmann,Daniel",
+      "target": "hun",
+      "weight": 9
+    },
+    {
+      "source": "Kehlmann,Daniel",
+      "target": "tur",
+      "weight": 7
+    },
+    {
+      "source": "Kehlmann,Daniel",
+      "target": "spa",
+      "weight": 7
+    },
+    {
+      "source": "Kehlmann,Daniel",
+      "target": "dut",
+      "weight": 7
+    },
+    {
+      "source": "Kehlmann,Daniel",
+      "target": "ita",
+      "weight": 11
+    },
+    {
+      "source": "Kehlmann,Daniel",
+      "target": "chi",
+      "weight": 6
+    },
+    {
+      "source": "Kehlmann,Daniel",
+      "target": "rus",
+      "weight": 6
+    },
+    {
+      "source": "Kehlmann,Daniel",
+      "target": "bul",
+      "weight": 7
+    },
+    {
+      "source": "Kehlmann,Daniel",
+      "target": "gre",
+      "weight": 6
+    },
+    {
+      "source": "Kehlmann,Daniel",
+      "target": "por",
+      "weight": 7
+    },
+    {
+      "source": "Lenz,Siegfried",
+      "target": "fre",
+      "weight": 7
+    },
+    {
+      "source": "Lenz,Siegfried",
+      "target": "dan",
+      "weight": 9
+    },
+    {
+      "source": "Lenz,Siegfried",
+      "target": "nor",
+      "weight": 5
+    },
+    {
+      "source": "Lenz,Siegfried",
+      "target": "eng",
+      "weight": 11
+    },
+    {
+      "source": "Lenz,Siegfried",
+      "target": "hun",
+      "weight": 6
+    },
+    {
+      "source": "Lenz,Siegfried",
+      "target": "tur",
+      "weight": 6
+    },
+    {
+      "source": "Lenz,Siegfried",
+      "target": "spa",
+      "weight": 13
+    },
+    {
+      "source": "Lenz,Siegfried",
+      "target": "dut",
+      "weight": 11
+    },
+    {
+      "source": "Lenz,Siegfried",
+      "target": "pol",
+      "weight": 7
+    },
+    {
+      "source": "Lenz,Siegfried",
+      "target": "chi",
+      "weight": 9
+    },
+    {
+      "source": "Mann,Thomas",
+      "target": "fre",
+      "weight": 30
+    },
+    {
+      "source": "Mann,Thomas",
+      "target": "swe",
+      "weight": 9
+    },
+    {
+      "source": "Mann,Thomas",
+      "target": "dan",
+      "weight": 12
+    },
+    {
+      "source": "Mann,Thomas",
+      "target": "cat",
+      "weight": 18
+    },
+    {
+      "source": "Mann,Thomas",
+      "target": "hrv",
+      "weight": 7
+    },
+    {
+      "source": "Mann,Thomas",
+      "target": "est",
+      "weight": 6
+    },
+    {
+      "source": "Mann,Thomas",
+      "target": "cze",
+      "weight": 5
+    },
+    {
+      "source": "Mann,Thomas",
+      "target": "nor",
+      "weight": 18
+    },
+    {
+      "source": "Mann,Thomas",
+      "target": "fin",
+      "weight": 8
+    },
+    {
+      "source": "Mann,Thomas",
+      "target": "eng",
+      "weight": 47
+    },
+    {
+      "source": "Mann,Thomas",
+      "target": "hun",
+      "weight": 24
+    },
+    {
+      "source": "Mann,Thomas",
+      "target": "tur",
+      "weight": 19
+    },
+    {
+      "source": "Mann,Thomas",
+      "target": "spa",
+      "weight": 64
+    },
+    {
+      "source": "Mann,Thomas",
+      "target": "dut",
+      "weight": 22
+    },
+    {
+      "source": "Mann,Thomas",
+      "target": "pol",
+      "weight": 19
+    },
+    {
+      "source": "Mann,Thomas",
+      "target": "rum",
+      "weight": 19
+    },
+    {
+      "source": "Mann,Thomas",
+      "target": "ita",
+      "weight": 28
+    },
+    {
+      "source": "Mann,Thomas",
+      "target": "srp",
+      "weight": 24
+    },
+    {
+      "source": "Mann,Thomas",
+      "target": "chi",
+      "weight": 9
+    },
+    {
+      "source": "Mann,Thomas",
+      "target": "rus",
+      "weight": 17
+    },
+    {
+      "source": "Mann,Thomas",
+      "target": "bul",
+      "weight": 5
+    },
+    {
+      "source": "Mann,Thomas",
+      "target": "gre",
+      "weight": 21
+    },
+    {
+      "source": "Mann,Thomas",
+      "target": "por",
+      "weight": 40
+    },
+    {
+      "source": "Mercier,Pascal",
+      "target": "fre",
+      "weight": 5
+    },
+    {
+      "source": "Mercier,Pascal",
+      "target": "eng",
+      "weight": 7
+    },
+    {
+      "source": "Mercier,Pascal",
+      "target": "spa",
+      "weight": 5
+    },
+    {
+      "source": "Mercier,Pascal",
+      "target": "dut",
+      "weight": 9
+    },
+    {
+      "source": "Mercier,Pascal",
+      "target": "por",
+      "weight": 5
+    },
+    {
+      "source": "M\u00fcller,Herta",
+      "target": "fre",
+      "weight": 10
+    },
+    {
+      "source": "M\u00fcller,Herta",
+      "target": "swe",
+      "weight": 13
+    },
+    {
+      "source": "M\u00fcller,Herta",
+      "target": "dan",
+      "weight": 9
+    },
+    {
+      "source": "M\u00fcller,Herta",
+      "target": "slv",
+      "weight": 6
+    },
+    {
+      "source": "M\u00fcller,Herta",
+      "target": "cze",
+      "weight": 5
+    },
+    {
+      "source": "M\u00fcller,Herta",
+      "target": "nor",
+      "weight": 5
+    },
+    {
+      "source": "M\u00fcller,Herta",
+      "target": "fin",
+      "weight": 8
+    },
+    {
+      "source": "M\u00fcller,Herta",
+      "target": "eng",
+      "weight": 14
+    },
+    {
+      "source": "M\u00fcller,Herta",
+      "target": "hun",
+      "weight": 5
+    },
+    {
+      "source": "M\u00fcller,Herta",
+      "target": "spa",
+      "weight": 17
+    },
+    {
+      "source": "M\u00fcller,Herta",
+      "target": "dut",
+      "weight": 14
+    },
+    {
+      "source": "M\u00fcller,Herta",
+      "target": "pol",
+      "weight": 9
+    },
+    {
+      "source": "M\u00fcller,Herta",
+      "target": "rum",
+      "weight": 10
+    },
+    {
+      "source": "M\u00fcller,Herta",
+      "target": "ita",
+      "weight": 10
+    },
+    {
+      "source": "M\u00fcller,Herta",
+      "target": "por",
+      "weight": 10
+    },
+    {
+      "source": "Musil,Robert",
+      "target": "fre",
+      "weight": 5
+    },
+    {
+      "source": "Musil,Robert",
+      "target": "cze",
+      "weight": 7
+    },
+    {
+      "source": "Musil,Robert",
+      "target": "eng",
+      "weight": 6
+    },
+    {
+      "source": "Musil,Robert",
+      "target": "hun",
+      "weight": 5
+    },
+    {
+      "source": "Musil,Robert",
+      "target": "tur",
+      "weight": 5
+    },
+    {
+      "source": "Musil,Robert",
+      "target": "spa",
+      "weight": 14
+    },
+    {
+      "source": "Musil,Robert",
+      "target": "dut",
+      "weight": 6
+    },
+    {
+      "source": "Musil,Robert",
+      "target": "ita",
+      "weight": 13
+    },
+    {
+      "source": "Musil,Robert",
+      "target": "por",
+      "weight": 8
+    },
+    {
+      "source": "Remarque,ErichMaria",
+      "target": "fre",
+      "weight": 8
+    },
+    {
+      "source": "Remarque,ErichMaria",
+      "target": "swe",
+      "weight": 6
+    },
+    {
+      "source": "Remarque,ErichMaria",
+      "target": "lit",
+      "weight": 31
+    },
+    {
+      "source": "Remarque,ErichMaria",
+      "target": "est",
+      "weight": 18
+    },
+    {
+      "source": "Remarque,ErichMaria",
+      "target": "cze",
+      "weight": 36
+    },
+    {
+      "source": "Remarque,ErichMaria",
+      "target": "slo",
+      "weight": 13
+    },
+    {
+      "source": "Remarque,ErichMaria",
+      "target": "nor",
+      "weight": 6
+    },
+    {
+      "source": "Remarque,ErichMaria",
+      "target": "eng",
+      "weight": 19
+    },
+    {
+      "source": "Remarque,ErichMaria",
+      "target": "hun",
+      "weight": 23
+    },
+    {
+      "source": "Remarque,ErichMaria",
+      "target": "dut",
+      "weight": 6
+    },
+    {
+      "source": "Remarque,ErichMaria",
+      "target": "pol",
+      "weight": 53
+    },
+    {
+      "source": "Remarque,ErichMaria",
+      "target": "rum",
+      "weight": 8
+    },
+    {
+      "source": "Remarque,ErichMaria",
+      "target": "ita",
+      "weight": 11
+    },
+    {
+      "source": "Remarque,ErichMaria",
+      "target": "srp",
+      "weight": 12
+    },
+    {
+      "source": "Remarque,ErichMaria",
+      "target": "rus",
+      "weight": 77
+    },
+    {
+      "source": "Remarque,ErichMaria",
+      "target": "lav",
+      "weight": 14
+    },
+    {
+      "source": "Remarque,ErichMaria",
+      "target": "bul",
+      "weight": 30
+    },
+    {
+      "source": "Remarque,ErichMaria",
+      "target": "alb",
+      "weight": 6
+    },
+    {
+      "source": "Remarque,ErichMaria",
+      "target": "por",
+      "weight": 5
+    },
+    {
+      "source": "Roth,Joseph",
+      "target": "fre",
+      "weight": 21
+    },
+    {
+      "source": "Roth,Joseph",
+      "target": "swe",
+      "weight": 8
+    },
+    {
+      "source": "Roth,Joseph",
+      "target": "cat",
+      "weight": 7
+    },
+    {
+      "source": "Roth,Joseph",
+      "target": "est",
+      "weight": 7
+    },
+    {
+      "source": "Roth,Joseph",
+      "target": "cze",
+      "weight": 9
+    },
+    {
+      "source": "Roth,Joseph",
+      "target": "eng",
+      "weight": 29
+    },
+    {
+      "source": "Roth,Joseph",
+      "target": "spa",
+      "weight": 57
+    },
+    {
+      "source": "Roth,Joseph",
+      "target": "dut",
+      "weight": 19
+    },
+    {
+      "source": "Roth,Joseph",
+      "target": "pol",
+      "weight": 20
+    },
+    {
+      "source": "Roth,Joseph",
+      "target": "rum",
+      "weight": 6
+    },
+    {
+      "source": "Roth,Joseph",
+      "target": "ita",
+      "weight": 25
+    },
+    {
+      "source": "Roth,Joseph",
+      "target": "srp",
+      "weight": 7
+    },
+    {
+      "source": "Roth,Joseph",
+      "target": "heb",
+      "weight": 5
+    },
+    {
+      "source": "Roth,Joseph",
+      "target": "bul",
+      "weight": 9
+    },
+    {
+      "source": "Roth,Joseph",
+      "target": "gre",
+      "weight": 9
+    },
+    {
+      "source": "Roth,Joseph",
+      "target": "por",
+      "weight": 7
+    },
+    {
+      "source": "Schlink,Bernhard",
+      "target": "fre",
+      "weight": 18
+    },
+    {
+      "source": "Schlink,Bernhard",
+      "target": "swe",
+      "weight": 5
+    },
+    {
+      "source": "Schlink,Bernhard",
+      "target": "cat",
+      "weight": 11
+    },
+    {
+      "source": "Schlink,Bernhard",
+      "target": "slv",
+      "weight": 8
+    },
+    {
+      "source": "Schlink,Bernhard",
+      "target": "jpn",
+      "weight": 11
+    },
+    {
+      "source": "Schlink,Bernhard",
+      "target": "cze",
+      "weight": 10
+    },
+    {
+      "source": "Schlink,Bernhard",
+      "target": "nor",
+      "weight": 5
+    },
+    {
+      "source": "Schlink,Bernhard",
+      "target": "fin",
+      "weight": 5
+    },
+    {
+      "source": "Schlink,Bernhard",
+      "target": "eng",
+      "weight": 16
+    },
+    {
+      "source": "Schlink,Bernhard",
+      "target": "tur",
+      "weight": 10
+    },
+    {
+      "source": "Schlink,Bernhard",
+      "target": "mac",
+      "weight": 7
+    },
+    {
+      "source": "Schlink,Bernhard",
+      "target": "spa",
+      "weight": 16
+    },
+    {
+      "source": "Schlink,Bernhard",
+      "target": "dut",
+      "weight": 19
+    },
+    {
+      "source": "Schlink,Bernhard",
+      "target": "pol",
+      "weight": 10
+    },
+    {
+      "source": "Schlink,Bernhard",
+      "target": "rum",
+      "weight": 8
+    },
+    {
+      "source": "Schlink,Bernhard",
+      "target": "ita",
+      "weight": 11
+    },
+    {
+      "source": "Schlink,Bernhard",
+      "target": "srp",
+      "weight": 12
+    },
+    {
+      "source": "Schlink,Bernhard",
+      "target": "kor",
+      "weight": 6
+    },
+    {
+      "source": "Schlink,Bernhard",
+      "target": "heb",
+      "weight": 6
+    },
+    {
+      "source": "Schlink,Bernhard",
+      "target": "chi",
+      "weight": 15
+    },
+    {
+      "source": "Schlink,Bernhard",
+      "target": "rus",
+      "weight": 15
+    },
+    {
+      "source": "Schlink,Bernhard",
+      "target": "bul",
+      "weight": 6
+    },
+    {
+      "source": "Schlink,Bernhard",
+      "target": "gre",
+      "weight": 9
+    },
+    {
+      "source": "Schlink,Bernhard",
+      "target": "por",
+      "weight": 15
+    },
+    {
+      "source": "Schnitzler,Arthur",
+      "target": "fre",
+      "weight": 24
+    },
+    {
+      "source": "Schnitzler,Arthur",
+      "target": "cat",
+      "weight": 5
+    },
+    {
+      "source": "Schnitzler,Arthur",
+      "target": "eng",
+      "weight": 26
+    },
+    {
+      "source": "Schnitzler,Arthur",
+      "target": "spa",
+      "weight": 23
+    },
+    {
+      "source": "Schnitzler,Arthur",
+      "target": "dut",
+      "weight": 8
+    },
+    {
+      "source": "Schnitzler,Arthur",
+      "target": "ita",
+      "weight": 24
+    },
+    {
+      "source": "Schnitzler,Arthur",
+      "target": "bul",
+      "weight": 8
+    },
+    {
+      "source": "Schnitzler,Arthur",
+      "target": "gre",
+      "weight": 5
+    },
+    {
+      "source": "Schnitzler,Arthur",
+      "target": "por",
+      "weight": 8
+    },
+    {
+      "source": "Schulze,Ingo",
+      "target": "fre",
+      "weight": 5
+    },
+    {
+      "source": "Schulze,Ingo",
+      "target": "eng",
+      "weight": 6
+    },
+    {
+      "source": "Schulze,Ingo",
+      "target": "hun",
+      "weight": 6
+    },
+    {
+      "source": "Schulze,Ingo",
+      "target": "spa",
+      "weight": 5
+    },
+    {
+      "source": "Schulze,Ingo",
+      "target": "dut",
+      "weight": 6
+    },
+    {
+      "source": "Schulze,Ingo",
+      "target": "ita",
+      "weight": 8
+    },
+    {
+      "source": "Schulze,Ingo",
+      "target": "gre",
+      "weight": 5
+    },
+    {
+      "source": "S\u00fcskind,Patrick",
+      "target": "fre",
+      "weight": 8
+    },
+    {
+      "source": "S\u00fcskind,Patrick",
+      "target": "swe",
+      "weight": 6
+    },
+    {
+      "source": "S\u00fcskind,Patrick",
+      "target": "cat",
+      "weight": 9
+    },
+    {
+      "source": "S\u00fcskind,Patrick",
+      "target": "lit",
+      "weight": 8
+    },
+    {
+      "source": "S\u00fcskind,Patrick",
+      "target": "cze",
+      "weight": 6
+    },
+    {
+      "source": "S\u00fcskind,Patrick",
+      "target": "nor",
+      "weight": 5
+    },
+    {
+      "source": "S\u00fcskind,Patrick",
+      "target": "eng",
+      "weight": 8
+    },
+    {
+      "source": "S\u00fcskind,Patrick",
+      "target": "hun",
+      "weight": 6
+    },
+    {
+      "source": "S\u00fcskind,Patrick",
+      "target": "tur",
+      "weight": 7
+    },
+    {
+      "source": "S\u00fcskind,Patrick",
+      "target": "spa",
+      "weight": 17
+    },
+    {
+      "source": "S\u00fcskind,Patrick",
+      "target": "dut",
+      "weight": 10
+    },
+    {
+      "source": "S\u00fcskind,Patrick",
+      "target": "pol",
+      "weight": 13
+    },
+    {
+      "source": "S\u00fcskind,Patrick",
+      "target": "ita",
+      "weight": 8
+    },
+    {
+      "source": "S\u00fcskind,Patrick",
+      "target": "srp",
+      "weight": 6
+    },
+    {
+      "source": "S\u00fcskind,Patrick",
+      "target": "kor",
+      "weight": 5
+    },
+    {
+      "source": "S\u00fcskind,Patrick",
+      "target": "chi",
+      "weight": 13
+    },
+    {
+      "source": "S\u00fcskind,Patrick",
+      "target": "rus",
+      "weight": 12
+    },
+    {
+      "source": "S\u00fcskind,Patrick",
+      "target": "lav",
+      "weight": 6
+    },
+    {
+      "source": "S\u00fcskind,Patrick",
+      "target": "bul",
+      "weight": 5
+    },
+    {
+      "source": "S\u00fcskind,Patrick",
+      "target": "por",
+      "weight": 7
+    },
+    {
+      "source": "Trakl,Georg",
+      "target": "eng",
+      "weight": 8
+    },
+    {
+      "source": "Trakl,Georg",
+      "target": "ger",
+      "weight": 10
+    },
+    {
+      "source": "Trakl,Georg",
+      "target": "spa",
+      "weight": 5
+    },
+    {
+      "source": "Walser,Robert",
+      "target": "fre",
+      "weight": 37
+    },
+    {
+      "source": "Walser,Robert",
+      "target": "slv",
+      "weight": 7
+    },
+    {
+      "source": "Walser,Robert",
+      "target": "cze",
+      "weight": 5
+    },
+    {
+      "source": "Walser,Robert",
+      "target": "nor",
+      "weight": 5
+    },
+    {
+      "source": "Walser,Robert",
+      "target": "eng",
+      "weight": 22
+    },
+    {
+      "source": "Walser,Robert",
+      "target": "hun",
+      "weight": 6
+    },
+    {
+      "source": "Walser,Robert",
+      "target": "spa",
+      "weight": 24
+    },
+    {
+      "source": "Walser,Robert",
+      "target": "pol",
+      "weight": 5
+    },
+    {
+      "source": "Walser,Robert",
+      "target": "ita",
+      "weight": 14
+    },
+    {
+      "source": "Walser,Robert",
+      "target": "srp",
+      "weight": 5
+    },
+    {
+      "source": "Walser,Robert",
+      "target": "rus",
+      "weight": 5
+    },
+    {
+      "source": "Walser,Robert",
+      "target": "por",
+      "weight": 9
+    },
+    {
+      "source": "Wolf,Christa",
+      "target": "fre",
+      "weight": 19
+    },
+    {
+      "source": "Wolf,Christa",
+      "target": "swe",
+      "weight": 5
+    },
+    {
+      "source": "Wolf,Christa",
+      "target": "jpn",
+      "weight": 6
+    },
+    {
+      "source": "Wolf,Christa",
+      "target": "nor",
+      "weight": 5
+    },
+    {
+      "source": "Wolf,Christa",
+      "target": "eng",
+      "weight": 17
+    },
+    {
+      "source": "Wolf,Christa",
+      "target": "tur",
+      "weight": 5
+    },
+    {
+      "source": "Wolf,Christa",
+      "target": "spa",
+      "weight": 16
+    },
+    {
+      "source": "Wolf,Christa",
+      "target": "dut",
+      "weight": 6
+    },
+    {
+      "source": "Wolf,Christa",
+      "target": "ara",
+      "weight": 5
+    },
+    {
+      "source": "Wolf,Christa",
+      "target": "ita",
+      "weight": 19
+    },
+    {
+      "source": "Wolf,Christa",
+      "target": "gre",
+      "weight": 6
+    },
+    {
+      "source": "Wolf,Christa",
+      "target": "por",
+      "weight": 5
+    },
+    {
+      "source": "Zeh,Juli",
+      "target": "fre",
+      "weight": 10
+    },
+    {
+      "source": "Zeh,Juli",
+      "target": "swe",
+      "weight": 6
+    },
+    {
+      "source": "Zeh,Juli",
+      "target": "eng",
+      "weight": 11
+    },
+    {
+      "source": "Zeh,Juli",
+      "target": "spa",
+      "weight": 5
+    },
+    {
+      "source": "Zeh,Juli",
+      "target": "dut",
+      "weight": 11
+    },
+    {
+      "source": "Zeh,Juli",
+      "target": "ita",
+      "weight": 5
+    },
+    {
+      "source": "Zweig,Stefan",
+      "target": "fre",
+      "weight": 66
+    },
+    {
+      "source": "Zweig,Stefan",
+      "target": "cat",
+      "weight": 8
+    },
+    {
+      "source": "Zweig,Stefan",
+      "target": "lit",
+      "weight": 8
+    },
+    {
+      "source": "Zweig,Stefan",
+      "target": "cze",
+      "weight": 10
+    },
+    {
+      "source": "Zweig,Stefan",
+      "target": "eng",
+      "weight": 23
+    },
+    {
+      "source": "Zweig,Stefan",
+      "target": "hun",
+      "weight": 6
+    },
+    {
+      "source": "Zweig,Stefan",
+      "target": "ger",
+      "weight": 7
+    },
+    {
+      "source": "Zweig,Stefan",
+      "target": "tur",
+      "weight": 26
+    },
+    {
+      "source": "Zweig,Stefan",
+      "target": "spa",
+      "weight": 37
+    },
+    {
+      "source": "Zweig,Stefan",
+      "target": "dut",
+      "weight": 8
+    },
+    {
+      "source": "Zweig,Stefan",
+      "target": "rum",
+      "weight": 5
+    },
+    {
+      "source": "Zweig,Stefan",
+      "target": "ita",
+      "weight": 21
+    },
+    {
+      "source": "Zweig,Stefan",
+      "target": "srp",
+      "weight": 6
+    },
+    {
+      "source": "Zweig,Stefan",
+      "target": "rus",
+      "weight": 18
+    },
+    {
+      "source": "Zweig,Stefan",
+      "target": "bul",
+      "weight": 10
+    },
+    {
+      "source": "Zweig,Stefan",
+      "target": "alb",
+      "weight": 7
+    },
+    {
+      "source": "Zweig,Stefan",
+      "target": "gre",
+      "weight": 15
+    },
+    {
+      "source": "Zweig,Stefan",
+      "target": "por",
+      "weight": 5
+    },
+    {
+      "source": "Bachmann,Ingeborg",
+      "target": "fre",
+      "weight": 10
+    },
+    {
+      "source": "Bachmann,Ingeborg",
+      "target": "cze",
+      "weight": 6
+    },
+    {
+      "source": "Bachmann,Ingeborg",
+      "target": "eng",
+      "weight": 11
+    },
+    {
+      "source": "Bachmann,Ingeborg",
+      "target": "tur",
+      "weight": 7
+    },
+    {
+      "source": "Bachmann,Ingeborg",
+      "target": "spa",
+      "weight": 7
+    },
+    {
+      "source": "Bachmann,Ingeborg",
+      "target": "dut",
+      "weight": 5
+    },
+    {
+      "source": "Bachmann,Ingeborg",
+      "target": "ita",
+      "weight": 16
+    },
+    {
+      "source": "Benn,Gottfried",
+      "target": "eng",
+      "weight": 5
+    },
+    {
+      "source": "Benn,Gottfried",
+      "target": "ger",
+      "weight": 6
+    },
+    {
+      "source": "Brecht,Bertolt",
+      "target": "fre",
+      "weight": 23
+    },
+    {
+      "source": "Brecht,Bertolt",
+      "target": "swe",
+      "weight": 5
+    },
+    {
+      "source": "Brecht,Bertolt",
+      "target": "dan",
+      "weight": 6
+    },
+    {
+      "source": "Brecht,Bertolt",
+      "target": "cat",
+      "weight": 10
+    },
+    {
+      "source": "Brecht,Bertolt",
+      "target": "nor",
+      "weight": 11
+    },
+    {
+      "source": "Brecht,Bertolt",
+      "target": "eng",
+      "weight": 47
+    },
+    {
+      "source": "Brecht,Bertolt",
+      "target": "ger",
+      "weight": 5
+    },
+    {
+      "source": "Brecht,Bertolt",
+      "target": "spa",
+      "weight": 22
+    },
+    {
+      "source": "Brecht,Bertolt",
+      "target": "dut",
+      "weight": 9
+    },
+    {
+      "source": "Brecht,Bertolt",
+      "target": "pol",
+      "weight": 5
+    },
+    {
+      "source": "Brecht,Bertolt",
+      "target": "ita",
+      "weight": 10
+    },
+    {
+      "source": "Brecht,Bertolt",
+      "target": "rus",
+      "weight": 8
+    },
+    {
+      "source": "Brecht,Bertolt",
+      "target": "bul",
+      "weight": 6
+    },
+    {
+      "source": "Brecht,Bertolt",
+      "target": "gre",
+      "weight": 13
+    },
+    {
+      "source": "Brecht,Bertolt",
+      "target": "por",
+      "weight": 11
+    },
+    {
+      "source": "Erpenbeck,Jenny",
+      "target": "swe",
+      "weight": 5
+    },
+    {
+      "source": "Erpenbeck,Jenny",
+      "target": "eng",
+      "weight": 12
+    },
+    {
+      "source": "Erpenbeck,Jenny",
+      "target": "dut",
+      "weight": 7
+    },
+    {
+      "source": "Erpenbeck,Jenny",
+      "target": "ita",
+      "weight": 5
+    },
+    {
+      "source": "Erpenbeck,Jenny",
+      "target": "gre",
+      "weight": 6
+    },
+    {
+      "source": "Fontane,Theodor",
+      "target": "fre",
+      "weight": 13
+    },
+    {
+      "source": "Fontane,Theodor",
+      "target": "eng",
+      "weight": 10
+    },
+    {
+      "source": "Fontane,Theodor",
+      "target": "spa",
+      "weight": 17
+    },
+    {
+      "source": "Handke,Peter",
+      "target": "fre",
+      "weight": 43
+    },
+    {
+      "source": "Handke,Peter",
+      "target": "swe",
+      "weight": 12
+    },
+    {
+      "source": "Handke,Peter",
+      "target": "dan",
+      "weight": 7
+    },
+    {
+      "source": "Handke,Peter",
+      "target": "cat",
+      "weight": 6
+    },
+    {
+      "source": "Handke,Peter",
+      "target": "slv",
+      "weight": 9
+    },
+    {
+      "source": "Handke,Peter",
+      "target": "hrv",
+      "weight": 5
+    },
+    {
+      "source": "Handke,Peter",
+      "target": "cze",
+      "weight": 9
+    },
+    {
+      "source": "Handke,Peter",
+      "target": "nor",
+      "weight": 7
+    },
+    {
+      "source": "Handke,Peter",
+      "target": "fin",
+      "weight": 7
+    },
+    {
+      "source": "Handke,Peter",
+      "target": "eng",
+      "weight": 27
+    },
+    {
+      "source": "Handke,Peter",
+      "target": "tur",
+      "weight": 10
+    },
+    {
+      "source": "Handke,Peter",
+      "target": "spa",
+      "weight": 59
+    },
+    {
+      "source": "Handke,Peter",
+      "target": "dut",
+      "weight": 11
+    },
+    {
+      "source": "Handke,Peter",
+      "target": "ita",
+      "weight": 46
+    },
+    {
+      "source": "Handke,Peter",
+      "target": "srp",
+      "weight": 12
+    },
+    {
+      "source": "Handke,Peter",
+      "target": "chi",
+      "weight": 8
+    },
+    {
+      "source": "Handke,Peter",
+      "target": "bul",
+      "weight": 6
+    },
+    {
+      "source": "Handke,Peter",
+      "target": "gre",
+      "weight": 11
+    },
+    {
+      "source": "Handke,Peter",
+      "target": "por",
+      "weight": 10
+    },
+    {
+      "source": "Kinkel,Tanja",
+      "target": "cze",
+      "weight": 6
+    },
+    {
+      "source": "Kinkel,Tanja",
+      "target": "spa",
+      "weight": 7
+    },
+    {
+      "source": "Kinkel,Tanja",
+      "target": "gre",
+      "weight": 5
+    },
+    {
+      "source": "Kr\u00fcger,Michael",
+      "target": "fre",
+      "weight": 8
+    },
+    {
+      "source": "Kr\u00fcger,Michael",
+      "target": "eng",
+      "weight": 16
+    },
+    {
+      "source": "Kr\u00fcger,Michael",
+      "target": "dut",
+      "weight": 5
+    },
+    {
+      "source": "Morgenstern,Christian",
+      "target": "cze",
+      "weight": 7
+    },
+    {
+      "source": "Morgenstern,Christian",
+      "target": "ger",
+      "weight": 5
+    },
+    {
+      "source": "Novalis",
+      "target": "fre",
+      "weight": 6
+    },
+    {
+      "source": "Novalis",
+      "target": "ger",
+      "weight": 6
+    },
+    {
+      "source": "Novalis",
+      "target": "spa",
+      "weight": 6
+    },
+    {
+      "source": "\u00d6zdamar,EmineSevgi",
+      "target": "tur",
+      "weight": 8
+    },
+    {
+      "source": "\u00d6zdamar,EmineSevgi",
+      "target": "spa",
+      "weight": 5
+    },
+    {
+      "source": "Ransmayr,Christoph",
+      "target": "fre",
+      "weight": 10
+    },
+    {
+      "source": "Ransmayr,Christoph",
+      "target": "hrv",
+      "weight": 8
+    },
+    {
+      "source": "Ransmayr,Christoph",
+      "target": "eng",
+      "weight": 7
+    },
+    {
+      "source": "Ransmayr,Christoph",
+      "target": "hun",
+      "weight": 5
+    },
+    {
+      "source": "Ransmayr,Christoph",
+      "target": "dut",
+      "weight": 5
+    },
+    {
+      "source": "Ransmayr,Christoph",
+      "target": "pol",
+      "weight": 5
+    },
+    {
+      "source": "Ransmayr,Christoph",
+      "target": "ita",
+      "weight": 10
+    },
+    {
+      "source": "Ransmayr,Christoph",
+      "target": "srp",
+      "weight": 5
+    },
+    {
+      "source": "Rilke,RainerMaria",
+      "target": "fre",
+      "weight": 40
+    },
+    {
+      "source": "Rilke,RainerMaria",
+      "target": "swe",
+      "weight": 8
+    },
+    {
+      "source": "Rilke,RainerMaria",
+      "target": "cat",
+      "weight": 7
+    },
+    {
+      "source": "Rilke,RainerMaria",
+      "target": "cze",
+      "weight": 17
+    },
+    {
+      "source": "Rilke,RainerMaria",
+      "target": "eng",
+      "weight": 29
+    },
+    {
+      "source": "Rilke,RainerMaria",
+      "target": "hun",
+      "weight": 11
+    },
+    {
+      "source": "Rilke,RainerMaria",
+      "target": "ger",
+      "weight": 63
+    },
+    {
+      "source": "Rilke,RainerMaria",
+      "target": "spa",
+      "weight": 41
+    },
+    {
+      "source": "Rilke,RainerMaria",
+      "target": "dut",
+      "weight": 9
+    },
+    {
+      "source": "Rilke,RainerMaria",
+      "target": "pol",
+      "weight": 19
+    },
+    {
+      "source": "Rilke,RainerMaria",
+      "target": "rum",
+      "weight": 10
+    },
+    {
+      "source": "Rilke,RainerMaria",
+      "target": "ita",
+      "weight": 15
+    },
+    {
+      "source": "Rilke,RainerMaria",
+      "target": "srp",
+      "weight": 7
+    },
+    {
+      "source": "Rilke,RainerMaria",
+      "target": "heb",
+      "weight": 7
+    },
+    {
+      "source": "Rilke,RainerMaria",
+      "target": "rus",
+      "weight": 10
+    },
+    {
+      "source": "Rilke,RainerMaria",
+      "target": "gre",
+      "weight": 11
+    },
+    {
+      "source": "Schami,Rafik",
+      "target": "tur",
+      "weight": 5
+    },
+    {
+      "source": "Schami,Rafik",
+      "target": "spa",
+      "weight": 7
+    },
+    {
+      "source": "Schiller,Friedrich",
+      "target": "fre",
+      "weight": 16
+    },
+    {
+      "source": "Schiller,Friedrich",
+      "target": "eng",
+      "weight": 16
+    },
+    {
+      "source": "Schiller,Friedrich",
+      "target": "hun",
+      "weight": 5
+    },
+    {
+      "source": "Schiller,Friedrich",
+      "target": "ger",
+      "weight": 10
+    },
+    {
+      "source": "Schiller,Friedrich",
+      "target": "spa",
+      "weight": 13
+    },
+    {
+      "source": "Schiller,Friedrich",
+      "target": "ita",
+      "weight": 5
+    },
+    {
+      "source": "Trojanow,Ilija",
+      "target": "dut",
+      "weight": 5
+    },
+    {
+      "source": "Trojanow,Ilija",
+      "target": "bul",
+      "weight": 7
+    },
+    {
+      "source": "Walser,Martin",
+      "target": "fre",
+      "weight": 10
+    },
+    {
+      "source": "Walser,Martin",
+      "target": "tur",
+      "weight": 8
+    },
+    {
+      "source": "Walser,Martin",
+      "target": "spa",
+      "weight": 7
+    },
+    {
+      "source": "Walser,Martin",
+      "target": "dut",
+      "weight": 7
+    },
+    {
+      "source": "Walser,Martin",
+      "target": "ita",
+      "weight": 5
+    },
+    {
+      "source": "Walser,Martin",
+      "target": "chi",
+      "weight": 12
+    },
+    {
+      "source": "Walser,Martin",
+      "target": "gre",
+      "weight": 6
+    },
+    {
+      "source": "Walser,Martin",
+      "target": "por",
+      "weight": 5
+    },
+    {
+      "source": "Werner,Markus",
+      "target": "fre",
+      "weight": 6
+    },
+    {
+      "source": "Werner,Markus",
+      "target": "ita",
+      "weight": 5
+    },
+    {
+      "source": "Hein,Christoph",
+      "target": "fre",
+      "weight": 11
+    },
+    {
+      "source": "Hein,Christoph",
+      "target": "dan",
+      "weight": 7
+    },
+    {
+      "source": "Hein,Christoph",
+      "target": "ita",
+      "weight": 11
+    },
+    {
+      "source": "Lessing,GottholdEphraim",
+      "target": "fre",
+      "weight": 7
+    },
+    {
+      "source": "Lessing,GottholdEphraim",
+      "target": "spa",
+      "weight": 6
+    },
+    {
+      "source": "Werfel,Franz",
+      "target": "fre",
+      "weight": 10
+    },
+    {
+      "source": "Werfel,Franz",
+      "target": "cze",
+      "weight": 16
+    },
+    {
+      "source": "Werfel,Franz",
+      "target": "hun",
+      "weight": 5
+    },
+    {
+      "source": "Werfel,Franz",
+      "target": "spa",
+      "weight": 17
+    },
+    {
+      "source": "Werfel,Franz",
+      "target": "ita",
+      "weight": 22
+    },
+    {
+      "source": "Werfel,Franz",
+      "target": "rus",
+      "weight": 5
+    },
+    {
+      "source": "Bernhard,Thomas",
+      "target": "fre",
+      "weight": 36
+    },
+    {
+      "source": "Bernhard,Thomas",
+      "target": "swe",
+      "weight": 14
+    },
+    {
+      "source": "Bernhard,Thomas",
+      "target": "dan",
+      "weight": 5
+    },
+    {
+      "source": "Bernhard,Thomas",
+      "target": "cat",
+      "weight": 11
+    },
+    {
+      "source": "Bernhard,Thomas",
+      "target": "slv",
+      "weight": 8
+    },
+    {
+      "source": "Bernhard,Thomas",
+      "target": "hrv",
+      "weight": 11
+    },
+    {
+      "source": "Bernhard,Thomas",
+      "target": "cze",
+      "weight": 27
+    },
+    {
+      "source": "Bernhard,Thomas",
+      "target": "nor",
+      "weight": 19
+    },
+    {
+      "source": "Bernhard,Thomas",
+      "target": "fin",
+      "weight": 8
+    },
+    {
+      "source": "Bernhard,Thomas",
+      "target": "eng",
+      "weight": 41
+    },
+    {
+      "source": "Bernhard,Thomas",
+      "target": "hun",
+      "weight": 12
+    },
+    {
+      "source": "Bernhard,Thomas",
+      "target": "ger",
+      "weight": 5
+    },
+    {
+      "source": "Bernhard,Thomas",
+      "target": "tur",
+      "weight": 18
+    },
+    {
+      "source": "Bernhard,Thomas",
+      "target": "spa",
+      "weight": 59
+    },
+    {
+      "source": "Bernhard,Thomas",
+      "target": "dut",
+      "weight": 12
+    },
+    {
+      "source": "Bernhard,Thomas",
+      "target": "pol",
+      "weight": 19
+    },
+    {
+      "source": "Bernhard,Thomas",
+      "target": "rum",
+      "weight": 7
+    },
+    {
+      "source": "Bernhard,Thomas",
+      "target": "ita",
+      "weight": 29
+    },
+    {
+      "source": "Bernhard,Thomas",
+      "target": "srp",
+      "weight": 15
+    },
+    {
+      "source": "Bernhard,Thomas",
+      "target": "kor",
+      "weight": 6
+    },
+    {
+      "source": "Bernhard,Thomas",
+      "target": "heb",
+      "weight": 5
+    },
+    {
+      "source": "Bernhard,Thomas",
+      "target": "bul",
+      "weight": 9
+    },
+    {
+      "source": "Bernhard,Thomas",
+      "target": "gre",
+      "weight": 17
+    },
+    {
+      "source": "Bernhard,Thomas",
+      "target": "por",
+      "weight": 15
+    },
+    {
+      "source": "D\u00f6blin,Alfred",
+      "target": "fre",
+      "weight": 9
+    },
+    {
+      "source": "D\u00f6blin,Alfred",
+      "target": "spa",
+      "weight": 12
+    },
+    {
+      "source": "D\u00f6blin,Alfred",
+      "target": "ita",
+      "weight": 5
+    },
+    {
+      "source": "Ende,Michael",
+      "target": "jpn",
+      "weight": 7
+    },
+    {
+      "source": "Ende,Michael",
+      "target": "spa",
+      "weight": 7
+    },
+    {
+      "source": "Glattauer,Daniel",
+      "target": "spa",
+      "weight": 11
+    },
+    {
+      "source": "Hoffmann,E.T.A.",
+      "target": "fre",
+      "weight": 26
+    },
+    {
+      "source": "Hoffmann,E.T.A.",
+      "target": "swe",
+      "weight": 6
+    },
+    {
+      "source": "Hoffmann,E.T.A.",
+      "target": "est",
+      "weight": 5
+    },
+    {
+      "source": "Hoffmann,E.T.A.",
+      "target": "eng",
+      "weight": 10
+    },
+    {
+      "source": "Hoffmann,E.T.A.",
+      "target": "hun",
+      "weight": 11
+    },
+    {
+      "source": "Hoffmann,E.T.A.",
+      "target": "spa",
+      "weight": 32
+    },
+    {
+      "source": "Hoffmann,E.T.A.",
+      "target": "pol",
+      "weight": 5
+    },
+    {
+      "source": "Hoffmann,E.T.A.",
+      "target": "ita",
+      "weight": 20
+    },
+    {
+      "source": "Hoffmann,E.T.A.",
+      "target": "srp",
+      "weight": 7
+    },
+    {
+      "source": "Hoffmann,E.T.A.",
+      "target": "rus",
+      "weight": 23
+    },
+    {
+      "source": "Hoffmann,E.T.A.",
+      "target": "por",
+      "weight": 6
+    },
+    {
+      "source": "Keilson,Hans",
+      "target": "eng",
+      "weight": 6
+    },
+    {
+      "source": "Keilson,Hans",
+      "target": "dut",
+      "weight": 7
+    },
+    {
+      "source": "Kleist,Heinrichvon",
+      "target": "fre",
+      "weight": 23
+    },
+    {
+      "source": "Kleist,Heinrichvon",
+      "target": "cat",
+      "weight": 7
+    },
+    {
+      "source": "Kleist,Heinrichvon",
+      "target": "eng",
+      "weight": 11
+    },
+    {
+      "source": "Kleist,Heinrichvon",
+      "target": "spa",
+      "weight": 11
+    },
+    {
+      "source": "Kleist,Heinrichvon",
+      "target": "ita",
+      "weight": 14
+    },
+    {
+      "source": "Nietzsche,Friedrich",
+      "target": "eng",
+      "weight": 5
+    },
+    {
+      "source": "Nietzsche,Friedrich",
+      "target": "spa",
+      "weight": 20
+    },
+    {
+      "source": "Nietzsche,Friedrich",
+      "target": "rus",
+      "weight": 7
+    },
+    {
+      "source": "Perutz,Leo",
+      "target": "fre",
+      "weight": 19
+    },
+    {
+      "source": "Perutz,Leo",
+      "target": "eng",
+      "weight": 6
+    },
+    {
+      "source": "Perutz,Leo",
+      "target": "spa",
+      "weight": 10
+    },
+    {
+      "source": "Perutz,Leo",
+      "target": "ita",
+      "weight": 5
+    },
+    {
+      "source": "Perutz,Leo",
+      "target": "rus",
+      "weight": 5
+    },
+    {
+      "source": "Schirach,Ferdinandvon",
+      "target": "fre",
+      "weight": 7
+    },
+    {
+      "source": "Schirach,Ferdinandvon",
+      "target": "swe",
+      "weight": 5
+    },
+    {
+      "source": "Schirach,Ferdinandvon",
+      "target": "jpn",
+      "weight": 5
+    },
+    {
+      "source": "Schirach,Ferdinandvon",
+      "target": "nor",
+      "weight": 5
+    },
+    {
+      "source": "Schirach,Ferdinandvon",
+      "target": "eng",
+      "weight": 13
+    },
+    {
+      "source": "Schirach,Ferdinandvon",
+      "target": "spa",
+      "weight": 5
+    },
+    {
+      "source": "Schirach,Ferdinandvon",
+      "target": "dut",
+      "weight": 9
+    },
+    {
+      "source": "Schirach,Ferdinandvon",
+      "target": "pol",
+      "weight": 6
+    },
+    {
+      "source": "Schirach,Ferdinandvon",
+      "target": "ita",
+      "weight": 5
+    },
+    {
+      "source": "Schirach,Ferdinandvon",
+      "target": "chi",
+      "weight": 7
+    },
+    {
+      "source": "Tschinag,Galsan",
+      "target": "fre",
+      "weight": 13
+    },
+    {
+      "source": "Vanderbeke,Birgit",
+      "target": "fre",
+      "weight": 7
+    },
+    {
+      "source": "Vanderbeke,Birgit",
+      "target": "ita",
+      "weight": 8
+    },
+    {
+      "source": "B\u00e4rfuss,Lukas",
+      "target": "fre",
+      "weight": 7
+    },
+    {
+      "source": "B\u00e4rfuss,Lukas",
+      "target": "bul",
+      "weight": 9
+    },
+    {
+      "source": "Heine,Heinrich",
+      "target": "fre",
+      "weight": 14
+    },
+    {
+      "source": "Heine,Heinrich",
+      "target": "ger",
+      "weight": 24
+    },
+    {
+      "source": "Heine,Heinrich",
+      "target": "spa",
+      "weight": 12
+    },
+    {
+      "source": "Heine,Heinrich",
+      "target": "dut",
+      "weight": 7
+    },
+    {
+      "source": "Heine,Heinrich",
+      "target": "srp",
+      "weight": 5
+    },
+    {
+      "source": "Heine,Heinrich",
+      "target": "heb",
+      "weight": 7
+    },
+    {
+      "source": "Heine,Heinrich",
+      "target": "rus",
+      "weight": 5
+    },
+    {
+      "source": "Mann,Klaus",
+      "target": "fre",
+      "weight": 20
+    },
+    {
+      "source": "Mann,Klaus",
+      "target": "cze",
+      "weight": 5
+    },
+    {
+      "source": "Mann,Klaus",
+      "target": "spa",
+      "weight": 11
+    },
+    {
+      "source": "Mann,Klaus",
+      "target": "ita",
+      "weight": 9
+    },
+    {
+      "source": "Meyrink,Gustav",
+      "target": "fre",
+      "weight": 6
+    },
+    {
+      "source": "Meyrink,Gustav",
+      "target": "cze",
+      "weight": 22
+    },
+    {
+      "source": "Meyrink,Gustav",
+      "target": "eng",
+      "weight": 7
+    },
+    {
+      "source": "Meyrink,Gustav",
+      "target": "hun",
+      "weight": 6
+    },
+    {
+      "source": "Meyrink,Gustav",
+      "target": "spa",
+      "weight": 20
+    },
+    {
+      "source": "Meyrink,Gustav",
+      "target": "dut",
+      "weight": 6
+    },
+    {
+      "source": "Meyrink,Gustav",
+      "target": "srp",
+      "weight": 8
+    },
+    {
+      "source": "Meyrink,Gustav",
+      "target": "rus",
+      "weight": 16
+    },
+    {
+      "source": "Suter,Martin",
+      "target": "fre",
+      "weight": 26
+    },
+    {
+      "source": "Suter,Martin",
+      "target": "eng",
+      "weight": 9
+    },
+    {
+      "source": "Suter,Martin",
+      "target": "spa",
+      "weight": 10
+    },
+    {
+      "source": "Suter,Martin",
+      "target": "dut",
+      "weight": 6
+    },
+    {
+      "source": "Suter,Martin",
+      "target": "ita",
+      "weight": 11
+    },
+    {
+      "source": "Suter,Martin",
+      "target": "rus",
+      "weight": 13
+    },
+    {
+      "source": "Vermes,Timur",
+      "target": "eng",
+      "weight": 5
+    },
+    {
+      "source": "Vermes,Timur",
+      "target": "ita",
+      "weight": 6
+    },
+    {
+      "source": "Winkler,Josef",
+      "target": "fre",
+      "weight": 9
+    },
+    {
+      "source": "Winkler,Josef",
+      "target": "cze",
+      "weight": 7
+    },
+    {
+      "source": "Arjouni,Jakob",
+      "target": "fre",
+      "weight": 5
+    },
+    {
+      "source": "Arjouni,Jakob",
+      "target": "eng",
+      "weight": 14
+    },
+    {
+      "source": "Arjouni,Jakob",
+      "target": "spa",
+      "weight": 6
+    },
+    {
+      "source": "Arjouni,Jakob",
+      "target": "ita",
+      "weight": 7
+    },
+    {
+      "source": "Bannalec,Jean-Luc",
+      "target": "fre",
+      "weight": 25
+    },
+    {
+      "source": "Bannalec,Jean-Luc",
+      "target": "slv",
+      "weight": 6
+    },
+    {
+      "source": "Bannalec,Jean-Luc",
+      "target": "cze",
+      "weight": 7
+    },
+    {
+      "source": "Bannalec,Jean-Luc",
+      "target": "eng",
+      "weight": 13
+    },
+    {
+      "source": "Bannalec,Jean-Luc",
+      "target": "spa",
+      "weight": 14
+    },
+    {
+      "source": "Bannalec,Jean-Luc",
+      "target": "ita",
+      "weight": 6
+    },
+    {
+      "source": "Broch,Hermann",
+      "target": "eng",
+      "weight": 8
+    },
+    {
+      "source": "Broch,Hermann",
+      "target": "spa",
+      "weight": 20
+    },
+    {
+      "source": "Broch,Hermann",
+      "target": "ita",
+      "weight": 9
+    },
+    {
+      "source": "Canetti,Elias",
+      "target": "spa",
+      "weight": 12
+    },
+    {
+      "source": "Capus,Alex",
+      "target": "fre",
+      "weight": 8
+    },
+    {
+      "source": "Capus,Alex",
+      "target": "eng",
+      "weight": 6
+    },
+    {
+      "source": "Courths-Mahler,Hedwig",
+      "target": "lit",
+      "weight": 5
+    },
+    {
+      "source": "Courths-Mahler,Hedwig",
+      "target": "hrv",
+      "weight": 9
+    },
+    {
+      "source": "Courths-Mahler,Hedwig",
+      "target": "cze",
+      "weight": 43
+    },
+    {
+      "source": "Courths-Mahler,Hedwig",
+      "target": "hun",
+      "weight": 156
+    },
+    {
+      "source": "Courths-Mahler,Hedwig",
+      "target": "pol",
+      "weight": 132
+    },
+    {
+      "source": "Courths-Mahler,Hedwig",
+      "target": "srp",
+      "weight": 8
+    },
+    {
+      "source": "Courths-Mahler,Hedwig",
+      "target": "lav",
+      "weight": 14
+    },
+    {
+      "source": "Courths-Mahler,Hedwig",
+      "target": "bul",
+      "weight": 5
+    },
+    {
+      "source": "D\u00fcbell,Richard",
+      "target": "cze",
+      "weight": 9
+    },
+    {
+      "source": "D\u00fcbell,Richard",
+      "target": "spa",
+      "weight": 8
+    },
+    {
+      "source": "Eschbach,Andreas",
+      "target": "fre",
+      "weight": 8
+    },
+    {
+      "source": "Eschbach,Andreas",
+      "target": "rus",
+      "weight": 7
+    },
+    {
+      "source": "Fitzek,Sebastian",
+      "target": "fre",
+      "weight": 18
+    },
+    {
+      "source": "Fitzek,Sebastian",
+      "target": "slv",
+      "weight": 10
+    },
+    {
+      "source": "Fitzek,Sebastian",
+      "target": "cze",
+      "weight": 7
+    },
+    {
+      "source": "Fitzek,Sebastian",
+      "target": "slo",
+      "weight": 7
+    },
+    {
+      "source": "Fitzek,Sebastian",
+      "target": "eng",
+      "weight": 8
+    },
+    {
+      "source": "Fitzek,Sebastian",
+      "target": "tur",
+      "weight": 7
+    },
+    {
+      "source": "Fitzek,Sebastian",
+      "target": "spa",
+      "weight": 12
+    },
+    {
+      "source": "Fitzek,Sebastian",
+      "target": "dut",
+      "weight": 18
+    },
+    {
+      "source": "Fitzek,Sebastian",
+      "target": "pol",
+      "weight": 13
+    },
+    {
+      "source": "Fitzek,Sebastian",
+      "target": "ita",
+      "weight": 13
+    },
+    {
+      "source": "Fitzek,Sebastian",
+      "target": "chi",
+      "weight": 9
+    },
+    {
+      "source": "Fitzek,Sebastian",
+      "target": "gre",
+      "weight": 9
+    },
+    {
+      "source": "Gier,Kerstin",
+      "target": "slv",
+      "weight": 5
+    },
+    {
+      "source": "Gier,Kerstin",
+      "target": "cze",
+      "weight": 6
+    },
+    {
+      "source": "Gier,Kerstin",
+      "target": "bul",
+      "weight": 5
+    },
+    {
+      "source": "Haas,Wolf",
+      "target": "eng",
+      "weight": 8
+    },
+    {
+      "source": "Haas,Wolf",
+      "target": "hun",
+      "weight": 7
+    },
+    {
+      "source": "Haas,Wolf",
+      "target": "spa",
+      "weight": 5
+    },
+    {
+      "source": "Haas,Wolf",
+      "target": "pol",
+      "weight": 10
+    },
+    {
+      "source": "Haas,Wolf",
+      "target": "chi",
+      "weight": 5
+    },
+    {
+      "source": "Heitz,Markus",
+      "target": "fre",
+      "weight": 18
+    },
+    {
+      "source": "Heitz,Markus",
+      "target": "cze",
+      "weight": 27
+    },
+    {
+      "source": "Heitz,Markus",
+      "target": "eng",
+      "weight": 9
+    },
+    {
+      "source": "Heitz,Markus",
+      "target": "dut",
+      "weight": 17
+    },
+    {
+      "source": "Heitz,Markus",
+      "target": "ita",
+      "weight": 14
+    },
+    {
+      "source": "Heitz,Markus",
+      "target": "bul",
+      "weight": 10
+    },
+    {
+      "source": "Hofmannsthal,Hugovon",
+      "target": "fre",
+      "weight": 9
+    },
+    {
+      "source": "Hofmannsthal,Hugovon",
+      "target": "spa",
+      "weight": 8
+    },
+    {
+      "source": "Hofmannsthal,Hugovon",
+      "target": "ita",
+      "weight": 6
+    },
+    {
+      "source": "Hohlbein,Wolfgang",
+      "target": "cze",
+      "weight": 5
+    },
+    {
+      "source": "Hohlbein,Wolfgang",
+      "target": "hun",
+      "weight": 6
+    },
+    {
+      "source": "Hohlbein,Wolfgang",
+      "target": "spa",
+      "weight": 7
+    },
+    {
+      "source": "Hohlbein,Wolfgang",
+      "target": "dut",
+      "weight": 6
+    },
+    {
+      "source": "Hohlbein,Wolfgang",
+      "target": "chi",
+      "weight": 5
+    },
+    {
+      "source": "Hohlbein,Wolfgang",
+      "target": "rus",
+      "weight": 12
+    },
+    {
+      "source": "Hohlbein,Wolfgang",
+      "target": "bul",
+      "weight": 9
+    },
+    {
+      "source": "Horv\u00e1th,\u00d6d\u00f6nvon",
+      "target": "fre",
+      "weight": 12
+    },
+    {
+      "source": "Horv\u00e1th,\u00d6d\u00f6nvon",
+      "target": "eng",
+      "weight": 6
+    },
+    {
+      "source": "Horv\u00e1th,\u00d6d\u00f6nvon",
+      "target": "spa",
+      "weight": 6
+    },
+    {
+      "source": "Kasten,Mona",
+      "target": "spa",
+      "weight": 6
+    },
+    {
+      "source": "Kasten,Mona",
+      "target": "pol",
+      "weight": 7
+    },
+    {
+      "source": "Kasten,Mona",
+      "target": "ita",
+      "weight": 12
+    },
+    {
+      "source": "K\u00e4stner,Erich",
+      "target": "hun",
+      "weight": 11
+    },
+    {
+      "source": "K\u00e4stner,Erich",
+      "target": "bul",
+      "weight": 6
+    },
+    {
+      "source": "Kirst,HansHellmut",
+      "target": "cze",
+      "weight": 5
+    },
+    {
+      "source": "Kirst,HansHellmut",
+      "target": "pol",
+      "weight": 16
+    },
+    {
+      "source": "Kubelka,Susanna",
+      "target": "lit",
+      "weight": 8
+    },
+    {
+      "source": "Kubelka,Susanna",
+      "target": "cze",
+      "weight": 10
+    },
+    {
+      "source": "Kubelka,Susanna",
+      "target": "slo",
+      "weight": 5
+    },
+    {
+      "source": "Kubelka,Susanna",
+      "target": "lav",
+      "weight": 10
+    },
+    {
+      "source": "K\u00fcrthy,Ildik\u00f3von",
+      "target": "hun",
+      "weight": 5
+    },
+    {
+      "source": "K\u00fcrthy,Ildik\u00f3von",
+      "target": "dut",
+      "weight": 8
+    },
+    {
+      "source": "K\u00fcrthy,Ildik\u00f3von",
+      "target": "ita",
+      "weight": 5
+    },
+    {
+      "source": "Lindstr\u00f6m,Inga",
+      "target": "slo",
+      "weight": 8
+    },
+    {
+      "source": "Lindstr\u00f6m,Inga",
+      "target": "srp",
+      "weight": 5
+    },
+    {
+      "source": "Lindstr\u00f6m,Inga",
+      "target": "lav",
+      "weight": 6
+    },
+    {
+      "source": "Link,Charlotte",
+      "target": "fre",
+      "weight": 54
+    },
+    {
+      "source": "Link,Charlotte",
+      "target": "dan",
+      "weight": 6
+    },
+    {
+      "source": "Link,Charlotte",
+      "target": "cze",
+      "weight": 20
+    },
+    {
+      "source": "Link,Charlotte",
+      "target": "eng",
+      "weight": 6
+    },
+    {
+      "source": "Link,Charlotte",
+      "target": "spa",
+      "weight": 15
+    },
+    {
+      "source": "Link,Charlotte",
+      "target": "dut",
+      "weight": 11
+    },
+    {
+      "source": "Link,Charlotte",
+      "target": "pol",
+      "weight": 36
+    },
+    {
+      "source": "Link,Charlotte",
+      "target": "ita",
+      "weight": 36
+    },
+    {
+      "source": "Link,Charlotte",
+      "target": "lav",
+      "weight": 18
+    },
+    {
+      "source": "May,Karl",
+      "target": "lit",
+      "weight": 10
+    },
+    {
+      "source": "May,Karl",
+      "target": "cze",
+      "weight": 77
+    },
+    {
+      "source": "May,Karl",
+      "target": "slo",
+      "weight": 9
+    },
+    {
+      "source": "May,Karl",
+      "target": "hun",
+      "weight": 22
+    },
+    {
+      "source": "May,Karl",
+      "target": "dut",
+      "weight": 19
+    },
+    {
+      "source": "May,Karl",
+      "target": "pol",
+      "weight": 31
+    },
+    {
+      "source": "May,Karl",
+      "target": "rum",
+      "weight": 26
+    },
+    {
+      "source": "May,Karl",
+      "target": "srp",
+      "weight": 5
+    },
+    {
+      "source": "May,Karl",
+      "target": "rus",
+      "weight": 7
+    },
+    {
+      "source": "May,Karl",
+      "target": "bul",
+      "weight": 28
+    },
+    {
+      "source": "Moers,Walter",
+      "target": "slv",
+      "weight": 6
+    },
+    {
+      "source": "Moers,Walter",
+      "target": "eng",
+      "weight": 12
+    },
+    {
+      "source": "Moers,Walter",
+      "target": "ita",
+      "weight": 9
+    },
+    {
+      "source": "Moers,Walter",
+      "target": "chi",
+      "weight": 9
+    },
+    {
+      "source": "M\u00fcller,Heiner",
+      "target": "fre",
+      "weight": 10
+    },
+    {
+      "source": "M\u00fcller,Heiner",
+      "target": "gre",
+      "weight": 5
+    },
+    {
+      "source": "M\u00fcller,Heiner",
+      "target": "por",
+      "weight": 7
+    },
+    {
+      "source": "Neuhaus,Nele",
+      "target": "fre",
+      "weight": 13
+    },
+    {
+      "source": "Neuhaus,Nele",
+      "target": "swe",
+      "weight": 7
+    },
+    {
+      "source": "Neuhaus,Nele",
+      "target": "dan",
+      "weight": 5
+    },
+    {
+      "source": "Neuhaus,Nele",
+      "target": "lit",
+      "weight": 5
+    },
+    {
+      "source": "Neuhaus,Nele",
+      "target": "hrv",
+      "weight": 6
+    },
+    {
+      "source": "Neuhaus,Nele",
+      "target": "eng",
+      "weight": 18
+    },
+    {
+      "source": "Neuhaus,Nele",
+      "target": "spa",
+      "weight": 11
+    },
+    {
+      "source": "Neuhaus,Nele",
+      "target": "dut",
+      "weight": 10
+    },
+    {
+      "source": "Neuhaus,Nele",
+      "target": "pol",
+      "weight": 11
+    },
+    {
+      "source": "Neuhaus,Nele",
+      "target": "ita",
+      "weight": 9
+    },
+    {
+      "source": "Neuhaus,Nele",
+      "target": "kor",
+      "weight": 5
+    },
+    {
+      "source": "Neuhaus,Nele",
+      "target": "chi",
+      "weight": 5
+    },
+    {
+      "source": "Neuhaus,Nele",
+      "target": "rus",
+      "weight": 7
+    },
+    {
+      "source": "Noll,Ingrid",
+      "target": "fre",
+      "weight": 7
+    },
+    {
+      "source": "Noll,Ingrid",
+      "target": "swe",
+      "weight": 8
+    },
+    {
+      "source": "Noll,Ingrid",
+      "target": "dan",
+      "weight": 5
+    },
+    {
+      "source": "Noll,Ingrid",
+      "target": "spa",
+      "weight": 15
+    },
+    {
+      "source": "Noll,Ingrid",
+      "target": "chi",
+      "weight": 7
+    },
+    {
+      "source": "Noll,Ingrid",
+      "target": "rus",
+      "weight": 16
+    },
+    {
+      "source": "Peetz,Monika",
+      "target": "fre",
+      "weight": 10
+    },
+    {
+      "source": "Peetz,Monika",
+      "target": "nor",
+      "weight": 5
+    },
+    {
+      "source": "Peetz,Monika",
+      "target": "dut",
+      "weight": 10
+    },
+    {
+      "source": "Peinkofer,Michael",
+      "target": "cze",
+      "weight": 8
+    },
+    {
+      "source": "Peinkofer,Michael",
+      "target": "spa",
+      "weight": 13
+    },
+    {
+      "source": "Peinkofer,Michael",
+      "target": "dut",
+      "weight": 5
+    },
+    {
+      "source": "Peinkofer,Michael",
+      "target": "ita",
+      "weight": 5
+    },
+    {
+      "source": "P\u00f6tzsch,Oliver",
+      "target": "cze",
+      "weight": 8
+    },
+    {
+      "source": "P\u00f6tzsch,Oliver",
+      "target": "eng",
+      "weight": 14
+    },
+    {
+      "source": "P\u00f6tzsch,Oliver",
+      "target": "ita",
+      "weight": 14
+    },
+    {
+      "source": "P\u00f6tzsch,Oliver",
+      "target": "rus",
+      "weight": 5
+    },
+    {
+      "source": "Raabe,Melanie",
+      "target": "eng",
+      "weight": 9
+    },
+    {
+      "source": "Raabe,Melanie",
+      "target": "ita",
+      "weight": 5
+    },
+    {
+      "source": "Rezzori,Gregorvon",
+      "target": "fre",
+      "weight": 6
+    },
+    {
+      "source": "Rezzori,Gregorvon",
+      "target": "eng",
+      "weight": 6
+    },
+    {
+      "source": "Rezzori,Gregorvon",
+      "target": "spa",
+      "weight": 5
+    },
+    {
+      "source": "Sacher-Masoch,Leopoldvon",
+      "target": "spa",
+      "weight": 9
+    },
+    {
+      "source": "Sacher-Masoch,Leopoldvon",
+      "target": "rus",
+      "weight": 11
+    },
+    {
+      "source": "Safier,David",
+      "target": "fre",
+      "weight": 12
+    },
+    {
+      "source": "Safier,David",
+      "target": "cat",
+      "weight": 13
+    },
+    {
+      "source": "Safier,David",
+      "target": "spa",
+      "weight": 23
+    },
+    {
+      "source": "Safier,David",
+      "target": "ita",
+      "weight": 7
+    },
+    {
+      "source": "Safier,David",
+      "target": "por",
+      "weight": 6
+    },
+    {
+      "source": "Schimmelpfennig,Roland",
+      "target": "fre",
+      "weight": 6
+    },
+    {
+      "source": "Schimmelpfennig,Roland",
+      "target": "eng",
+      "weight": 5
+    },
+    {
+      "source": "Sebald,W.G.",
+      "target": "fre",
+      "weight": 10
+    },
+    {
+      "source": "Sebald,W.G.",
+      "target": "hrv",
+      "weight": 5
+    },
+    {
+      "source": "Sebald,W.G.",
+      "target": "est",
+      "weight": 5
+    },
+    {
+      "source": "Sebald,W.G.",
+      "target": "eng",
+      "weight": 14
+    },
+    {
+      "source": "Sebald,W.G.",
+      "target": "spa",
+      "weight": 12
+    },
+    {
+      "source": "Sebald,W.G.",
+      "target": "dut",
+      "weight": 10
+    },
+    {
+      "source": "Sebald,W.G.",
+      "target": "ita",
+      "weight": 7
+    },
+    {
+      "source": "Sendker,Jan-Philipp",
+      "target": "fre",
+      "weight": 6
+    },
+    {
+      "source": "Sendker,Jan-Philipp",
+      "target": "eng",
+      "weight": 7
+    },
+    {
+      "source": "Sendker,Jan-Philipp",
+      "target": "ita",
+      "weight": 10
+    },
+    {
+      "source": "Sendker,Jan-Philipp",
+      "target": "srp",
+      "weight": 5
+    },
+    {
+      "source": "Simmel,JohannesMario",
+      "target": "dan",
+      "weight": 12
+    },
+    {
+      "source": "Simmel,JohannesMario",
+      "target": "cze",
+      "weight": 55
+    },
+    {
+      "source": "Simmel,JohannesMario",
+      "target": "slo",
+      "weight": 17
+    },
+    {
+      "source": "Simmel,JohannesMario",
+      "target": "tur",
+      "weight": 6
+    },
+    {
+      "source": "Simmel,JohannesMario",
+      "target": "dut",
+      "weight": 5
+    },
+    {
+      "source": "Simmel,JohannesMario",
+      "target": "lav",
+      "weight": 16
+    },
+    {
+      "source": "Simmel,JohannesMario",
+      "target": "por",
+      "weight": 5
+    },
+    {
+      "source": "Stamm,Peter",
+      "target": "fre",
+      "weight": 7
+    },
+    {
+      "source": "Stamm,Peter",
+      "target": "nor",
+      "weight": 5
+    },
+    {
+      "source": "Stamm,Peter",
+      "target": "eng",
+      "weight": 8
+    },
+    {
+      "source": "Stamm,Peter",
+      "target": "spa",
+      "weight": 8
+    },
+    {
+      "source": "Stamm,Peter",
+      "target": "dut",
+      "weight": 5
+    },
+    {
+      "source": "Stamm,Peter",
+      "target": "ita",
+      "weight": 6
+    },
+    {
+      "source": "Taylor,Kathryn",
+      "target": "fre",
+      "weight": 8
+    },
+    {
+      "source": "Taylor,Kathryn",
+      "target": "cze",
+      "weight": 9
+    },
+    {
+      "source": "Taylor,Kathryn",
+      "target": "spa",
+      "weight": 10
+    },
+    {
+      "source": "Taylor,Kathryn",
+      "target": "pol",
+      "weight": 5
+    },
+    {
+      "source": "Thiesler,Sabine",
+      "target": "dut",
+      "weight": 6
+    },
+    {
+      "source": "Thiesler,Sabine",
+      "target": "ita",
+      "weight": 5
+    },
+    {
+      "source": "Thiesler,Sabine",
+      "target": "rus",
+      "weight": 5
+    },
+    {
+      "source": "Timm,Uwe",
+      "target": "tur",
+      "weight": 6
+    },
+    {
+      "source": "Timm,Uwe",
+      "target": "spa",
+      "weight": 6
+    },
+    {
+      "source": "Timm,Uwe",
+      "target": "dut",
+      "weight": 6
+    },
+    {
+      "source": "Timm,Uwe",
+      "target": "ita",
+      "weight": 6
+    },
+    {
+      "source": "Timm,Uwe",
+      "target": "chi",
+      "weight": 5
+    },
+    {
+      "source": "Traven,B.",
+      "target": "eng",
+      "weight": 8
+    },
+    {
+      "source": "Traven,B.",
+      "target": "spa",
+      "weight": 5
+    },
+    {
+      "source": "Turrini,Peter",
+      "target": "fre",
+      "weight": 8
+    },
+    {
+      "source": "Turrini,Peter",
+      "target": "bul",
+      "weight": 8
+    },
+    {
+      "source": "Unger,GertF.",
+      "target": "cze",
+      "weight": 67
+    },
+    {
+      "source": "Vandenberg,Philipp",
+      "target": "fre",
+      "weight": 6
+    },
+    {
+      "source": "Vandenberg,Philipp",
+      "target": "est",
+      "weight": 5
+    },
+    {
+      "source": "Vandenberg,Philipp",
+      "target": "cze",
+      "weight": 33
+    },
+    {
+      "source": "Vandenberg,Philipp",
+      "target": "slo",
+      "weight": 10
+    },
+    {
+      "source": "Vandenberg,Philipp",
+      "target": "hun",
+      "weight": 9
+    },
+    {
+      "source": "Vandenberg,Philipp",
+      "target": "spa",
+      "weight": 31
+    },
+    {
+      "source": "Vandenberg,Philipp",
+      "target": "dut",
+      "weight": 10
+    },
+    {
+      "source": "Vandenberg,Philipp",
+      "target": "pol",
+      "weight": 9
+    },
+    {
+      "source": "Vandenberg,Philipp",
+      "target": "rum",
+      "weight": 6
+    },
+    {
+      "source": "Vandenberg,Philipp",
+      "target": "ita",
+      "weight": 15
+    },
+    {
+      "source": "Vandenberg,Philipp",
+      "target": "rus",
+      "weight": 19
+    },
+    {
+      "source": "Vandenberg,Philipp",
+      "target": "bul",
+      "weight": 7
+    },
+    {
+      "source": "Vandenberg,Philipp",
+      "target": "gre",
+      "weight": 5
+    },
+    {
+      "source": "Wagner,JanCostin",
+      "target": "fre",
+      "weight": 10
+    },
+    {
+      "source": "Wagner,JanCostin",
+      "target": "cze",
+      "weight": 5
+    },
+    {
+      "source": "Wagner,JanCostin",
+      "target": "eng",
+      "weight": 9
+    },
+    {
+      "source": "Wassermann,Jakob",
+      "target": "fre",
+      "weight": 7
+    },
+    {
+      "source": "Wassermann,Jakob",
+      "target": "spa",
+      "weight": 9
+    },
+    {
+      "source": "Wedekind,Frank",
+      "target": "fre",
+      "weight": 5
+    },
+    {
+      "source": "Wedekind,Frank",
+      "target": "eng",
+      "weight": 9
+    },
+    {
+      "source": "Weiss,Peter",
+      "target": "eng",
+      "weight": 5
+    },
+    {
+      "source": "Weiss,Peter",
+      "target": "spa",
+      "weight": 6
+    },
+    {
+      "source": "Widmer,Urs",
+      "target": "fre",
+      "weight": 9
+    },
+    {
+      "source": "Widmer,Urs",
+      "target": "eng",
+      "weight": 5
+    },
+    {
+      "source": "Widmer,Urs",
+      "target": "bul",
+      "weight": 6
+    },
+    {
+      "source": "Busch,Wilhelm",
+      "target": "slo",
+      "weight": 5
+    },
+    {
+      "source": "Busch,Wilhelm",
+      "target": "ger",
+      "weight": 17
+    },
+    {
+      "source": "D\u00f6rrie,Doris",
+      "target": "hrv",
+      "weight": 5
+    },
+    {
+      "source": "D\u00f6rrie,Doris",
+      "target": "tur",
+      "weight": 5
+    },
+    {
+      "source": "D\u00f6rrie,Doris",
+      "target": "spa",
+      "weight": 5
+    },
+    {
+      "source": "J\u00fcnger,Ernst",
+      "target": "fre",
+      "weight": 13
+    },
+    {
+      "source": "J\u00fcnger,Ernst",
+      "target": "eng",
+      "weight": 11
+    },
+    {
+      "source": "J\u00fcnger,Ernst",
+      "target": "spa",
+      "weight": 22
+    },
+    {
+      "source": "J\u00fcnger,Ernst",
+      "target": "rum",
+      "weight": 7
+    },
+    {
+      "source": "J\u00fcnger,Ernst",
+      "target": "ita",
+      "weight": 17
+    },
+    {
+      "source": "J\u00fcnger,Ernst",
+      "target": "rus",
+      "weight": 7
+    },
+    {
+      "source": "Koeppen,Wolfgang",
+      "target": "eng",
+      "weight": 6
+    },
+    {
+      "source": "Koeppen,Wolfgang",
+      "target": "dut",
+      "weight": 6
+    },
+    {
+      "source": "Lark,Sarah",
+      "target": "fre",
+      "weight": 20
+    },
+    {
+      "source": "Lark,Sarah",
+      "target": "cat",
+      "weight": 19
+    },
+    {
+      "source": "Lark,Sarah",
+      "target": "cze",
+      "weight": 7
+    },
+    {
+      "source": "Lark,Sarah",
+      "target": "nor",
+      "weight": 5
+    },
+    {
+      "source": "Lark,Sarah",
+      "target": "eng",
+      "weight": 11
+    },
+    {
+      "source": "Lark,Sarah",
+      "target": "hun",
+      "weight": 5
+    },
+    {
+      "source": "Lark,Sarah",
+      "target": "spa",
+      "weight": 39
+    },
+    {
+      "source": "Lark,Sarah",
+      "target": "dut",
+      "weight": 17
+    },
+    {
+      "source": "Lark,Sarah",
+      "target": "pol",
+      "weight": 11
+    },
+    {
+      "source": "Lark,Sarah",
+      "target": "rus",
+      "weight": 6
+    },
+    {
+      "source": "Lark,Sarah",
+      "target": "lav",
+      "weight": 10
+    },
+    {
+      "source": "Lark,Sarah",
+      "target": "por",
+      "weight": 7
+    },
+    {
+      "source": "Sch\u00e4tzing,Frank",
+      "target": "cze",
+      "weight": 5
+    },
+    {
+      "source": "Sch\u00e4tzing,Frank",
+      "target": "slo",
+      "weight": 5
+    },
+    {
+      "source": "Sch\u00e4tzing,Frank",
+      "target": "eng",
+      "weight": 7
+    },
+    {
+      "source": "Sch\u00e4tzing,Frank",
+      "target": "hun",
+      "weight": 5
+    },
+    {
+      "source": "Sch\u00e4tzing,Frank",
+      "target": "spa",
+      "weight": 13
+    },
+    {
+      "source": "Sch\u00e4tzing,Frank",
+      "target": "dut",
+      "weight": 5
+    },
+    {
+      "source": "Sch\u00e4tzing,Frank",
+      "target": "ita",
+      "weight": 9
+    },
+    {
+      "source": "Schneider,Peter",
+      "target": "fre",
+      "weight": 6
+    },
+    {
+      "source": "Schneider,Peter",
+      "target": "ita",
+      "weight": 5
+    },
+    {
+      "source": "Seghers,Anna",
+      "target": "fre",
+      "weight": 9
+    },
+    {
+      "source": "Seghers,Anna",
+      "target": "eng",
+      "weight": 5
+    },
+    {
+      "source": "Seghers,Anna",
+      "target": "spa",
+      "weight": 8
+    },
+    {
+      "source": "Seghers,Anna",
+      "target": "dut",
+      "weight": 6
+    },
+    {
+      "source": "Seghers,Anna",
+      "target": "ita",
+      "weight": 7
+    },
+    {
+      "source": "Seghers,Anna",
+      "target": "gre",
+      "weight": 5
+    },
+    {
+      "source": "Tucholsky,Kurt",
+      "target": "eng",
+      "weight": 7
+    },
+    {
+      "source": "Tucholsky,Kurt",
+      "target": "spa",
+      "weight": 5
+    },
+    {
+      "source": "Danella,Utta",
+      "target": "hun",
+      "weight": 5
+    },
+    {
+      "source": "Danella,Utta",
+      "target": "dut",
+      "weight": 9
+    },
+    {
+      "source": "Genazino,Wilhelm",
+      "target": "fre",
+      "weight": 6
+    },
+    {
+      "source": "Genazino,Wilhelm",
+      "target": "spa",
+      "weight": 5
+    },
+    {
+      "source": "Genazino,Wilhelm",
+      "target": "chi",
+      "weight": 8
+    },
+    {
+      "source": "Hermann,Judith",
+      "target": "fre",
+      "weight": 6
+    },
+    {
+      "source": "Hermann,Judith",
+      "target": "dan",
+      "weight": 6
+    },
+    {
+      "source": "Hermann,Judith",
+      "target": "cze",
+      "weight": 5
+    },
+    {
+      "source": "Hermann,Judith",
+      "target": "eng",
+      "weight": 6
+    },
+    {
+      "source": "Kastner,J\u00f6rg",
+      "target": "fre",
+      "weight": 7
+    },
+    {
+      "source": "Kastner,J\u00f6rg",
+      "target": "spa",
+      "weight": 7
+    },
+    {
+      "source": "Kastner,J\u00f6rg",
+      "target": "dut",
+      "weight": 9
+    },
+    {
+      "source": "Krausser,Helmut",
+      "target": "fre",
+      "weight": 6
+    },
+    {
+      "source": "Krausser,Helmut",
+      "target": "dut",
+      "weight": 6
+    },
+    {
+      "source": "Meyer,Kai",
+      "target": "fre",
+      "weight": 8
+    },
+    {
+      "source": "Meyer,Kai",
+      "target": "cze",
+      "weight": 10
+    },
+    {
+      "source": "Meyer,Kai",
+      "target": "slo",
+      "weight": 6
+    },
+    {
+      "source": "Meyer,Kai",
+      "target": "eng",
+      "weight": 5
+    },
+    {
+      "source": "Nadolny,Sten",
+      "target": "fre",
+      "weight": 5
+    },
+    {
+      "source": "Nadolny,Sten",
+      "target": "tur",
+      "weight": 5
+    },
+    {
+      "source": "Nadolny,Sten",
+      "target": "spa",
+      "weight": 5
+    },
+    {
+      "source": "Nadolny,Sten",
+      "target": "ita",
+      "weight": 8
+    },
+    {
+      "source": "Scheer,KarlH.",
+      "target": "fre",
+      "weight": 256
+    },
+    {
+      "source": "Zweig,Stefanie",
+      "target": "fre",
+      "weight": 8
+    },
+    {
+      "source": "Zweig,Stefanie",
+      "target": "cze",
+      "weight": 5
+    },
+    {
+      "source": "Zweig,Stefanie",
+      "target": "dut",
+      "weight": 7
+    },
+    {
+      "source": "Zweig,Stefanie",
+      "target": "pol",
+      "weight": 6
+    },
+    {
+      "source": "Ausl\u00e4nder,Rose",
+      "target": "fre",
+      "weight": 5
+    },
+    {
+      "source": "Ausl\u00e4nder,Rose",
+      "target": "ger",
+      "weight": 10
+    },
+    {
+      "source": "Bekker,Alfred",
+      "target": "pol",
+      "weight": 12
+    },
+    {
+      "source": "Berling,Peter",
+      "target": "fre",
+      "weight": 11
+    },
+    {
+      "source": "Berling,Peter",
+      "target": "spa",
+      "weight": 27
+    },
+    {
+      "source": "Berling,Peter",
+      "target": "pol",
+      "weight": 8
+    },
+    {
+      "source": "Birkner,Friede",
+      "target": "cze",
+      "weight": 23
+    },
+    {
+      "source": "Birkner,Friede",
+      "target": "hun",
+      "weight": 30
+    },
+    {
+      "source": "Birkner,Friede",
+      "target": "pol",
+      "weight": 21
+    },
+    {
+      "source": "Bomann,Corina",
+      "target": "fre",
+      "weight": 8
+    },
+    {
+      "source": "Bomann,Corina",
+      "target": "cze",
+      "weight": 6
+    },
+    {
+      "source": "Bomann,Corina",
+      "target": "eng",
+      "weight": 8
+    },
+    {
+      "source": "Bomann,Corina",
+      "target": "spa",
+      "weight": 9
+    },
+    {
+      "source": "Bomann,Corina",
+      "target": "dut",
+      "weight": 15
+    },
+    {
+      "source": "Bomann,Corina",
+      "target": "ita",
+      "weight": 27
+    },
+    {
+      "source": "Cordonnierov\u00e1,Marie",
+      "target": "cze",
+      "weight": 25
+    },
+    {
+      "source": "Dark,Jason",
+      "target": "cze",
+      "weight": 11
+    },
+    {
+      "source": "Fischer,MarieLouise",
+      "target": "lit",
+      "weight": 5
+    },
+    {
+      "source": "Fischer,MarieLouise",
+      "target": "hun",
+      "weight": 12
+    },
+    {
+      "source": "Fischer,MarieLouise",
+      "target": "srp",
+      "weight": 12
+    },
+    {
+      "source": "Fleischhauer,Wolfram",
+      "target": "fre",
+      "weight": 5
+    },
+    {
+      "source": "Fleischhauer,Wolfram",
+      "target": "ita",
+      "weight": 6
+    },
+    {
+      "source": "Fleischhauer,Wolfram",
+      "target": "rus",
+      "weight": 5
+    },
+    {
+      "source": "Gilbers,Harald",
+      "target": "fre",
+      "weight": 7
+    },
+    {
+      "source": "Gilbers,Harald",
+      "target": "ita",
+      "weight": 5
+    },
+    {
+      "source": "Haefs,Gisbert",
+      "target": "spa",
+      "weight": 15
+    },
+    {
+      "source": "Hammesfahr,Petra",
+      "target": "cze",
+      "weight": 6
+    },
+    {
+      "source": "Hammesfahr,Petra",
+      "target": "tur",
+      "weight": 6
+    },
+    {
+      "source": "Hammesfahr,Petra",
+      "target": "dut",
+      "weight": 5
+    },
+    {
+      "source": "Hammesfahr,Petra",
+      "target": "pol",
+      "weight": 5
+    },
+    {
+      "source": "Heinichen,Veit",
+      "target": "spa",
+      "weight": 7
+    },
+    {
+      "source": "Heinichen,Veit",
+      "target": "ita",
+      "weight": 16
+    },
+    {
+      "source": "Kutscher,Volker",
+      "target": "fre",
+      "weight": 6
+    },
+    {
+      "source": "Kutscher,Volker",
+      "target": "dan",
+      "weight": 8
+    },
+    {
+      "source": "Kutscher,Volker",
+      "target": "cze",
+      "weight": 5
+    },
+    {
+      "source": "Kutscher,Volker",
+      "target": "eng",
+      "weight": 9
+    },
+    {
+      "source": "Kutscher,Volker",
+      "target": "spa",
+      "weight": 8
+    },
+    {
+      "source": "Kutscher,Volker",
+      "target": "ita",
+      "weight": 5
+    },
+    {
+      "source": "Lechleitner,Norbert",
+      "target": "cze",
+      "weight": 5
+    },
+    {
+      "source": "Lechleitner,Norbert",
+      "target": "pol",
+      "weight": 7
+    },
+    {
+      "source": "Lewinsky,Charles",
+      "target": "fre",
+      "weight": 7
+    },
+    {
+      "source": "Lewinsky,Charles",
+      "target": "dut",
+      "weight": 6
+    },
+    {
+      "source": "Lorentz,Iny",
+      "target": "cze",
+      "weight": 15
+    },
+    {
+      "source": "Lorentz,Iny",
+      "target": "hun",
+      "weight": 9
+    },
+    {
+      "source": "Lorentz,Iny",
+      "target": "spa",
+      "weight": 6
+    },
+    {
+      "source": "Lorentz,Iny",
+      "target": "pol",
+      "weight": 23
+    },
+    {
+      "source": "Mann,Heinrich",
+      "target": "fre",
+      "weight": 5
+    },
+    {
+      "source": "Mann,Heinrich",
+      "target": "spa",
+      "weight": 10
+    },
+    {
+      "source": "Mann,Heinrich",
+      "target": "rus",
+      "weight": 11
+    },
+    {
+      "source": "Mayenburg,Mariusvon",
+      "target": "fre",
+      "weight": 6
+    },
+    {
+      "source": "Mayenburg,Mariusvon",
+      "target": "eng",
+      "weight": 6
+    },
+    {
+      "source": "Mayr\u00f6cker,Friederike",
+      "target": "fre",
+      "weight": 6
+    },
+    {
+      "source": "Mayr\u00f6cker,Friederike",
+      "target": "swe",
+      "weight": 7
+    },
+    {
+      "source": "Mayr\u00f6cker,Friederike",
+      "target": "eng",
+      "weight": 8
+    },
+    {
+      "source": "Obermeier,Siegfried",
+      "target": "cze",
+      "weight": 15
+    },
+    {
+      "source": "Obermeier,Siegfried",
+      "target": "rus",
+      "weight": 5
+    },
+    {
+      "source": "Riebe,Brigitte",
+      "target": "cze",
+      "weight": 8
+    },
+    {
+      "source": "Riebe,Brigitte",
+      "target": "hun",
+      "weight": 9
+    },
+    {
+      "source": "Rosendorfer,Herbert",
+      "target": "fre",
+      "weight": 6
+    },
+    {
+      "source": "Rosendorfer,Herbert",
+      "target": "eng",
+      "weight": 6
+    },
+    {
+      "source": "Schmidt,Arno",
+      "target": "fre",
+      "weight": 16
+    },
+    {
+      "source": "Schmidt,Arno",
+      "target": "cze",
+      "weight": 8
+    },
+    {
+      "source": "Schmidt,Arno",
+      "target": "spa",
+      "weight": 7
+    },
+    {
+      "source": "Schmidt,Arno",
+      "target": "dut",
+      "weight": 7
+    },
+    {
+      "source": "Schmidt,Arno",
+      "target": "ita",
+      "weight": 6
+    },
+    {
+      "source": "Serno,Wolf",
+      "target": "cze",
+      "weight": 11
+    },
+    {
+      "source": "Serno,Wolf",
+      "target": "hun",
+      "weight": 5
+    },
+    {
+      "source": "Stifter,Adalbert",
+      "target": "fre",
+      "weight": 14
+    },
+    {
+      "source": "Stifter,Adalbert",
+      "target": "eng",
+      "weight": 8
+    },
+    {
+      "source": "Stifter,Adalbert",
+      "target": "spa",
+      "weight": 7
+    },
+    {
+      "source": "Stifter,Adalbert",
+      "target": "ita",
+      "weight": 7
+    },
+    {
+      "source": "Strau\u00df,Botho",
+      "target": "fre",
+      "weight": 16
+    },
+    {
+      "source": "Strau\u00df,Botho",
+      "target": "eng",
+      "weight": 5
+    },
+    {
+      "source": "Strau\u00df,Botho",
+      "target": "ita",
+      "weight": 5
+    },
+    {
+      "source": "Ungar,Hermann",
+      "target": "fre",
+      "weight": 6
+    },
+    {
+      "source": "Ungar,Hermann",
+      "target": "spa",
+      "weight": 5
+    },
+    {
+      "source": "Vandenberg,Patricia",
+      "target": "pol",
+      "weight": 32
+    },
+    {
+      "source": "Vosseler,NicoleC.",
+      "target": "spa",
+      "weight": 7
+    },
+    {
+      "source": "Vosseler,NicoleC.",
+      "target": "rus",
+      "weight": 8
+    },
+    {
+      "source": "Bottini,Oliver",
+      "target": "fre",
+      "weight": 6
+    },
+    {
+      "source": "Bottini,Oliver",
+      "target": "dan",
+      "weight": 5
+    },
+    {
+      "source": "Glauser,Friedrich",
+      "target": "fre",
+      "weight": 15
+    },
+    {
+      "source": "Glauser,Friedrich",
+      "target": "dan",
+      "weight": 8
+    },
+    {
+      "source": "Glauser,Friedrich",
+      "target": "hun",
+      "weight": 6
+    },
+    {
+      "source": "Glauser,Friedrich",
+      "target": "ita",
+      "weight": 7
+    },
+    {
+      "source": "Haushofer,Marlen",
+      "target": "fre",
+      "weight": 6
+    },
+    {
+      "source": "Haushofer,Marlen",
+      "target": "swe",
+      "weight": 6
+    },
+    {
+      "source": "Haushofer,Marlen",
+      "target": "eng",
+      "weight": 6
+    },
+    {
+      "source": "Haushofer,Marlen",
+      "target": "spa",
+      "weight": 5
+    },
+    {
+      "source": "Haushofer,Marlen",
+      "target": "dut",
+      "weight": 9
+    },
+    {
+      "source": "Keun,Irmgard",
+      "target": "eng",
+      "weight": 7
+    },
+    {
+      "source": "Keun,Irmgard",
+      "target": "ita",
+      "weight": 5
+    },
+    {
+      "source": "Wagner,Richard",
+      "target": "ger",
+      "weight": 6
+    },
+    {
+      "source": "Wagner,Richard",
+      "target": "ita",
+      "weight": 6
+    },
+    {
+      "source": "Hofmann,Gert",
+      "target": "fre",
+      "weight": 11
+    },
+    {
+      "source": "Hofmann,Gert",
+      "target": "eng",
+      "weight": 14
+    },
+    {
+      "source": "Koch,Erich",
+      "target": "dut",
+      "weight": 6
+    },
+    {
+      "source": "Koch,Erich",
+      "target": "nds",
+      "weight": 21
+    },
+    {
+      "source": "Reinehr,Wilfried",
+      "target": "nds",
+      "weight": 11
+    },
+    {
+      "source": "Durst-Benning,Petra",
+      "target": "eng",
+      "weight": 25
+    },
+    {
+      "source": "Jopaire,Sandrine",
+      "target": "eng",
+      "weight": 95
+    },
+    {
+      "source": "Lernet-Holenia,Alexander",
+      "target": "fre",
+      "weight": 5
+    },
+    {
+      "source": "Lernet-Holenia,Alexander",
+      "target": "spa",
+      "weight": 6
+    },
+    {
+      "source": "Suchanek,Andreas",
+      "target": "eng",
+      "weight": 12
+    },
+    {
+      "source": "Keyserling,Eduardvon",
+      "target": "fre",
+      "weight": 20
+    },
+    {
+      "source": "Keyserling,Eduardvon",
+      "target": "spa",
+      "weight": 10
+    },
+    {
+      "source": "Keyserling,Eduardvon",
+      "target": "ita",
+      "weight": 5
+    },
+    {
+      "source": "Nizon,Paul",
+      "target": "fre",
+      "weight": 12
+    },
+    {
+      "source": "Scheer,Karl-Herbert",
+      "target": "fre",
+      "weight": 11
+    },
+    {
+      "source": "Schimmel,Hans",
+      "target": "gsw",
+      "weight": 19
+    },
+    {
+      "source": "Ewers,H.G.",
+      "target": "jpn",
+      "weight": 16
+    },
+    {
+      "source": "Francis,H.G.",
+      "target": "jpn",
+      "weight": 12
+    },
+    {
+      "source": "Mahr,Kurt",
+      "target": "jpn",
+      "weight": 22
+    },
+    {
+      "source": "Voltz,William",
+      "target": "jpn",
+      "weight": 14
+    },
+    {
+      "source": "Winterfield,O.S.",
+      "target": "pol",
+      "weight": 19
+    },
+    {
+      "source": "Royov\u00e1,Krist\u00edna",
+      "target": "rus",
+      "weight": 11
+    }
+  ]
+}

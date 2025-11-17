@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>German Fiction Translation Networks</title>
+    <link rel="stylesheet" href="src/styles.css" />
+    <script src="https://d3js.org/d3.v7.min.js" defer></script>
+    <script type="module" src="src/app.js" defer></script>
+  </head>
+  <body>
+    <header>
+      <h1>German Fiction Translation Networks</h1>
+      <p>
+        Interactive views of the author-language translation graph and the
+        language-language shared-author network derived from the German National
+        Library catalogue (1980-2020).
+      </p>
+    </header>
+    <main>
+      <section>
+        <div class="section-header">
+          <h2>Author -> Language Bipartite Network</h2>
+          <div class="controls">
+            <label>
+              Min edge weight:
+              <input id="authorMinWeight" type="range" min="1" max="40" step="1" value="5" />
+              <span id="authorMinWeightValue">5</span>
+            </label>
+            <button id="downloadAuthorJson" type="button">Download filtered JSON</button>
+          </div>
+        </div>
+        <div id="authorLanguageChart" class="chart"></div>
+      </section>
+
+      <section>
+        <div class="section-header">
+          <h2>Language -> Language Network</h2>
+          <div class="controls">
+            <label>
+              Min edge weight:
+              <input id="languageMinWeight" type="range" min="1" max="200" step="5" value="50" />
+              <span id="languageMinWeightValue">50</span>
+            </label>
+            <button id="downloadLanguageJson" type="button">Download filtered JSON</button>
+          </div>
+        </div>
+        <div id="languageLanguageChart" class="chart"></div>
+      </section>
+    </main>
+    <footer>
+      <p>
+        Data source: Lisa Teichmann, <em>Mapping German Fiction in Translation in the German
+        National Library Catalogue (1980-2020)</em>.
+      </p>
+    </footer>
+  </body>
+</html>

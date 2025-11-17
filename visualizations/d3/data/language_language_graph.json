@@ -1,0 +1,2469 @@
+{
+  "meta": {
+    "minEdgeWeight": 50,
+    "edgeCount": 444,
+    "nodeCount": 34
+  },
+  "nodes": [
+    {
+      "id": "ara",
+      "label": "ara",
+      "type": "language",
+      "totalWeight": 282,
+      "linkCount": 5
+    },
+    {
+      "id": "bul",
+      "label": "bul",
+      "type": "language",
+      "totalWeight": 3413,
+      "linkCount": 29
+    },
+    {
+      "id": "cat",
+      "label": "cat",
+      "type": "language",
+      "totalWeight": 2137,
+      "linkCount": 27
+    },
+    {
+      "id": "chi",
+      "label": "chi",
+      "type": "language",
+      "totalWeight": 2400,
+      "linkCount": 28
+    },
+    {
+      "id": "cze",
+      "label": "cze",
+      "type": "language",
+      "totalWeight": 5007,
+      "linkCount": 31
+    },
+    {
+      "id": "dan",
+      "label": "dan",
+      "type": "language",
+      "totalWeight": 3227,
+      "linkCount": 28
+    },
+    {
+      "id": "dut",
+      "label": "dut",
+      "type": "language",
+      "totalWeight": 5353,
+      "linkCount": 32
+    },
+    {
+      "id": "eng",
+      "label": "eng",
+      "type": "language",
+      "totalWeight": 5535,
+      "linkCount": 32
+    },
+    {
+      "id": "est",
+      "label": "est",
+      "type": "language",
+      "totalWeight": 2600,
+      "linkCount": 28
+    },
+    {
+      "id": "fin",
+      "label": "fin",
+      "type": "language",
+      "totalWeight": 2523,
+      "linkCount": 28
+    },
+    {
+      "id": "fre",
+      "label": "fre",
+      "type": "language",
+      "totalWeight": 6246,
+      "linkCount": 33
+    },
+    {
+      "id": "ger",
+      "label": "ger",
+      "type": "language",
+      "totalWeight": 1286,
+      "linkCount": 17
+    },
+    {
+      "id": "gre",
+      "label": "gre",
+      "type": "language",
+      "totalWeight": 3033,
+      "linkCount": 29
+    },
+    {
+      "id": "heb",
+      "label": "heb",
+      "type": "language",
+      "totalWeight": 1901,
+      "linkCount": 25
+    },
+    {
+      "id": "hrv",
+      "label": "hrv",
+      "type": "language",
+      "totalWeight": 2644,
+      "linkCount": 28
+    },
+    {
+      "id": "hun",
+      "label": "hun",
+      "type": "language",
+      "totalWeight": 3914,
+      "linkCount": 30
+    },
+    {
+      "id": "ita",
+      "label": "ita",
+      "type": "language",
+      "totalWeight": 5801,
+      "linkCount": 33
+    },
+    {
+      "id": "jpn",
+      "label": "jpn",
+      "type": "language",
+      "totalWeight": 2081,
+      "linkCount": 26
+    },
+    {
+      "id": "kor",
+      "label": "kor",
+      "type": "language",
+      "totalWeight": 719,
+      "linkCount": 11
+    },
+    {
+      "id": "lav",
+      "label": "lav",
+      "type": "language",
+      "totalWeight": 1978,
+      "linkCount": 25
+    },
+    {
+      "id": "lit",
+      "label": "lit",
+      "type": "language",
+      "totalWeight": 2595,
+      "linkCount": 28
+    },
+    {
+      "id": "mac",
+      "label": "mac",
+      "type": "language",
+      "totalWeight": 260,
+      "linkCount": 5
+    },
+    {
+      "id": "nor",
+      "label": "nor",
+      "type": "language",
+      "totalWeight": 3102,
+      "linkCount": 29
+    },
+    {
+      "id": "pol",
+      "label": "pol",
+      "type": "language",
+      "totalWeight": 4723,
+      "linkCount": 31
+    },
+    {
+      "id": "por",
+      "label": "por",
+      "type": "language",
+      "totalWeight": 3306,
+      "linkCount": 30
+    },
+    {
+      "id": "rum",
+      "label": "rum",
+      "type": "language",
+      "totalWeight": 2393,
+      "linkCount": 29
+    },
+    {
+      "id": "rus",
+      "label": "rus",
+      "type": "language",
+      "totalWeight": 3941,
+      "linkCount": 30
+    },
+    {
+      "id": "slo",
+      "label": "slo",
+      "type": "language",
+      "totalWeight": 2146,
+      "linkCount": 27
+    },
+    {
+      "id": "slv",
+      "label": "slv",
+      "type": "language",
+      "totalWeight": 2909,
+      "linkCount": 29
+    },
+    {
+      "id": "spa",
+      "label": "spa",
+      "type": "language",
+      "totalWeight": 5950,
+      "linkCount": 33
+    },
+    {
+      "id": "srp",
+      "label": "srp",
+      "type": "language",
+      "totalWeight": 3031,
+      "linkCount": 29
+    },
+    {
+      "id": "swe",
+      "label": "swe",
+      "type": "language",
+      "totalWeight": 3414,
+      "linkCount": 29
+    },
+    {
+      "id": "tur",
+      "label": "tur",
+      "type": "language",
+      "totalWeight": 3420,
+      "linkCount": 29
+    },
+    {
+      "id": "ukr",
+      "label": "ukr",
+      "type": "language",
+      "totalWeight": 258,
+      "linkCount": 5
+    }
+  ],
+  "links": [
+    {
+      "source": "ara",
+      "target": "dut",
+      "weight": 56
+    },
+    {
+      "source": "ara",
+      "target": "eng",
+      "weight": 55
+    },
+    {
+      "source": "ara",
+      "target": "fre",
+      "weight": 58
+    },
+    {
+      "source": "ara",
+      "target": "ita",
+      "weight": 60
+    },
+    {
+      "source": "ara",
+      "target": "spa",
+      "weight": 53
+    },
+    {
+      "source": "bul",
+      "target": "cat",
+      "weight": 74
+    },
+    {
+      "source": "bul",
+      "target": "chi",
+      "weight": 83
+    },
+    {
+      "source": "bul",
+      "target": "cze",
+      "weight": 183
+    },
+    {
+      "source": "bul",
+      "target": "dan",
+      "weight": 107
+    },
+    {
+      "source": "bul",
+      "target": "dut",
+      "weight": 171
+    },
+    {
+      "source": "bul",
+      "target": "eng",
+      "weight": 176
+    },
+    {
+      "source": "bul",
+      "target": "est",
+      "weight": 95
+    },
+    {
+      "source": "bul",
+      "target": "fin",
+      "weight": 83
+    },
+    {
+      "source": "bul",
+      "target": "fre",
+      "weight": 196
+    },
+    {
+      "source": "bul",
+      "target": "ger",
+      "weight": 74
+    },
+    {
+      "source": "bul",
+      "target": "gre",
+      "weight": 95
+    },
+    {
+      "source": "bul",
+      "target": "heb",
+      "weight": 71
+    },
+    {
+      "source": "bul",
+      "target": "hrv",
+      "weight": 100
+    },
+    {
+      "source": "bul",
+      "target": "hun",
+      "weight": 143
+    },
+    {
+      "source": "bul",
+      "target": "ita",
+      "weight": 181
+    },
+    {
+      "source": "bul",
+      "target": "jpn",
+      "weight": 74
+    },
+    {
+      "source": "bul",
+      "target": "lav",
+      "weight": 78
+    },
+    {
+      "source": "bul",
+      "target": "lit",
+      "weight": 94
+    },
+    {
+      "source": "bul",
+      "target": "nor",
+      "weight": 104
+    },
+    {
+      "source": "bul",
+      "target": "pol",
+      "weight": 156
+    },
+    {
+      "source": "bul",
+      "target": "por",
+      "weight": 114
+    },
+    {
+      "source": "bul",
+      "target": "rum",
+      "weight": 88
+    },
+    {
+      "source": "bul",
+      "target": "rus",
+      "weight": 148
+    },
+    {
+      "source": "bul",
+      "target": "slo",
+      "weight": 76
+    },
+    {
+      "source": "bul",
+      "target": "slv",
+      "weight": 109
+    },
+    {
+      "source": "bul",
+      "target": "spa",
+      "weight": 197
+    },
+    {
+      "source": "bul",
+      "target": "srp",
+      "weight": 113
+    },
+    {
+      "source": "bul",
+      "target": "swe",
+      "weight": 111
+    },
+    {
+      "source": "bul",
+      "target": "tur",
+      "weight": 119
+    },
+    {
+      "source": "cat",
+      "target": "chi",
+      "weight": 54
+    },
+    {
+      "source": "cat",
+      "target": "cze",
+      "weight": 89
+    },
+    {
+      "source": "cat",
+      "target": "dan",
+      "weight": 80
+    },
+    {
+      "source": "cat",
+      "target": "dut",
+      "weight": 104
+    },
+    {
+      "source": "cat",
+      "target": "eng",
+      "weight": 113
+    },
+    {
+      "source": "cat",
+      "target": "est",
+      "weight": 58
+    },
+    {
+      "source": "cat",
+      "target": "fin",
+      "weight": 66
+    },
+    {
+      "source": "cat",
+      "target": "fre",
+      "weight": 126
+    },
+    {
+      "source": "cat",
+      "target": "gre",
+      "weight": 78
+    },
+    {
+      "source": "cat",
+      "target": "heb",
+      "weight": 52
+    },
+    {
+      "source": "cat",
+      "target": "hrv",
+      "weight": 59
+    },
+    {
+      "source": "cat",
+      "target": "hun",
+      "weight": 86
+    },
+    {
+      "source": "cat",
+      "target": "ita",
+      "weight": 107
+    },
+    {
+      "source": "cat",
+      "target": "jpn",
+      "weight": 52
+    },
+    {
+      "source": "cat",
+      "target": "lit",
+      "weight": 59
+    },
+    {
+      "source": "cat",
+      "target": "nor",
+      "weight": 80
+    },
+    {
+      "source": "cat",
+      "target": "pol",
+      "weight": 90
+    },
+    {
+      "source": "cat",
+      "target": "por",
+      "weight": 81
+    },
+    {
+      "source": "cat",
+      "target": "rum",
+      "weight": 58
+    },
+    {
+      "source": "cat",
+      "target": "rus",
+      "weight": 77
+    },
+    {
+      "source": "cat",
+      "target": "slo",
+      "weight": 51
+    },
+    {
+      "source": "cat",
+      "target": "slv",
+      "weight": 69
+    },
+    {
+      "source": "cat",
+      "target": "spa",
+      "weight": 134
+    },
+    {
+      "source": "cat",
+      "target": "srp",
+      "weight": 76
+    },
+    {
+      "source": "cat",
+      "target": "swe",
+      "weight": 82
+    },
+    {
+      "source": "cat",
+      "target": "tur",
+      "weight": 82
+    },
+    {
+      "source": "chi",
+      "target": "cze",
+      "weight": 118
+    },
+    {
+      "source": "chi",
+      "target": "dan",
+      "weight": 79
+    },
+    {
+      "source": "chi",
+      "target": "dut",
+      "weight": 125
+    },
+    {
+      "source": "chi",
+      "target": "eng",
+      "weight": 118
+    },
+    {
+      "source": "chi",
+      "target": "est",
+      "weight": 66
+    },
+    {
+      "source": "chi",
+      "target": "fin",
+      "weight": 67
+    },
+    {
+      "source": "chi",
+      "target": "fre",
+      "weight": 135
+    },
+    {
+      "source": "chi",
+      "target": "gre",
+      "weight": 74
+    },
+    {
+      "source": "chi",
+      "target": "heb",
+      "weight": 55
+    },
+    {
+      "source": "chi",
+      "target": "hrv",
+      "weight": 64
+    },
+    {
+      "source": "chi",
+      "target": "hun",
+      "weight": 95
+    },
+    {
+      "source": "chi",
+      "target": "ita",
+      "weight": 135
+    },
+    {
+      "source": "chi",
+      "target": "jpn",
+      "weight": 57
+    },
+    {
+      "source": "chi",
+      "target": "lav",
+      "weight": 64
+    },
+    {
+      "source": "chi",
+      "target": "lit",
+      "weight": 73
+    },
+    {
+      "source": "chi",
+      "target": "nor",
+      "weight": 72
+    },
+    {
+      "source": "chi",
+      "target": "pol",
+      "weight": 108
+    },
+    {
+      "source": "chi",
+      "target": "por",
+      "weight": 86
+    },
+    {
+      "source": "chi",
+      "target": "rum",
+      "weight": 63
+    },
+    {
+      "source": "chi",
+      "target": "rus",
+      "weight": 99
+    },
+    {
+      "source": "chi",
+      "target": "slo",
+      "weight": 57
+    },
+    {
+      "source": "chi",
+      "target": "slv",
+      "weight": 73
+    },
+    {
+      "source": "chi",
+      "target": "spa",
+      "weight": 134
+    },
+    {
+      "source": "chi",
+      "target": "srp",
+      "weight": 75
+    },
+    {
+      "source": "chi",
+      "target": "swe",
+      "weight": 78
+    },
+    {
+      "source": "chi",
+      "target": "tur",
+      "weight": 93
+    },
+    {
+      "source": "cze",
+      "target": "dan",
+      "weight": 140
+    },
+    {
+      "source": "cze",
+      "target": "dut",
+      "weight": 283
+    },
+    {
+      "source": "cze",
+      "target": "eng",
+      "weight": 272
+    },
+    {
+      "source": "cze",
+      "target": "est",
+      "weight": 132
+    },
+    {
+      "source": "cze",
+      "target": "fin",
+      "weight": 113
+    },
+    {
+      "source": "cze",
+      "target": "fre",
+      "weight": 317
+    },
+    {
+      "source": "cze",
+      "target": "ger",
+      "weight": 85
+    },
+    {
+      "source": "cze",
+      "target": "gre",
+      "weight": 139
+    },
+    {
+      "source": "cze",
+      "target": "heb",
+      "weight": 83
+    },
+    {
+      "source": "cze",
+      "target": "hrv",
+      "weight": 123
+    },
+    {
+      "source": "cze",
+      "target": "hun",
+      "weight": 212
+    },
+    {
+      "source": "cze",
+      "target": "ita",
+      "weight": 298
+    },
+    {
+      "source": "cze",
+      "target": "jpn",
+      "weight": 114
+    },
+    {
+      "source": "cze",
+      "target": "kor",
+      "weight": 70
+    },
+    {
+      "source": "cze",
+      "target": "lav",
+      "weight": 112
+    },
+    {
+      "source": "cze",
+      "target": "lit",
+      "weight": 139
+    },
+    {
+      "source": "cze",
+      "target": "nor",
+      "weight": 135
+    },
+    {
+      "source": "cze",
+      "target": "pol",
+      "weight": 262
+    },
+    {
+      "source": "cze",
+      "target": "por",
+      "weight": 149
+    },
+    {
+      "source": "cze",
+      "target": "rum",
+      "weight": 120
+    },
+    {
+      "source": "cze",
+      "target": "rus",
+      "weight": 219
+    },
+    {
+      "source": "cze",
+      "target": "slo",
+      "weight": 137
+    },
+    {
+      "source": "cze",
+      "target": "slv",
+      "weight": 139
+    },
+    {
+      "source": "cze",
+      "target": "spa",
+      "weight": 317
+    },
+    {
+      "source": "cze",
+      "target": "srp",
+      "weight": 143
+    },
+    {
+      "source": "cze",
+      "target": "swe",
+      "weight": 152
+    },
+    {
+      "source": "cze",
+      "target": "tur",
+      "weight": 162
+    },
+    {
+      "source": "cze",
+      "target": "ukr",
+      "weight": 50
+    },
+    {
+      "source": "dan",
+      "target": "dut",
+      "weight": 184
+    },
+    {
+      "source": "dan",
+      "target": "eng",
+      "weight": 185
+    },
+    {
+      "source": "dan",
+      "target": "est",
+      "weight": 89
+    },
+    {
+      "source": "dan",
+      "target": "fin",
+      "weight": 100
+    },
+    {
+      "source": "dan",
+      "target": "fre",
+      "weight": 195
+    },
+    {
+      "source": "dan",
+      "target": "gre",
+      "weight": 105
+    },
+    {
+      "source": "dan",
+      "target": "heb",
+      "weight": 76
+    },
+    {
+      "source": "dan",
+      "target": "hrv",
+      "weight": 98
+    },
+    {
+      "source": "dan",
+      "target": "hun",
+      "weight": 125
+    },
+    {
+      "source": "dan",
+      "target": "ita",
+      "weight": 184
+    },
+    {
+      "source": "dan",
+      "target": "jpn",
+      "weight": 75
+    },
+    {
+      "source": "dan",
+      "target": "lav",
+      "weight": 68
+    },
+    {
+      "source": "dan",
+      "target": "lit",
+      "weight": 82
+    },
+    {
+      "source": "dan",
+      "target": "nor",
+      "weight": 120
+    },
+    {
+      "source": "dan",
+      "target": "pol",
+      "weight": 143
+    },
+    {
+      "source": "dan",
+      "target": "por",
+      "weight": 117
+    },
+    {
+      "source": "dan",
+      "target": "rum",
+      "weight": 74
+    },
+    {
+      "source": "dan",
+      "target": "rus",
+      "weight": 111
+    },
+    {
+      "source": "dan",
+      "target": "slo",
+      "weight": 68
+    },
+    {
+      "source": "dan",
+      "target": "slv",
+      "weight": 97
+    },
+    {
+      "source": "dan",
+      "target": "spa",
+      "weight": 179
+    },
+    {
+      "source": "dan",
+      "target": "srp",
+      "weight": 96
+    },
+    {
+      "source": "dan",
+      "target": "swe",
+      "weight": 134
+    },
+    {
+      "source": "dan",
+      "target": "tur",
+      "weight": 116
+    },
+    {
+      "source": "dut",
+      "target": "eng",
+      "weight": 328
+    },
+    {
+      "source": "dut",
+      "target": "est",
+      "weight": 130
+    },
+    {
+      "source": "dut",
+      "target": "fin",
+      "weight": 130
+    },
+    {
+      "source": "dut",
+      "target": "fre",
+      "weight": 381
+    },
+    {
+      "source": "dut",
+      "target": "ger",
+      "weight": 76
+    },
+    {
+      "source": "dut",
+      "target": "gre",
+      "weight": 155
+    },
+    {
+      "source": "dut",
+      "target": "heb",
+      "weight": 101
+    },
+    {
+      "source": "dut",
+      "target": "hrv",
+      "weight": 132
+    },
+    {
+      "source": "dut",
+      "target": "hun",
+      "weight": 206
+    },
+    {
+      "source": "dut",
+      "target": "ita",
+      "weight": 343
+    },
+    {
+      "source": "dut",
+      "target": "jpn",
+      "weight": 108
+    },
+    {
+      "source": "dut",
+      "target": "kor",
+      "weight": 70
+    },
+    {
+      "source": "dut",
+      "target": "lav",
+      "weight": 108
+    },
+    {
+      "source": "dut",
+      "target": "lit",
+      "weight": 123
+    },
+    {
+      "source": "dut",
+      "target": "mac",
+      "weight": 50
+    },
+    {
+      "source": "dut",
+      "target": "nor",
+      "weight": 153
+    },
+    {
+      "source": "dut",
+      "target": "pol",
+      "weight": 263
+    },
+    {
+      "source": "dut",
+      "target": "por",
+      "weight": 169
+    },
+    {
+      "source": "dut",
+      "target": "rum",
+      "weight": 107
+    },
+    {
+      "source": "dut",
+      "target": "rus",
+      "weight": 203
+    },
+    {
+      "source": "dut",
+      "target": "slo",
+      "weight": 105
+    },
+    {
+      "source": "dut",
+      "target": "slv",
+      "weight": 141
+    },
+    {
+      "source": "dut",
+      "target": "spa",
+      "weight": 345
+    },
+    {
+      "source": "dut",
+      "target": "srp",
+      "weight": 140
+    },
+    {
+      "source": "dut",
+      "target": "swe",
+      "weight": 181
+    },
+    {
+      "source": "dut",
+      "target": "tur",
+      "weight": 182
+    },
+    {
+      "source": "eng",
+      "target": "est",
+      "weight": 124
+    },
+    {
+      "source": "eng",
+      "target": "fin",
+      "weight": 126
+    },
+    {
+      "source": "eng",
+      "target": "fre",
+      "weight": 430
+    },
+    {
+      "source": "eng",
+      "target": "ger",
+      "weight": 116
+    },
+    {
+      "source": "eng",
+      "target": "gre",
+      "weight": 158
+    },
+    {
+      "source": "eng",
+      "target": "heb",
+      "weight": 109
+    },
+    {
+      "source": "eng",
+      "target": "hrv",
+      "weight": 139
+    },
+    {
+      "source": "eng",
+      "target": "hun",
+      "weight": 209
+    },
+    {
+      "source": "eng",
+      "target": "ita",
+      "weight": 361
+    },
+    {
+      "source": "eng",
+      "target": "jpn",
+      "weight": 114
+    },
+    {
+      "source": "eng",
+      "target": "kor",
+      "weight": 66
+    },
+    {
+      "source": "eng",
+      "target": "lav",
+      "weight": 93
+    },
+    {
+      "source": "eng",
+      "target": "lit",
+      "weight": 120
+    },
+    {
+      "source": "eng",
+      "target": "nor",
+      "weight": 161
+    },
+    {
+      "source": "eng",
+      "target": "pol",
+      "weight": 251
+    },
+    {
+      "source": "eng",
+      "target": "por",
+      "weight": 176
+    },
+    {
+      "source": "eng",
+      "target": "rum",
+      "weight": 114
+    },
+    {
+      "source": "eng",
+      "target": "rus",
+      "weight": 207
+    },
+    {
+      "source": "eng",
+      "target": "slo",
+      "weight": 101
+    },
+    {
+      "source": "eng",
+      "target": "slv",
+      "weight": 160
+    },
+    {
+      "source": "eng",
+      "target": "spa",
+      "weight": 370
+    },
+    {
+      "source": "eng",
+      "target": "srp",
+      "weight": 156
+    },
+    {
+      "source": "eng",
+      "target": "swe",
+      "weight": 193
+    },
+    {
+      "source": "eng",
+      "target": "tur",
+      "weight": 183
+    },
+    {
+      "source": "eng",
+      "target": "ukr",
+      "weight": 51
+    },
+    {
+      "source": "est",
+      "target": "fin",
+      "weight": 76
+    },
+    {
+      "source": "est",
+      "target": "fre",
+      "weight": 146
+    },
+    {
+      "source": "est",
+      "target": "gre",
+      "weight": 81
+    },
+    {
+      "source": "est",
+      "target": "heb",
+      "weight": 58
+    },
+    {
+      "source": "est",
+      "target": "hrv",
+      "weight": 77
+    },
+    {
+      "source": "est",
+      "target": "hun",
+      "weight": 109
+    },
+    {
+      "source": "est",
+      "target": "ita",
+      "weight": 134
+    },
+    {
+      "source": "est",
+      "target": "jpn",
+      "weight": 60
+    },
+    {
+      "source": "est",
+      "target": "lav",
+      "weight": 73
+    },
+    {
+      "source": "est",
+      "target": "lit",
+      "weight": 88
+    },
+    {
+      "source": "est",
+      "target": "nor",
+      "weight": 86
+    },
+    {
+      "source": "est",
+      "target": "pol",
+      "weight": 118
+    },
+    {
+      "source": "est",
+      "target": "por",
+      "weight": 90
+    },
+    {
+      "source": "est",
+      "target": "rum",
+      "weight": 70
+    },
+    {
+      "source": "est",
+      "target": "rus",
+      "weight": 108
+    },
+    {
+      "source": "est",
+      "target": "slo",
+      "weight": 63
+    },
+    {
+      "source": "est",
+      "target": "slv",
+      "weight": 75
+    },
+    {
+      "source": "est",
+      "target": "spa",
+      "weight": 137
+    },
+    {
+      "source": "est",
+      "target": "srp",
+      "weight": 80
+    },
+    {
+      "source": "est",
+      "target": "swe",
+      "weight": 92
+    },
+    {
+      "source": "est",
+      "target": "tur",
+      "weight": 85
+    },
+    {
+      "source": "fin",
+      "target": "fre",
+      "weight": 141
+    },
+    {
+      "source": "fin",
+      "target": "gre",
+      "weight": 82
+    },
+    {
+      "source": "fin",
+      "target": "heb",
+      "weight": 60
+    },
+    {
+      "source": "fin",
+      "target": "hrv",
+      "weight": 69
+    },
+    {
+      "source": "fin",
+      "target": "hun",
+      "weight": 106
+    },
+    {
+      "source": "fin",
+      "target": "ita",
+      "weight": 128
+    },
+    {
+      "source": "fin",
+      "target": "jpn",
+      "weight": 52
+    },
+    {
+      "source": "fin",
+      "target": "lav",
+      "weight": 62
+    },
+    {
+      "source": "fin",
+      "target": "lit",
+      "weight": 66
+    },
+    {
+      "source": "fin",
+      "target": "nor",
+      "weight": 96
+    },
+    {
+      "source": "fin",
+      "target": "pol",
+      "weight": 105
+    },
+    {
+      "source": "fin",
+      "target": "por",
+      "weight": 94
+    },
+    {
+      "source": "fin",
+      "target": "rum",
+      "weight": 67
+    },
+    {
+      "source": "fin",
+      "target": "rus",
+      "weight": 90
+    },
+    {
+      "source": "fin",
+      "target": "slo",
+      "weight": 61
+    },
+    {
+      "source": "fin",
+      "target": "slv",
+      "weight": 79
+    },
+    {
+      "source": "fin",
+      "target": "spa",
+      "weight": 132
+    },
+    {
+      "source": "fin",
+      "target": "srp",
+      "weight": 80
+    },
+    {
+      "source": "fin",
+      "target": "swe",
+      "weight": 106
+    },
+    {
+      "source": "fin",
+      "target": "tur",
+      "weight": 86
+    },
+    {
+      "source": "fre",
+      "target": "ger",
+      "weight": 126
+    },
+    {
+      "source": "fre",
+      "target": "gre",
+      "weight": 180
+    },
+    {
+      "source": "fre",
+      "target": "heb",
+      "weight": 115
+    },
+    {
+      "source": "fre",
+      "target": "hrv",
+      "weight": 151
+    },
+    {
+      "source": "fre",
+      "target": "hun",
+      "weight": 233
+    },
+    {
+      "source": "fre",
+      "target": "ita",
+      "weight": 434
+    },
+    {
+      "source": "fre",
+      "target": "jpn",
+      "weight": 128
+    },
+    {
+      "source": "fre",
+      "target": "kor",
+      "weight": 72
+    },
+    {
+      "source": "fre",
+      "target": "lav",
+      "weight": 113
+    },
+    {
+      "source": "fre",
+      "target": "lit",
+      "weight": 137
+    },
+    {
+      "source": "fre",
+      "target": "mac",
+      "weight": 55
+    },
+    {
+      "source": "fre",
+      "target": "nor",
+      "weight": 174
+    },
+    {
+      "source": "fre",
+      "target": "pol",
+      "weight": 303
+    },
+    {
+      "source": "fre",
+      "target": "por",
+      "weight": 182
+    },
+    {
+      "source": "fre",
+      "target": "rum",
+      "weight": 124
+    },
+    {
+      "source": "fre",
+      "target": "rus",
+      "weight": 236
+    },
+    {
+      "source": "fre",
+      "target": "slo",
+      "weight": 114
+    },
+    {
+      "source": "fre",
+      "target": "slv",
+      "weight": 167
+    },
+    {
+      "source": "fre",
+      "target": "spa",
+      "weight": 443
+    },
+    {
+      "source": "fre",
+      "target": "srp",
+      "weight": 170
+    },
+    {
+      "source": "fre",
+      "target": "swe",
+      "weight": 211
+    },
+    {
+      "source": "fre",
+      "target": "tur",
+      "weight": 202
+    },
+    {
+      "source": "fre",
+      "target": "ukr",
+      "weight": 51
+    },
+    {
+      "source": "ger",
+      "target": "gre",
+      "weight": 53
+    },
+    {
+      "source": "ger",
+      "target": "hun",
+      "weight": 67
+    },
+    {
+      "source": "ger",
+      "target": "ita",
+      "weight": 96
+    },
+    {
+      "source": "ger",
+      "target": "nor",
+      "weight": 58
+    },
+    {
+      "source": "ger",
+      "target": "pol",
+      "weight": 85
+    },
+    {
+      "source": "ger",
+      "target": "por",
+      "weight": 51
+    },
+    {
+      "source": "ger",
+      "target": "rum",
+      "weight": 51
+    },
+    {
+      "source": "ger",
+      "target": "rus",
+      "weight": 70
+    },
+    {
+      "source": "ger",
+      "target": "slv",
+      "weight": 56
+    },
+    {
+      "source": "ger",
+      "target": "spa",
+      "weight": 105
+    },
+    {
+      "source": "ger",
+      "target": "srp",
+      "weight": 57
+    },
+    {
+      "source": "ger",
+      "target": "swe",
+      "weight": 60
+    },
+    {
+      "source": "gre",
+      "target": "heb",
+      "weight": 67
+    },
+    {
+      "source": "gre",
+      "target": "hrv",
+      "weight": 86
+    },
+    {
+      "source": "gre",
+      "target": "hun",
+      "weight": 111
+    },
+    {
+      "source": "gre",
+      "target": "ita",
+      "weight": 162
+    },
+    {
+      "source": "gre",
+      "target": "jpn",
+      "weight": 81
+    },
+    {
+      "source": "gre",
+      "target": "lav",
+      "weight": 55
+    },
+    {
+      "source": "gre",
+      "target": "lit",
+      "weight": 76
+    },
+    {
+      "source": "gre",
+      "target": "nor",
+      "weight": 104
+    },
+    {
+      "source": "gre",
+      "target": "pol",
+      "weight": 140
+    },
+    {
+      "source": "gre",
+      "target": "por",
+      "weight": 116
+    },
+    {
+      "source": "gre",
+      "target": "rum",
+      "weight": 70
+    },
+    {
+      "source": "gre",
+      "target": "rus",
+      "weight": 108
+    },
+    {
+      "source": "gre",
+      "target": "slo",
+      "weight": 69
+    },
+    {
+      "source": "gre",
+      "target": "slv",
+      "weight": 87
+    },
+    {
+      "source": "gre",
+      "target": "spa",
+      "weight": 174
+    },
+    {
+      "source": "gre",
+      "target": "srp",
+      "weight": 97
+    },
+    {
+      "source": "gre",
+      "target": "swe",
+      "weight": 114
+    },
+    {
+      "source": "gre",
+      "target": "tur",
+      "weight": 116
+    },
+    {
+      "source": "heb",
+      "target": "hrv",
+      "weight": 59
+    },
+    {
+      "source": "heb",
+      "target": "hun",
+      "weight": 75
+    },
+    {
+      "source": "heb",
+      "target": "ita",
+      "weight": 110
+    },
+    {
+      "source": "heb",
+      "target": "lit",
+      "weight": 55
+    },
+    {
+      "source": "heb",
+      "target": "nor",
+      "weight": 76
+    },
+    {
+      "source": "heb",
+      "target": "pol",
+      "weight": 86
+    },
+    {
+      "source": "heb",
+      "target": "por",
+      "weight": 67
+    },
+    {
+      "source": "heb",
+      "target": "rum",
+      "weight": 54
+    },
+    {
+      "source": "heb",
+      "target": "rus",
+      "weight": 70
+    },
+    {
+      "source": "heb",
+      "target": "slv",
+      "weight": 66
+    },
+    {
+      "source": "heb",
+      "target": "spa",
+      "weight": 109
+    },
+    {
+      "source": "heb",
+      "target": "srp",
+      "weight": 69
+    },
+    {
+      "source": "heb",
+      "target": "swe",
+      "weight": 82
+    },
+    {
+      "source": "heb",
+      "target": "tur",
+      "weight": 76
+    },
+    {
+      "source": "hrv",
+      "target": "hun",
+      "weight": 110
+    },
+    {
+      "source": "hrv",
+      "target": "ita",
+      "weight": 137
+    },
+    {
+      "source": "hrv",
+      "target": "jpn",
+      "weight": 58
+    },
+    {
+      "source": "hrv",
+      "target": "lav",
+      "weight": 59
+    },
+    {
+      "source": "hrv",
+      "target": "lit",
+      "weight": 73
+    },
+    {
+      "source": "hrv",
+      "target": "nor",
+      "weight": 82
+    },
+    {
+      "source": "hrv",
+      "target": "pol",
+      "weight": 133
+    },
+    {
+      "source": "hrv",
+      "target": "por",
+      "weight": 89
+    },
+    {
+      "source": "hrv",
+      "target": "rum",
+      "weight": 68
+    },
+    {
+      "source": "hrv",
+      "target": "rus",
+      "weight": 103
+    },
+    {
+      "source": "hrv",
+      "target": "slo",
+      "weight": 65
+    },
+    {
+      "source": "hrv",
+      "target": "slv",
+      "weight": 89
+    },
+    {
+      "source": "hrv",
+      "target": "spa",
+      "weight": 143
+    },
+    {
+      "source": "hrv",
+      "target": "srp",
+      "weight": 89
+    },
+    {
+      "source": "hrv",
+      "target": "swe",
+      "weight": 93
+    },
+    {
+      "source": "hrv",
+      "target": "tur",
+      "weight": 96
+    },
+    {
+      "source": "hun",
+      "target": "ita",
+      "weight": 212
+    },
+    {
+      "source": "hun",
+      "target": "jpn",
+      "weight": 76
+    },
+    {
+      "source": "hun",
+      "target": "kor",
+      "weight": 52
+    },
+    {
+      "source": "hun",
+      "target": "lav",
+      "weight": 91
+    },
+    {
+      "source": "hun",
+      "target": "lit",
+      "weight": 104
+    },
+    {
+      "source": "hun",
+      "target": "nor",
+      "weight": 116
+    },
+    {
+      "source": "hun",
+      "target": "pol",
+      "weight": 196
+    },
+    {
+      "source": "hun",
+      "target": "por",
+      "weight": 122
+    },
+    {
+      "source": "hun",
+      "target": "rum",
+      "weight": 103
+    },
+    {
+      "source": "hun",
+      "target": "rus",
+      "weight": 158
+    },
+    {
+      "source": "hun",
+      "target": "slo",
+      "weight": 97
+    },
+    {
+      "source": "hun",
+      "target": "slv",
+      "weight": 112
+    },
+    {
+      "source": "hun",
+      "target": "spa",
+      "weight": 217
+    },
+    {
+      "source": "hun",
+      "target": "srp",
+      "weight": 122
+    },
+    {
+      "source": "hun",
+      "target": "swe",
+      "weight": 125
+    },
+    {
+      "source": "hun",
+      "target": "tur",
+      "weight": 124
+    },
+    {
+      "source": "ita",
+      "target": "jpn",
+      "weight": 124
+    },
+    {
+      "source": "ita",
+      "target": "kor",
+      "weight": 82
+    },
+    {
+      "source": "ita",
+      "target": "lav",
+      "weight": 111
+    },
+    {
+      "source": "ita",
+      "target": "lit",
+      "weight": 134
+    },
+    {
+      "source": "ita",
+      "target": "mac",
+      "weight": 53
+    },
+    {
+      "source": "ita",
+      "target": "nor",
+      "weight": 163
+    },
+    {
+      "source": "ita",
+      "target": "pol",
+      "weight": 275
+    },
+    {
+      "source": "ita",
+      "target": "por",
+      "weight": 177
+    },
+    {
+      "source": "ita",
+      "target": "rum",
+      "weight": 121
+    },
+    {
+      "source": "ita",
+      "target": "rus",
+      "weight": 228
+    },
+    {
+      "source": "ita",
+      "target": "slo",
+      "weight": 110
+    },
+    {
+      "source": "ita",
+      "target": "slv",
+      "weight": 158
+    },
+    {
+      "source": "ita",
+      "target": "spa",
+      "weight": 382
+    },
+    {
+      "source": "ita",
+      "target": "srp",
+      "weight": 160
+    },
+    {
+      "source": "ita",
+      "target": "swe",
+      "weight": 192
+    },
+    {
+      "source": "ita",
+      "target": "tur",
+      "weight": 196
+    },
+    {
+      "source": "ita",
+      "target": "ukr",
+      "weight": 53
+    },
+    {
+      "source": "jpn",
+      "target": "lit",
+      "weight": 59
+    },
+    {
+      "source": "jpn",
+      "target": "nor",
+      "weight": 68
+    },
+    {
+      "source": "jpn",
+      "target": "pol",
+      "weight": 101
+    },
+    {
+      "source": "jpn",
+      "target": "por",
+      "weight": 72
+    },
+    {
+      "source": "jpn",
+      "target": "rum",
+      "weight": 50
+    },
+    {
+      "source": "jpn",
+      "target": "rus",
+      "weight": 98
+    },
+    {
+      "source": "jpn",
+      "target": "slo",
+      "weight": 50
+    },
+    {
+      "source": "jpn",
+      "target": "slv",
+      "weight": 69
+    },
+    {
+      "source": "jpn",
+      "target": "spa",
+      "weight": 123
+    },
+    {
+      "source": "jpn",
+      "target": "srp",
+      "weight": 68
+    },
+    {
+      "source": "jpn",
+      "target": "swe",
+      "weight": 72
+    },
+    {
+      "source": "jpn",
+      "target": "tur",
+      "weight": 78
+    },
+    {
+      "source": "kor",
+      "target": "pol",
+      "weight": 67
+    },
+    {
+      "source": "kor",
+      "target": "por",
+      "weight": 50
+    },
+    {
+      "source": "kor",
+      "target": "rus",
+      "weight": 58
+    },
+    {
+      "source": "kor",
+      "target": "spa",
+      "weight": 71
+    },
+    {
+      "source": "kor",
+      "target": "tur",
+      "weight": 61
+    },
+    {
+      "source": "lav",
+      "target": "lit",
+      "weight": 81
+    },
+    {
+      "source": "lav",
+      "target": "nor",
+      "weight": 61
+    },
+    {
+      "source": "lav",
+      "target": "pol",
+      "weight": 103
+    },
+    {
+      "source": "lav",
+      "target": "por",
+      "weight": 67
+    },
+    {
+      "source": "lav",
+      "target": "rum",
+      "weight": 60
+    },
+    {
+      "source": "lav",
+      "target": "rus",
+      "weight": 89
+    },
+    {
+      "source": "lav",
+      "target": "slo",
+      "weight": 56
+    },
+    {
+      "source": "lav",
+      "target": "slv",
+      "weight": 64
+    },
+    {
+      "source": "lav",
+      "target": "spa",
+      "weight": 107
+    },
+    {
+      "source": "lav",
+      "target": "srp",
+      "weight": 66
+    },
+    {
+      "source": "lav",
+      "target": "swe",
+      "weight": 66
+    },
+    {
+      "source": "lav",
+      "target": "tur",
+      "weight": 71
+    },
+    {
+      "source": "lit",
+      "target": "nor",
+      "weight": 85
+    },
+    {
+      "source": "lit",
+      "target": "pol",
+      "weight": 125
+    },
+    {
+      "source": "lit",
+      "target": "por",
+      "weight": 86
+    },
+    {
+      "source": "lit",
+      "target": "rum",
+      "weight": 68
+    },
+    {
+      "source": "lit",
+      "target": "rus",
+      "weight": 116
+    },
+    {
+      "source": "lit",
+      "target": "slo",
+      "weight": 69
+    },
+    {
+      "source": "lit",
+      "target": "slv",
+      "weight": 80
+    },
+    {
+      "source": "lit",
+      "target": "spa",
+      "weight": 142
+    },
+    {
+      "source": "lit",
+      "target": "srp",
+      "weight": 86
+    },
+    {
+      "source": "lit",
+      "target": "swe",
+      "weight": 86
+    },
+    {
+      "source": "lit",
+      "target": "tur",
+      "weight": 89
+    },
+    {
+      "source": "mac",
+      "target": "pol",
+      "weight": 50
+    },
+    {
+      "source": "mac",
+      "target": "spa",
+      "weight": 52
+    },
+    {
+      "source": "nor",
+      "target": "pol",
+      "weight": 133
+    },
+    {
+      "source": "nor",
+      "target": "por",
+      "weight": 111
+    },
+    {
+      "source": "nor",
+      "target": "rum",
+      "weight": 80
+    },
+    {
+      "source": "nor",
+      "target": "rus",
+      "weight": 113
+    },
+    {
+      "source": "nor",
+      "target": "slo",
+      "weight": 67
+    },
+    {
+      "source": "nor",
+      "target": "slv",
+      "weight": 98
+    },
+    {
+      "source": "nor",
+      "target": "spa",
+      "weight": 169
+    },
+    {
+      "source": "nor",
+      "target": "srp",
+      "weight": 106
+    },
+    {
+      "source": "nor",
+      "target": "swe",
+      "weight": 129
+    },
+    {
+      "source": "nor",
+      "target": "tur",
+      "weight": 102
+    },
+    {
+      "source": "pol",
+      "target": "por",
+      "weight": 140
+    },
+    {
+      "source": "pol",
+      "target": "rum",
+      "weight": 109
+    },
+    {
+      "source": "pol",
+      "target": "rus",
+      "weight": 208
+    },
+    {
+      "source": "pol",
+      "target": "slo",
+      "weight": 105
+    },
+    {
+      "source": "pol",
+      "target": "slv",
+      "weight": 132
+    },
+    {
+      "source": "pol",
+      "target": "spa",
+      "weight": 288
+    },
+    {
+      "source": "pol",
+      "target": "srp",
+      "weight": 136
+    },
+    {
+      "source": "pol",
+      "target": "swe",
+      "weight": 147
+    },
+    {
+      "source": "pol",
+      "target": "tur",
+      "weight": 165
+    },
+    {
+      "source": "por",
+      "target": "rum",
+      "weight": 84
+    },
+    {
+      "source": "por",
+      "target": "rus",
+      "weight": 125
+    },
+    {
+      "source": "por",
+      "target": "slo",
+      "weight": 75
+    },
+    {
+      "source": "por",
+      "target": "slv",
+      "weight": 95
+    },
+    {
+      "source": "por",
+      "target": "spa",
+      "weight": 184
+    },
+    {
+      "source": "por",
+      "target": "srp",
+      "weight": 106
+    },
+    {
+      "source": "por",
+      "target": "swe",
+      "weight": 121
+    },
+    {
+      "source": "por",
+      "target": "tur",
+      "weight": 110
+    },
+    {
+      "source": "rum",
+      "target": "rus",
+      "weight": 92
+    },
+    {
+      "source": "rum",
+      "target": "slo",
+      "weight": 65
+    },
+    {
+      "source": "rum",
+      "target": "slv",
+      "weight": 65
+    },
+    {
+      "source": "rum",
+      "target": "spa",
+      "weight": 127
+    },
+    {
+      "source": "rum",
+      "target": "srp",
+      "weight": 79
+    },
+    {
+      "source": "rum",
+      "target": "swe",
+      "weight": 79
+    },
+    {
+      "source": "rum",
+      "target": "tur",
+      "weight": 83
+    },
+    {
+      "source": "rus",
+      "target": "slo",
+      "weight": 82
+    },
+    {
+      "source": "rus",
+      "target": "slv",
+      "weight": 114
+    },
+    {
+      "source": "rus",
+      "target": "spa",
+      "weight": 234
+    },
+    {
+      "source": "rus",
+      "target": "srp",
+      "weight": 112
+    },
+    {
+      "source": "rus",
+      "target": "swe",
+      "weight": 122
+    },
+    {
+      "source": "rus",
+      "target": "tur",
+      "weight": 143
+    },
+    {
+      "source": "slo",
+      "target": "slv",
+      "weight": 64
+    },
+    {
+      "source": "slo",
+      "target": "spa",
+      "weight": 115
+    },
+    {
+      "source": "slo",
+      "target": "srp",
+      "weight": 74
+    },
+    {
+      "source": "slo",
+      "target": "swe",
+      "weight": 71
+    },
+    {
+      "source": "slo",
+      "target": "tur",
+      "weight": 79
+    },
+    {
+      "source": "slv",
+      "target": "spa",
+      "weight": 160
+    },
+    {
+      "source": "slv",
+      "target": "srp",
+      "weight": 98
+    },
+    {
+      "source": "slv",
+      "target": "swe",
+      "weight": 92
+    },
+    {
+      "source": "slv",
+      "target": "tur",
+      "weight": 101
+    },
+    {
+      "source": "spa",
+      "target": "srp",
+      "weight": 165
+    },
+    {
+      "source": "spa",
+      "target": "swe",
+      "weight": 196
+    },
+    {
+      "source": "spa",
+      "target": "tur",
+      "weight": 193
+    },
+    {
+      "source": "spa",
+      "target": "ukr",
+      "weight": 53
+    },
+    {
+      "source": "srp",
+      "target": "swe",
+      "weight": 106
+    },
+    {
+      "source": "srp",
+      "target": "tur",
+      "weight": 106
+    },
+    {
+      "source": "swe",
+      "target": "tur",
+      "weight": 121
+    }
+  ]
+}
